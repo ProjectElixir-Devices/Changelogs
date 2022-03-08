@@ -2,6 +2,63 @@
 
 # Project Elixir All Version Update Changelogs
 
+### v1.5 Batch-1 (08.03.2022)
+* Added Face Unlock into System
+* Added Applocker into System
+* Settings: Revamped Setting page
+* Essence: Add navbar layout inversion tuning 
+* Essence: Allow changing monet settings
+* Essence: Toggle for Black theme
+* Essence: bring back old style mobile data indicators
+* Essence: Add Qs & Themes Section
+* Essence: Allow disabling ripple effect on unlock 
+* SystemUI: Android 13 inspired Media Output Picker
+* SystemUI: Use same background color for Internet and Screen record
+* SystemUI: Android 12L style Internet and Screenrecord dialogs 
+* Settings: Implement cutout force full screen 
+* Settings: allow changing the length of gesture navbar
+* Settings: Add preference for one shot auto-brightness 
+* Seekbars: Redesign seekbar
+* SystemUI: Integrate Google Lens into Screenshot UI
+* SystemUI: Adapt screenrecord dialog switches UI to 12
+* Settings: Move blur toggle to Display options.
+* Settings: Enable blur on Bluetooth and Media control panel
+* Settings: Added missing icons in network and internet menu
+* Settings: Add hotspot setting to allow VPN upstreams
+* PixelProps: Set Pixel 5 as spoof for more Google apps 
+* SystemUI: Use AndroidSystemBlur styled Blurs
+* Screenrecord: Add an option to record for longer 
+* Screenrecord: Make low quality bitrate scalable per device
+* Screenrecord: add blinking stop dot and low quality options
+* Screenrecord: add blinking stop dot and low quality options
+* PixelPropsUtils: Bypass hw attestation on newer pixel devices
+* Fix edit button in screenshot share activity 
+* Settings: Restore AOSP fingerprint enrolling layouts
+* Restore AOSP PeakRefreshRatePreferenceController
+* Import some UI sounds from Samsung S21 FE
+* Remove navbar inset for UDFPS BiometricPrompt 
+* zygote: Enable USAP by default for S.
+* base: Show USB icon in ADB notification
+* panels: Add Wifi panel
+* panels: Add Mobile Data panel
+* panels: Add Bluetooth panel 
+* Settings: Improve code for time spent in app
+* Settings: Move Extra Dim feature to Display 
+* Essence: UI minor Improvement and adjustments
+* vendor: Disable blur on app-launch
+* vendor: Disable Async MTE on System Server
+* vendor: Fix NFC animation background 
+* ven/aosp: Bump to v1.5 and Update wall 
+* vendor: tasks: Support copying kernel modules out to /vendor_dlkm.
+* apns: Add Unifi
+* vendor: Enable blur by default.
+* vendor: soong: Add camera_needs_client_info_lib
+* overlay: core: Use accent color for progress bar background 
+* Add config for Repainter integration service 
+* Much faster overall system response and animations processing
+* Hell lot of changes and optimization 
+* Improved performance and stability
+
 ### v1.4 (10.02.2022)
 * Merged latest February Security patch Release 29
 * CTS Passes by default and banking apps are working fine
