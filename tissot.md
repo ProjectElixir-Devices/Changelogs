@@ -1,3 +1,28 @@
+## 1.5 Tissot
+
+- msm8953-common: libshim: shim libgui's surface constructor 
+- msm8953-common: sepolicy: allow hal_wifi write to proc_net
+- msm8953-common: sepolicy: Allow audio HAL access sysfs 
+- msm8953-common: sepolicy: Fix slmadapter denials 
+- msm8953-common: sepolicy: Address surfaceflinger denial
+- msm8953-common: sepolicy: Address iorap denials 
+- msm8953-common: sepolicy: Fixup qcril rule 
+- msm8953-common: sepolicy: Address camera denials 
+- msm8953-common: sepolicy: address sensor denials 
+- msm8953-common: parts: Fix missing ambient display string
+- msm8953-common: Don't warn user about FC in Google TTS 
+- msm8953-common: ship cgroups.json and task_profiles.json in vendor 
+- msm8953-common: Remove FM Tuner from audio input devices 
+- msm8953-common: Remove references for antradio_library
+- msm8953-common: sepolicy: Address init denial 
+- msm8953-common: Remove packages at build time
+- Much faster overall system response and animations processing
+- Hell lot of changes and optimization 
+- Improved performance and stability
+- Enforcing Build
+- CTS passes by default
+- Misc Changes and Fixes
+
 ## 1.3 Tissot
 
 - Latest January Patch r27 Merged
