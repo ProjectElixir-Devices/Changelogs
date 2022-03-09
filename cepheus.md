@@ -1,3 +1,15 @@
+## 1.5 Cepheus
+
+• CTS Passes by default
+• Introducing our New OTA Updater
+• parts: import doze icons from PixelDoze
+• parts: Introduce raise to wake gesture 
+• parts: Allow to wake the screen instead of pulsing
+• parts: Inject doze preference through ia
+• Import additional Audio FX modules
+• props: add face unlock to aux list
+• Much more
+
 ## 1.4 Cepheus
 
 • Merged Android 12 Release 29 to system
