@@ -1,3 +1,13 @@
+## 1.5 Miatoll
+- Feb security patch
+- Enforcing Build
+- Address some denials
+- Kernel upstreamed to 4.14.269
+- remove caf input boost
+- limit screen recordr to 60fps
+- sync pinner service configs with sunfish_
+
+
 ## 1.4 Miatoll
 - February security patch
 - Enforcing build
