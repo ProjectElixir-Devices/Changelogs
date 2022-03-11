@@ -29,5 +29,18 @@
 - set persist.sys.sf.color_mode to 9 instead to 12 
 - Enabled LimitedAlpha and FadingMarquee for have UI more Smooth.
 
+## 1.5 Alioth
+- Switch to QTI BT 
+- Full cleanup and rework imported blobs from Miui 13.0.3.0 and 23.02.2022
+- Use HintManager for HWUI
+- Build more libstagefright packages
+- Introduced Battery Friendly PocketMode 
+- Updated GcamGo To 2.5 Greatness Special
+- Major Fixes on NextKernel 
+- Fixed Ok Google not working on display off
+- Fixed issue with Third Party Screen Recording Apps
+- Added increase touch response
+
+
 
 
