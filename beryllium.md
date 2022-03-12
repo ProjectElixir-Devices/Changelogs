@@ -1,7 +1,7 @@
-## 1.3 Beryllium
+## 1.5 Beryllium
 
-- Redfin Dec FP
-- Update to Raven Jan FP
-- Re-arrange Hide Notch Rounded Corners
-- Updated Misc Blobs
-- Updated to Lineage Kernel 4.9.297 
+- Update to Redfin Feb FP
+- Switched back to QTI BT Stack
+- Addressed various sepolicy denials
+- Added Quick Tap
+- Updated to Lineage Kernel 4.9.304

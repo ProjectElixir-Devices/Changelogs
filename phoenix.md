@@ -39,3 +39,20 @@
 - Fixed USB tethering and Otg related issues
 - props: Disable QTI perf lock usage in camera HAL
 - Fixed Audio cracking issues ( while using Viper or Dolby )
+
+## 1.5 Phoenix
+- phoenix: props: Disable QTI perf lock usage in camera HAL
+- phoenix: parts: Adapt doze to S style
+- phoenix: Drop sepolicy violations for S
+- phoenix: sepolicy: Implement extension for kernelspace battery saver
+- phoenix: do not build atrace hal
+- phoenix: fingerprint: Add on show\hide udfps overlays
+- phoenix: fingerprint: Uprev to 2.3 HAL
+- phoenix: fingerprint: Clang-format and clean up the code
+- phoenix: Drop unnecessary fqnames from manifests
+- phoenix: sepolicy: ADPF: Allow PowerHAL to set sched
+- phoenix: sepolicy: Allow PowerHAL to change sched for ADPF
+- phoenix: power-libperfmgr: Properly handle sustained performance mode
+- phoenix: rootdir: Configure dynamic schedtune boost
+- phoenix: rootdir: Set schedtune.boost to 1
+- phoenix: rootdir: Set swappiness to 100

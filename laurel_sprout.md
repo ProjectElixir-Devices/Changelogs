@@ -1,8 +1,6 @@
-## 1.4 Laurel Sprout
+## 1.5 Laurel Sprout
 
-- Switched to Selinux Enforcing.
-- Fixed bt calling issue.
-- Switch to raven February FP.
+- No major changes.
 
 
 Notes:

@@ -1,3 +1,32 @@
+## 1.5 Violet
+- Updated Display & Graphics blobs to LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0
+- Updated System blobs to LA.QSSI.12.0.r1-05600-QSSI.0
+- Updated Bluetooth blobs from davinci-user 11 RKQ1.200826.002 V12.5.2.0.RFJCNXM release-keys
+- Updated stock blobs from VIOLETINGlobal_V12.5.1.0.QFHINXM
+- Updated GPS blobs from LA.UM.9.1.r1-10900-SMxxx0.0
+- Disabled VSync for CPU rendered apps 
+- Disabled TTS force stop warning 
+- Enabled haptic text cursor
+- Removed renderscript from pinner services
+- Removed mobile plan settings
+- Updated QTI Data Factory version to v2.3 
+- Switched to c2 media codecs (Updated from sunfish)
+- Switched back to QTI BT Stack
+- Tuned power hint
+- Addressed various sepolicy denials
+- Fixed carrier video calling
+- Added Quick Tap
+- Import Google changes on DEC7 Volume
+- Fixed Encryption
+- Fixed a distrubing sound at very low volume(Wired Earphones)
+- Boost audio output a bit
+- Disabled the force stop warning shown in setup wizard
+- Fixed carrier video calling
+- Updated several blobs
+- Addressed some denials
+- Disable blur on app launch
+- Disable prevent Accidental Wake-up and pocket mode
+
 ## 1.2 Violet
 
 - Updated Graphics blobs from LA.UM.9.1.r1-10900-SMxxx0.0

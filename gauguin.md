@@ -46,6 +46,13 @@
 - Used device's default dimensions
 - Reduced LED max brightness
 
+## 1.5 Gauguin
+Disable UI touch sound by default
+Disable bluetooth by default
+Added Notch bar killer
+Added Quick tap
+Enable seamless transfer
+
 Notes:
 
 - I heard that some users facing the UI going black after notification popping, well its from Google's side. So please dont ask fix about that.(Fixed in v1.3)
