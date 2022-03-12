@@ -20,7 +20,7 @@
 
 ## 1.4 Tulip
 
-- Security Patch : 05th Fed 2022
+- Security Patch : 05th Feb 2022
 - Fixed Color flickers common bug.
 - Fixed UI lags & App opening animation lag.
 - Play Store Certification.
@@ -28,3 +28,13 @@
 - No Recovery stuck issue for SDcard users.
 - Bluetooth Devices working fine.
 - Some minor improvements.
+
+## 1.5 Tulip
+
+- Security Patch : 05th March 2022
+- Fixed Volte for some users.
+- Fixed Haptics (Vibration) for some users.
+- Nomore Google TTS crash warnings on first boot.
+- Play Store Certification.
+- Safetynet passed without root.
+- Some improvements under the hood.
