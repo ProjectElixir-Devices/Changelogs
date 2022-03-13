@@ -1,3 +1,7 @@
+## 1.5 Vayu
+
+ - No device changes
+
 ## 1.4 Vayu
 
  - Add support for AUX camers in Open Camera App
