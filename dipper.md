@@ -10,3 +10,13 @@
 - sdm845-common: Added Color Modes
 - sdm845-common: Switch to QTI Bluetooth Stack
 - sdm485-common: Bumped to Keymaster 4.0 HIDL
+
+## 1.5 Dipper
+
+- dipper: Added F2FS Support
+- dipper: Adjust Status-bar Icons
+- sdm845-common: Added Google Battery HAL
+- sdm845-common: Improve Performance & Stability
+- sdm845-common: Tune-up Foreground CPU-sets
+- sdm845-common: Improve UI Smoothness
+- sdm845-common: Import APN's Configs
