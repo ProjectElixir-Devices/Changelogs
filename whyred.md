@@ -1,3 +1,16 @@
+## 1.5 Whyred
+
+• Tweak AutoBrightness functionality to work efficiently 
+
+• Cleand up some blobs
+
+• Speed up animatons little bit for smoother experience
+
+• Fixed warning regarding Speech Services on first boot
+
+• Improves system stability and performance
+
+
 ## 1.4 Whyred
 
 • Upstreamed Nexus Kernel To Latest Linux 4.4.302-EOL
