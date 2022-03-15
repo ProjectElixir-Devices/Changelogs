@@ -1,3 +1,10 @@
+## 1.5 Sweet
+- Updated blobs from MIUI 13 v13.0.2.0 Global
+- Fixed OK Google
+- Updated GPS to LA.UM.9.1.r1-11500-SMxxx0.0
+- Fixed OTA updates
+- Switch to Sleepy Kernel
+
 ## 1.4 Sweet
 
 - initial build by me (zaidkhan0997)
