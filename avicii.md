@@ -1,3 +1,3 @@
-## 1.5 Alioth
+## 1.5 Avicii
 
 • Initial Release Official Build
