@@ -1,3 +1,11 @@
+## 1.5 crownlte
++ Kernel: Switched to enforcing
++ Fixed weak vibration issue
++ Switched to AIDL power-libperfmgr HAL
++ Added Dolby Atmos and settings
++ Updated to 1.3 USB HAL
++ Removed sRGB toggle
+
 ## 1.4 crownlte
 
 + Kernel: Upstreamed to 4.9.299.
