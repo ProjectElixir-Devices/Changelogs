@@ -1,3 +1,19 @@
+## 1.5 Vince
+- February Security Patch
+- Drop lineage overlay
+- Drop antradio_library
+- Downgrade IRadioConfig to 1.0
+- Build vendor variant of vendor.display.config@1.0
+- Build libdisplayconfig.qti from source
+- Update IDisplayConfig to 2.0 version
+- Show ColorModes from config_availableColorModes
+- Address init denial
+- Update boot time error
+- Add support for Face Unlock
+- Update Redfin FP to March
+- Switch to Cosmic clang
+- Upstream kernel to 4.9.307
+
 ## 1.4 Vince
 - February Security Patch
 - Set vendor.post_boot.parsed=1
