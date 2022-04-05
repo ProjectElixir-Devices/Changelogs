@@ -1,8 +1,24 @@
-![Changelog](https://i.imgur.com/7GBBlwC.jpg)
+![Changelog](https://i.imgur.com/HkvVB5q.jpg)
 
 # Project Elixir All Version Update Changelogs
 
-### v1.5 Batch-1 (08.03.2022)
+### v1.6 (06.04.2022)
+* Full Rebase our repos on Android 12.1 
+* Merged latest April Security patch  
+* Added support for call recorder 
+* CTS Passes by default and banking apps are working fine
+* Switch back to stock settings like pixel 
+* Essence: Cleanup and fixes 
+* Faceunlock and Applock Added on 12.1 Rebase Source 
+* Port changes from SystemUIGoogle 
+* SystemUIGoogle: Import dagger dependencies 
+* vendor: Bump to v1.6 and Update wall  
+* gapps: Update from SP2A.220305.013.A3 
+* Much faster overall system response and animations processing
+* Hell lot of changes and optimization 
+* Improved performance and stability
+
+### v1.5 (08.03.2022)
 * Added Face Unlock into System
 * Added Applocker into System
 * Settings: Revamped Setting page
