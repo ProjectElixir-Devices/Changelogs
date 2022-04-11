@@ -1,3 +1,25 @@
+## v1.6 X00T/D
+
+```
+- Updated FP to Raven April
+- Dropped userspace LMKD
+- Rollbacks to stock charger blob
+- Updated SurfaceFlinger pin on all targets
+- Some misc improvements and changes
+- Fixed App Data usage stats & upload speed indicator
+- Audio: allocate dedicated pcm node for in call recording
+- Audio: Use qcom implementation for sw effects
+- Audio: Add new flag name to compress offload case
+- Updated Graphics EGL blobs from taimen
+- rootdir: Create a cpuset for camera-specific processes
+- rootdir: Remove CPUBW min freq setting
+- Switched from Schedtune to UClamp
+- Switch back to Vulkan rendering
+- LV and Non FBE build
+- Use latest Orfox recovery
+- Some misc improvements and fixes
+```
+
 ## v1.5 X00T/D
 
 ```
