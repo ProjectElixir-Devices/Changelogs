@@ -1,3 +1,7 @@
+## 1.6 Tissot
+- None
+- Clean flash is Compulsory
+
 ## 1.5 Tissot
 
 - msm8953-common: libshim: shim libgui's surface constructor 
