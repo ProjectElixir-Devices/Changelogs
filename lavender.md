@@ -1,3 +1,7 @@
+## 1.6 Lavender
+- Improved performance and stability
+- Misc changes
+
 ## 1.5 Lavender
 
 - User Build + L1
