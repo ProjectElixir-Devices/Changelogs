@@ -1,3 +1,33 @@
+## 1.6 Sweet/Sweetin
+- Sync main display cutout from stock
+- Set an overlay to indicate power button FPS
+- Disable slow blur effect to avoid laggish blur effect
+- Add night display color temperature calibration from Coral
+- Add KeyHandler for side-mounted fingerprint key
+- overlay: Set physical button/sensor locations
+- Define OEM fast charge sysfs node
+- decrease status bar top padding value
+- Add front-facing camera protection
+- devicesettings: Fix "dirac_hifi_enable_title" string
+- Reduce screenshot delay to 0
+- Configure side fingerprint sensor properties
+- Nuke CutoutRingService
+- Expose aux camera globally
+- Configure side fingerprint sensor properties
+- Allow every app to read camera props
+- Disable QTI perf lock usage in camera HAL
+- Add dirac QS tile
+- Address some sepolicy denials
+- Introduce haptic feedback level adjustment
+- Add MiSound scenes
+- Improve Xiaomi Parts icons
+- Add KCAL
+- Update build fingerprint from Raven -SP2A.220405.004/8233519 For April SPL
+- Introduce FPS counter QS Tile
+- Update side Fingerprint location
+- Update s5kgw3 camera blobs from sweetin miui13 A12 beta release
+update vendor security patch level from (sweet-user-12-SKQ1.210908.001-V13.0.2.0.SKFMIXM-release-keys)
+
 ## 1.5 Sweet
 - Updated blobs from MIUI 13 v13.0.2.0 Global
 - Fixed OK Google
