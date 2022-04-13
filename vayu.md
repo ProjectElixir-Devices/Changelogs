@@ -1,3 +1,8 @@
+## 1.6 Vayu HOTFIX 
+ - Adapt fingerprint overalys for Android 12.1 
+ - Fix Double Tap to Wake 
+ - Add Device specific settings AKA Xiaomi parts 
+
 ## 1.6 Vayu
 
  - Nuke Adaptive charging  - Add call recording to Google Phone app
