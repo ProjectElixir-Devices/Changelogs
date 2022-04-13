@@ -1,3 +1,13 @@
+## 1.6 Violet
+- Clean Flash Compulsory & dont use OTA for this update
+- Switched to Qcom sound effects
+- Switched back to stock volume values (Fixes audio distortion)
+- Apply a boost after fp is authenticated (Fingerprint)
+- Added ANX Camera as default camera
+- Improved performance and stability 
+- Misc changes and fixes
+
+
 ## 1.5 Violet
 - Updated Display & Graphics blobs to LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0
 - Updated System blobs to LA.QSSI.12.0.r1-05600-QSSI.0

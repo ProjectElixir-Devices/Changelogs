@@ -1,5 +1,47 @@
-## 1.3 X00T/D
+## v1.6 X00T/D
 
+```
+- Updated FP to Raven April
+- Dropped userspace LMKD
+- Rollbacks to stock charger blob
+- Updated SurfaceFlinger pin on all targets
+- Some misc improvements and changes
+- Fixed App Data usage stats & upload speed indicator
+- Audio: allocate dedicated pcm node for in call recording
+- Audio: Use qcom implementation for sw effects
+- Audio: Add new flag name to compress offload case
+- Updated Graphics EGL blobs from taimen
+- rootdir: Create a cpuset for camera-specific processes
+- rootdir: Remove CPUBW min freq setting
+- Switched from Schedtune to UClamp
+- Switch back to Vulkan rendering
+- LV and Non FBE build
+- Use latest Orfox recovery
+- Some misc improvements and fixes
+```
+
+## v1.5 X00T/D
+
+```
+- Used speed tuning for performance critical applications
+- Added memory optimizations
+- Disabled camera perflock
+- Audio: Removed surround recording support from audio policy config xml
+- Audio: Added built-in/Back mic and remove TelePhony Rx from primary input
+- Updated media codecs from LA.UM.9.2.r1-03700-SDMxx0.0
+- Nuked Zenparts
+- Added touchscreen gestures HIDL HAL
+- Fixed sepolicy denials
+- Switched to Vulkan UI renderer
+- Using upstreamed 4.4.302 kernel
+- LV and Non FBE build
+- Use latest Orfox recovery
+- Some misc improvements and changes
+```
+
+## v1.3 X00T/D
+
+```
 - Jan ASB build
 - Switched to AOSP WFD
 - Cleanedup unused blobs
@@ -14,12 +56,14 @@
 - LV and Non FBE build
 - Use latest Orfox recovery
 - Some misc improvements
+```
 
+## v1.2 X00T/D
 
-## 1.2 X00T/D
-
+```
 - Updated audio, media blobs from LA.UM.9.2.r1-03500-SDMxx0.0
 - Updated thermal blobs from LA.UM.9.2.r1-03500-SDMxx0.0
 - SELinux status is Enforcing
 - SafetyNet passes by default
 - Using 4.4 kernel
+```
