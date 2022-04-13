@@ -51,3 +51,14 @@
 
 # 1.5 r5x
 - Initial release from my side
+
+# 1.6 r5x
+- Improved stuffs for better charging
+
+- Inline Trashed .274
+
+- Security Patch : 05th Apr 2022
+
+- Improved performance and stability
+
+- Misc changes
