@@ -56,3 +56,10 @@
 - phoenix: rootdir: Configure dynamic schedtune boost
 - phoenix: rootdir: Set schedtune.boost to 1
 - phoenix: rootdir: Set swappiness to 100
+
+## 1.6 Phoenix
+- fingerprint: apply a boost after fp is authenticated
+- parts: Introduce refresh rate tile
+- sepolicy: Allow kernel to access /data/per_boot/zram_swap
+- sepolicy: Allow toolbox to rm -rf /data/per_boot
+- sepolicy: Allow ioctl to zram_swap for performance
