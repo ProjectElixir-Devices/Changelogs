@@ -53,6 +53,9 @@ Added Notch bar killer
 Added Quick tap
 Enable seamless transfer
 
+## 1.6 Gauguin
+None
+
 Notes:
 
 - I heard that some users facing the UI going black after notification popping, well its from Google's side. So please dont ask fix about that.(Fixed in v1.3)
