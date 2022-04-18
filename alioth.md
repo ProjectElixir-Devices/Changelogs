@@ -41,6 +41,17 @@
 - Fixed issue with Third Party Screen Recording Apps
 - Added increase touch response
 
+## 1.6 Alioth
+Switched Again to N0kernel
+Removed GcamGo for some issue and let users decide the cam
+Disable Async MTE on system server
+Removed IO read_ahead_kb tune 
+Set readahed_size_kb to system,data,vendor,product,system_ext to avoid memory pressure
+Updated Adreno Graphics Blobs to v@615_v2 
+Fixed Some Issues with drivers Vulkan
+Disable unspecialized app process pool 
+
+
 
 
 
