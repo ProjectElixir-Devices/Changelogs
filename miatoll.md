@@ -1,3 +1,16 @@
+## 1.6 Miatoll
+
+• Merged latest April Security patch
+
+• CTS Passes by default and banking apps are working fine
+
+• kernel upstreamed to 4.14.275
+
+• Added support for ANX CAM
+
+
+
+
 ## 1.5 Miatoll
 - Feb security patch
 - Enforcing Build
