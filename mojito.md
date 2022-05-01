@@ -1,3 +1,6 @@
+## 1.6 Mojito
+- No changes on Device side
+
 ## 1.5 Mojito
 
 - Fixed all the lags
