@@ -38,3 +38,13 @@
 - Play Store Certification.
 - Safetynet passed without root.
 - Some improvements under the hood.
+
+## 1.6 Tulip
+
+- Security Patch : 05th April 2022
+- Based on Android 12L.
+- Fixed Volte totally & tested.
+- Switched to GCamGo (better than snap).
+- Play Store Certification.
+- Safetynet passed without root.
+- Some improvements under the hood.
