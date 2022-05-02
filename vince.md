@@ -1,3 +1,8 @@
+## 1.6 Vince
+- April Security Patch
+- No device side changes
+- Upstream kernel to 4.9.312
+
 ## 1.5 Vince
 - February Security Patch
 - Drop lineage overlay
