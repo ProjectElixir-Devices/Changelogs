@@ -2,6 +2,33 @@
 
 # Project Elixir All Version Update Changelogs
 
+### v1.7 (11.05.2022)
+* Merged latest May 5 Security patch
+* Introduce high touch polling rate feature control 
+* Add support for per-app volume 
+* Add back increasing ring feature 
+* Configurable 0, 90, 180 and 270 degree rotation
+* SystemUI: Make the volume dialog expandable
+* SystemUI: Add AOD QS tile 
+* Settings: Revamped Setting page 
+* SystemUI: Add USB Tether tile 
+* Fixed Gesture Setting Crash
+* PixelPropsUtils: Update fingerprints to May 2022
+* SystemUI: Add AmbientDisplay tile
+* Settings: Introduce PUI iconpack
+* SystemUI: Add Sync tile 
+* SystemUI: Bringup statusbar icons tuner 
+* SystemUI: Add heads up tile
+* BatteryHealth: Add Battery Capacity info 
+* SystemUI: Add caffeine QS tile
+* Settings: PowerUsageSummary: open advanced usage on header click 
+* SystemUI: Add VPN to the icon blacklist in tuner
+* Settings: import illustrations from raven SP2A.220305.013.A3
+* Settings: Completely nuke Screen Saver function
+* Settings: Move Extra Dim feature to Display 
+* prebuilt: fix APN for Vodafone NL
+* Bump to v1.7 and Update wall
+
 ### v1.6 (06.04.2022)
 * Full Rebase our repos on Android 12.1 
 * Merged latest April Security patch  
