@@ -1,3 +1,16 @@
+## 1.7 Violet
+- violet: Enabled Battery health 
+- violet: parts: Implement Clear Speaker
+- violet: parts: Add icon for Clear Speaker 
+- violet: parts: Add headphones warning for clear speaker
+- violet: Decrease launch boost to 3sec (* 5s is just too much long plus battery drainer)
+- violet: audio: Increase In-call earpiece volume
+- violet: Redirect keycode 96 to CAMERA (* Required for fingerprint shutter in miui camera)
+- violet: Implement keyhandler for fingerprint shutter (* Prevents fp from triggering other events such as vibrate on long press)
+- violet: Set aaudio.mmap_policy into 1 (* Fixes audio in chrome with soundcloud, thanks to Duca from telegram for finding out fix)
+- Improved performance and stability 
+- Misc changes and fixes
+
 ## 1.6 Violet
 - Clean Flash Compulsory & dont use OTA for this update
 - Switched to Qcom sound effects
