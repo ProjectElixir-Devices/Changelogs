@@ -1,3 +1,18 @@
+## v1.7 X00T/D
+
+```
+- Updated FP to Raven May
+- Hide Magisk better for Banking Apps
+- Disabled ART debug and optimize dexpreopt 
+- Dropped soundtrigger HAL
+- Updated Graphics blobs from LA.UM.8.2.r1-07400-sdm660.0
+- Improved performance
+- LV and Non FBE build
+- Use latest Orfox recovery
+- Some misc improvements and fixes
+- CTS passed by default
+```
+
 ## v1.6 X00T/D
 
 ```
