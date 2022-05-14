@@ -1,3 +1,18 @@
+## 1.7 Juice
+
+- Imported MIUI offline charging animation
+- Fix deprecated power profile items
+- msm_irqbalance: Correct the arch_mem_timer interrupt
+- msm_irqbalance: Do not balance msm_drm and kgsl-3d0 IRQs
+- Workaround device props based on SKU
+- Add dalvik heap configuration for 4 & 6GB RAM
+- Sync surfaceflinger offset with crosshatch
+- Flatten APEXs for Performance
+- Enable iorapd tracing with perfetto
+- Decreased media volume steps
+- Shipped with 4.19.241 Guuji kernel
+- Compiled with AOSP clang 14.0.7
+
 ## 1.6 Juice
 
 - Improved I/O read-write speed
