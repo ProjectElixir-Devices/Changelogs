@@ -1,3 +1,23 @@
+## 1.7 Sweet/Sweetin
+- Switched to Arian's common tree
+- Updated blobs to MIUI V13.0.8.0.SKFEUXM
+- Update GPS from LA.UM.9.1.r1-11800-SMxxx0.0
+- Fixed aptX and aptX HD
+- Fixed IR blaster
+- Fixed issues with the status bar
+- Slightly increased the status bar height (to how it was on older builds)
+- Fixed some more issues with camera
+- Fixed the fingerprint wake-up animation
+- Fixed the low-mic issues that some people had using a few apps
+- Fixed WiFi Display (Miracast)
+- Fixed some issues with dirac
+- Improved vibrations
+- Removed HBM for now due to issues with brightness
+- Updated vibration patterns
+- Updated deprecated screen power items
+- Added a few missing blobs
+- Misc. fixes and changes
+
 ## 1.6 Sweet/Sweetin
 - Sync main display cutout from stock
 - Set an overlay to indicate power button FPS
