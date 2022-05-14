@@ -1,4 +1,4 @@
-## 1.6 Lavender
+## 1.7 Lavender
 - Improved performance and stability
 - Misc changes
 
