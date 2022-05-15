@@ -1,12 +1,13 @@
-## 1.6 Laurel Sprout
+## 1.7 Laurel Sprout
 
-- Initial A12L build.
-- Safety Net passing by default.
-- Tried to fix voip call issue.
+- Fixed wide angle camera crash.
+- Improved boot time.
+- Tried to improve gps accuracy.
+- Mic is back to like it was in 1.5 .
+- Removed Xiaomi parts.
 
 Notes:
 - Encryption disabled
-- Clean Flash Compulsory
 - Safetynet passes by default
 
 
