@@ -42,15 +42,28 @@
 - Added increase touch response
 
 ## 1.6 Alioth
-Switched Again to N0kernel
-Removed GcamGo for some issue and let users decide the cam
-Disable Async MTE on system server
-Removed IO read_ahead_kb tune 
-Set readahed_size_kb to system,data,vendor,product,system_ext to avoid memory pressure
-Updated Adreno Graphics Blobs to v@615_v2 
-Fixed Some Issues with drivers Vulkan
-Disable unspecialized app process pool 
+- Switched Again to N0kernel
+- Removed GcamGo for some issue and let users decide the cam
+- Disable Async MTE on system server
+- Removed IO read_ahead_kb tune 
+- Set readahed_size_kb to system,data,vendor,product,system_ext to avoid memory pressure
+- Updated Adreno Graphics Blobs to v@615_v2 
+- Fixed Some Issues with drivers Vulkan
+- Disable unspecialized app process pool 
 
+## 1.7 Alioth
+- parts: Bump target SDK version to 30 
+- Remove no-op TARGET_KERNEL_ARCH flag
+- Rootdir: Override imsdatadaemon
+- Fix Some sepolicy denials
+- Fix High Jitter issue
+- Re-Enable Zygote Preforking
+- Switch to AOSP WFD
+- Set max fling ticks per sec to 24
+- Don't send interaction hint for unnecessary events 
+- Default to 0 compression ratio
+- use Cloudflare DNS as the default fallback
+- limit direct share targets to reduce lag 
 
 
 
