@@ -1,3 +1,16 @@
+## 1.7 Miatoll
+
+ - May security patch
+ - Addressed camera denials
+ - updated target screen density
+ - Build camera libs
+ - Enabled NGA
+ - included Anx cam
+ - switch to skiagl threaded
+ - Enable IORAP feature
+ - Allow softwarecodecs work with gpu
+
+
 ## 1.6 Miatoll
 
 • Merged latest April Security patch
