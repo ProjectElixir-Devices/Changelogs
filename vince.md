@@ -1,4 +1,9 @@
 ## 1.6 Vince
+- May Security Patch
+- No device side changes
+- Upstream kernel to 4.9.314
+
+## 1.6 Vince
 - April Security Patch
 - No device side changes
 - Upstream kernel to 4.9.312
