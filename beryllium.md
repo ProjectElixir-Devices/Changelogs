@@ -1,7 +1,7 @@
-## 1.5 Beryllium
+## 1.7 Beryllium
 
-- Update to Redfin Feb FP
-- Switched back to QTI BT Stack
-- Addressed various sepolicy denials
-- Added Quick Tap
-- Updated to Lineage Kernel 4.9.304
+Improved Padding and rounded corners
+Uprev Fingerprint HAL v2.3
+Update WFD System Stack
+Added BatteryHealth Overlay
+Update Kernel to Latest Tag
