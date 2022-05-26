@@ -48,3 +48,13 @@
 - Play Store Certification.
 - Safetynet passed without root.
 - Some improvements under the hood.
+
+## 1.7 Tulip
+
+- Security Patch : 05th May 2022
+- Based on Android 12L.
+- Fixed Volte totally & tested.
+- Fix System Lags.
+- Play Store Certification.
+- Safetynet passed without root.
+- Some improvements under the hood.
