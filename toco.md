@@ -1,5 +1,28 @@
 ## 1.7 Toco
 
+- Add missing seccomp policy
+- Add Moto Dolby audio
+- Address various seolicy denials
+- Allow more cached apps in the background
+- Configure burnin shift interval
+- Convert overlays into RRO_Overlays
+- Copy verified boot permissions
+- Drop all component overrides
+- Drop useless volume_listener
+- Enable VoLTE and VoWIFI for all
+- Fix being stuck in bootanimation for users
+- Fix NFC denials
+- Include new gnss seccomp rules
+- Set valid and supported channel mask for earpiece
+- Ship VantomKernel v4.14.278
+- Some performance improvements
+- Switch to full IWLAN mode
+- Update GPS config for A12
+- Update Media configs from LA.UM.9.12.r1-13400.02-SMxx50.QSSI12.0
+- Update surfaceflinger props
+- Use QTI health implementation
+- Wi-Fi improvements
+
 - Improve haptic and vibe patterns
 - Switch to full_base_telephony
 - Include firmware by default
