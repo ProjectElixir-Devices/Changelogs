@@ -1,3 +1,16 @@
+## 1.8 Lavender
+- Merged latest June Security patch
+- Essence: Allow changing monet settings
+- Essence: Bring back Lockscreen media art & blur custs 
+- Essence: Bring back icon shapes, icon packs, fonts Customisation
+- Essence: Add signal and wifi icon style theming
+- Essence: Allow doubletap/longpress power to toggle torch 
+- Added Game space In Essence
+- Essence: Introduce OOS style notification clear all button
+- Essence: Added Media notification background customizations
+- Improved performance and stability
+- Misc changes
+
 ## 1.7 Lavender
 - Improved performance and stability
 - Misc changes
