@@ -1,3 +1,12 @@
+## 1.8 Violet
+- violet: Switched to Azure 09 June Build
+- violet: Full Rebase and cleanup
+- violet: Regular call noise issue resolved
+- violet: Enabled QUICK Tap
+- violet: audio: Fix low mic volume on voip
+- violet: Improved performance and stability
+- violet: Misc changes and fixes
+
 ## 1.7 Violet
 - violet: Enabled Battery health 
 - violet: parts: Implement Clear Speaker
