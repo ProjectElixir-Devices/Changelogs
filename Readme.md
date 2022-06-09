@@ -1,6 +1,39 @@
-![Changelog](https://i.imgur.com/HkvVB5q.jpg)
+![Changelog](https://i.imgur.com/nszqTV4.jpg)
 
 # Project Elixir All Version Update Changelogs
+
+### v1.8 (09.06.2022)
+* Merged latest June Security patch
+* Essence: Allow changing monet settings
+* Essence: Bring back Lockscreen media art & blur custs 
+* Essence: Bring back icon shapes, icon packs, fonts Customisation
+* Essence: Add signal and wifi icon style theming
+* Essence: Allow doubletap/longpress power to toggle torch 
+* Essence: Added Gamespace In Essence
+* Essence: Ignore window secure flags 
+* Essence: Introduce OOS style notification clear all button
+* Essence: Added Media notification background customizations
+* Essence: Bring back Udfps icons and Animations 
+* Settings: Add option to launch statusbar tuner
+* Settings: Add preference for one shot auto-brightness 
+* SystemUI: Show daily data usage in QS footer
+* fonts: Import more font overlays
+* SystemUI: Integrate Google Lens into Screenshot UI
+* BatteryService: add Turbo power charging support
+* BatteryService: Add VOOC charging support
+* BatteryService: Add Warp charging support
+* BatteryService: add dash charging support
+* BatteryService: Add SuperDart charging support 
+* MediaControlPanel: Get color from album art and apply to qs media player
+* Screenrecord: Allow to reduce 3 second screen record timer 
+* Privacy Indicators: Follow light/dark theme settings 
+* PixelPropUtils: Add GamesProps (fps unlocked)
+* Scramble pin: fix scrambling after 12L
+* Fixed location indicator popin frequently
+* Added Lawnchair and Teamfiles PixelLauncher MOD (OPTIONAL- Ask your maintainer)
+* Improved stability and performance
+* Misc changes and improvements 
+* Much More - Try by yourself 
 
 ### v1.7 (11.05.2022)
 * Merged latest May 5 Security patch
