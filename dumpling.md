@@ -13,3 +13,12 @@ Initial Release
 Known bug:
 - Oneplus Setting (will be fixed asap)
 - You inform us.
+
+## 1.8 Dumpling
+
+- Volume panel moved to left.
+- DotFix 6.2 included.
+- Prebuilt NGcam v1.8.
+- Dash Charging issue fixed.
+- June security patches.
+- Improved Performance & Stability.
