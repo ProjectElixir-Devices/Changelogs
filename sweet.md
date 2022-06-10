@@ -1,3 +1,17 @@
+## 1.8 Sweet/Sweetin
+- Updated blobs from MIUI V13.0.8.0.SKFMIXM
+- Update adreno from LA.UM.9.1.r1-11500.02-SMxxx0
+- Switched to EROFS (Enhanced read only file system)
+- Enabled F2FS compression (Needs a clean flash to work)
+- Added Moto Dolby with a tuned configuration from MIUI on the Redmi Note 10 Pro (Thanks helenius147)
+- Optimize native executables for Cortex-A76 CPU
+- Switch to dot product CPU variant
+- Improved vibrations
+- Nuked Vulkan (due to some heating/drain)
+- Fixed the remaining stuff in miuicamera like clone mode (thanks to Adarsh) P.S. slow-mo is still dead
+- Updated VantomKernel and PlayGround clang
+- Other misc. changes
+
 ## 1.7 Sweet/Sweetin
 - Switched to Arian's common tree
 - Updated blobs to MIUI V13.0.8.0.SKFEUXM
