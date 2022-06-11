@@ -1,8 +1,14 @@
 Device Changes 
 
-==========================================================================
-Project Elixir v1.7 
-==========================================================================
+
+# Project Elixir v1.8 
+
+ - Upstreamed Pixel Launcher MOD to v9.3 | [Changelogs](https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28)
+ - Upstream GCam to MGC_8.1.101_A9_GV2b | [Source](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl88/3/)
+ - Added Moto Dolby by ReiRyuki - [Source Code](https://github.com/reiryuki/Moto-Dolby-G-Pro-Magisk-Module)
+ - Add per-app refresh rate settings
+
+# Project Elixir v1.7 
 
 - Reduce time taken to boot into system (Faster boot times, usually took 10 seconds to move from splash screen to boot animation, reduced that delay to half)
  - Added modded Pixel Launcher as prebuilt home app
@@ -23,7 +29,6 @@ Project Elixir v1.7
    - Bug: Camera crashing when system's camera API is requested
    - Updated GCam to latest version (MGC_8.1.101_A9_GV1zfix). [Source](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/1/) 
    - [Recommended config](https://t.me/chandeler_s_chat/13930) 
-
  - Increase SWAP (zRAM) memory to improve system smoothness
  - Add QS tile to launch Thermal Profiles
  - Add FPS info QS tile
@@ -32,18 +37,13 @@ Project Elixir v1.7
    - Hand Wave to wake device
    - Wake device when out of pocket
 
-
-==========================================================================
-Project Elixir v1.6 HotFix 
-==========================================================================
+# Project Elixir v1.6 HotFix 
 
  - Adapt fingerprint overalys for Android 12.1 
  - Fix Double Tap to Wake 
  - Add Device specific settings AKA Xiaomi parts 
 
-==========================================================================
-Project Elixir v1.6 
-==========================================================================
+# Project Elixir v1.6 
 
  - Nuke Adaptive charging  - Add call recording to Google Phone app
  - Add back Camera2 
@@ -59,15 +59,11 @@ Project Elixir v1.6
    - Ported MiSound scenes 
  - Revert "combined signal icons in status bar" 
 
-==========================================================================
-Project Elixir v1.5 
-==========================================================================
+# Project Elixir v1.5 
 
  - No device changes
 
-==========================================================================
-Project Elixir v1.4 
-==========================================================================
+# Project Elixir v1.4 
 
  - Add support for AUX camers in Open Camera App
  - Nuke default camera app
