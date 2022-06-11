@@ -1,3 +1,20 @@
+## v1.8 X00T/D
+
+```
+- Updated FP to Raven june
+- Enabling 24 bit profile for audio capture
+- Kang sensors.ssc from Nokia PL2
+- Build graphics.allocator @3.0 and @4.0
+- Audio: Increase earpiece volume for calling
+- Added OpenGL ES and update Vulkan dEQP feature flags
+- Re-enabled some audio features
+- Refactored all audio props
+- CTS passed by default
+- Some misc improvements and fixes
+- ROM is NON-FBE & LV build
+```
+
+
 ## v1.7 X00T/D
 
 ```
