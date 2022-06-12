@@ -22,3 +22,8 @@ Known bug:
 - Dash Charging issue fixed.
 - June security patches.
 - Improved Performance & Stability.
+
+## 1.8 Dumpling [HOTFIX]
+
+- Gcam fix
+- Fast charging fix
