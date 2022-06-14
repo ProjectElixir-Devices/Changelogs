@@ -65,6 +65,13 @@
 - use Cloudflare DNS as the default fallback
 - limit direct share targets to reduce lag 
 
-
+## 1.8 Alioth
+- Fixed Crashing apps
+- Fixed Video Calling
+- Cleanup early_boot script
+- Enable NR by default on both slots
+- Dexpreopt SystemUI for speed 
+- Updated Adrano Graphics Blobs to v@0615_v3
+- Remove gc_urgent from powerhint *it is handle by N0kernel*
 
 
