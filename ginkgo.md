@@ -1,4 +1,15 @@
 
+## 1.8 Ginkgo
+- Security Patch : 05th Jun 2022
+- Update MIUI blobs to V12.5.2.0.RCOMIXM.
+- Upgrade adreno stack to WAIPIO 12200.
+- Update telephony from LA.QSSI.12.0.r1-06500.
+- Added XiaomiParts for Users Demand.
+- Added MiuiCamera for Users Demand.
+- Play Store Certification.
+- Safetynet passed without root.
+- Some improvements under the hood.
+
 ## 1.7 Ginkgo
 - Security Patch : 05th May 2022
 - Updated Blobs from leatest miui.
