@@ -1,3 +1,22 @@
+## 1.8 Miatoll
+
+- June security patch
+- Added xiaomi parts
+- Added dirac sound enhancer
+- shipped with ANX cam
+- Switch to SkiaGL Threaded
+- Adjust the fingerprint sensor location
+- Allow softwarecodecs work with gpu
+- Remove obsolete debug.sf.disable_backpressure property
+- Added Mi sound scenes
+- import vibration pattern from Davinci
+- Turn on support of multiple vibration intensities
+- Enable haptic text cursor
+- Disable client composition cache
+- improved perfomance and stability
+
+
+
 ## 1.7 Miatoll
 
  - May security patch
