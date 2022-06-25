@@ -1,1 +1,3 @@
-- Inital Release
+- Added OnePlus Settings
+- Fixed Alert Slider
+- Fixed Many Known bugs
