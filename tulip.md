@@ -58,3 +58,13 @@
 - Play Store Certification.
 - Safetynet passed without root.
 - Some improvements under the hood.
+
+## 1.8 Tulip
+
+- Security Patch : 05th jun 2022
+- Based on Android 12L.
+- Fix System Lags.
+- Synced with leatest android sources.
+- Play Store Certification.
+- Safetynet passed without root.
+- Some improvements under the hood.
