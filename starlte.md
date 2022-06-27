@@ -1,3 +1,7 @@
+## 1.8 starlte
++ Kernel: 4.9.319
++ Initial Official release.
+
 ## 1.5 starlte
 + Kernel: Switched to enforcing
 + Fixed weak vibration issue
