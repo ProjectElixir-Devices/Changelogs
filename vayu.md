@@ -1,5 +1,10 @@
 Device Changes 
 
+# Project Elixir v1.8 [2nd Release]
+
+ - Fixed heating issue and battery drain issues 
+ - Fixed Fast Charging
+ - Upstreamed Pixel Launcher MOD to v9.5 | [Changelogs](https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28)
 
 # Project Elixir v1.8 
 
