@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/nszqTV4.jpg)
+![Changelog](https://i.imgur.com/L1ygpem.png)
 
 # Project Elixir All Version Update Changelogs
 
