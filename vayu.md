@@ -1,5 +1,11 @@
 Device Changes 
 
+# Project Elixir v1.9 
+
+ - Removed Pixel Launcher MODs app, as it requires root 
+ - Fixed greyed out USB actions in notifications when connected to PC 
+ - Revert "Set Recommended Night Display Color Temperature as default" 
+
 # Project Elixir v1.8 [2nd Release]
 
  - Fixed heating issue and battery drain issues 
