@@ -1,3 +1,25 @@
+## 1.9 Violet
+* violet: Nuke Lawnchair & Ship TeamFiles Pixel launcher
+* violet: Drop atrace HIDL
+* violet: Uprev radio config into 1.2
+* violet: sepolicy: Attach property type into device_id
+* violet: Move to common IFAAService
+* violet: Switch to source-built mlipay interface
+* violet: remove QTI perfd remainding components
+* violet: Stop explicitely building netutils-wrapper-1.0
+* violet: Update Bluetooth stack from SWEETEEAGlobal_V13.0.10.0.SKFEUXM
+* violet: Update IBluetoothAudioProvidersFactory HAL to v2.1
+* violet: Uprev android.hardware.bluetooth
+* violet: Drop redundant targets/packages
+* violet: Increase SYSTEMIMAGE partition size
+* violet: rootdir: Set max_comp_streams to 4
+* violet: rootdir: Set Zram size to 50%
+* violet: Update Prebuilt Azure Kernel back to 19 June 2022
+* violet: Enable IORAP feature
+* violet: Tune Haptics and Vibrations
+* Improved performance and stability
+* Misc changes and fixes
+
 ## 1.8 Violet
 - violet: Switched to Azure 09 June Build
 - violet: Full Rebase and cleanup
