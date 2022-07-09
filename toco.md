@@ -1,3 +1,37 @@
+## 1.9 Toco
+
+- Add missing status bar dimensions
+- Add MIUI camera flag from stock
+- Add telephony system-ext privapp permissions
+- Address elliptic denials
+- Address QCOM WFD denials
+- Allow platform app to find SoterService
+- Allow system_app to write thermal sysfs
+- Build custom UDFPS animations
+- Disable zram writeback
+- Drop QCOM wfd HDCP support
+- Enable auto brightness while dozing
+- Fix fingerprint labels
+- Import lmkd props from google gki
+- Label fingerprint props as restricted vendor
+- media: Add Attribute name for SW encoder
+- media: Finetune performance xml
+- media: MPEG4 sw encoder only supports max 720p
+- Move deviceid props to vendor
+- parts: Add dynamic thermal profile implementation
+- parts: Display icon beside thermal profiles
+- parts: Don't explicitly set android:theme for activities
+- parts: Use directBootAware
+- Remove unused hwservice label
+- Rename ANXCamera to MiuiCamera
+- Revoke system_server access to fingerprint prop
+- Ship VantomKernel v4.14.286
+- Switch SchedTune to UClamp
+- Switch to status_bar_height_portrait
+- Update build fp & desc to MIUI V13.0.2.0.SFNMIXM
+- Uprev radio config into 1.2
+- Use coral tuning for columbus feature
+
 ## 1.8 Toco
 
 - Drop QCOM thermal engine components
