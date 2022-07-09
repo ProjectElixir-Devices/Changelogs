@@ -1,3 +1,24 @@
+## v1.9 X00T/D
+
+```
+- Updated FP to Raven july
+- Props: Enable skia reduceOpsTaskSplitting
+- Props: Disable unsignaled prop
+- Rootdir: Boost performance during bootup
+- Ships with ANX Camera by default
+- Properties: Disable debug.sf.enable_hwc_vds
+- Cleaned up dead build packages
+- Configured cpusets for dex2oat
+- Updated dexpreopt configuration
+- Tuned dalvik heapminfree for devices with 3gb ram
+- Debloated some google apps
+- Updated blobs from LA.UM.9.2.r1-03500-SDMxx0.0
+- CTS passed by default
+- Some misc improvements and fixes
+- ROM is NON-FBE & LV build
+```
+
+
 ## v1.8 X00T/D
 
 ```
