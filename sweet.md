@@ -1,3 +1,31 @@
+## 1.9 Sweet/Sweetin
+- Rebased on the latest xiaomi-sm6150 sources
+- Switched to user builds
+- Updated blobs from miui_SWEETEEAGlobal_V13.0.10.0.SKFEUXM
+- Added support for JAPAN region (M2101K6R)
+- Added back thermal profiles
+- Added Anx Pre-build
+- Fixed the always on display flicker
+- Fixed camera interface on ViLTE calls
+- Fixed a few issues with the microphone
+- Fixed an issue with AI mode messing up cores frequency (thanks pulkit for helping)
+- Fixed Google Recorder
+- Removed Dolby Atmos
+- Some other audio changes
+- SEPolicy fixes
+- LiveDisplay fixes
+- Fix miui Camera
+- Switched to QTI bluetooth
+- Recovery now flashes stuff properly
+- Labeled more wakeup nodes
+- Switch SchedTune to UClamp
+- Updated VantomKernel
+- Other misc. changes and fixes
+
+- Credit:- 
+- Arian, Adarsh, Vantom for the device sources
+- Aryannn999 for sources and help
+
 ## 1.8 Sweet/Sweetin
 - Updated blobs from MIUI V13.0.8.0.SKFMIXM
 - Update adreno from LA.UM.9.1.r1-11500.02-SMxxx0
