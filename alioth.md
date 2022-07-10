@@ -74,4 +74,7 @@
 - Updated Adrano Graphics Blobs to v@0615_v3
 - Remove gc_urgent from powerhint *it is handle by N0kernel*
 
-
+## 1.9 Alioth
+- Initial build
+- Switch to dora clang
+- Switch to Immensity kernel
