@@ -1,3 +1,10 @@
+## 1.9 Ginkgo
+- 5th Jul 2022 security patch.
+- Fix always shoing location indicator.
+- Kernel improvements.
+- Play Store Certification.
+- Safetynet passed without root.
+- Some improvements under the hood.
 
 ## 1.8 Ginkgo
 - Security Patch : 05th Jun 2022
