@@ -27,3 +27,9 @@ Known bug:
 
 - Gcam fix
 - Fast charging fix
+
+## 1.9 Dumpling
+
+- June security patches
+- Minor changes to the device sector.
+- Improved performance and stability.
