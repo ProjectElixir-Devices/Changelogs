@@ -1,5 +1,4 @@
-# Changelog V1.8
+# V1.9 mido
 
-- Initial build
-- Added Kcal to Parts
-- Updated Kernel to 4.9.317
+* Updated Kernel to v4.9.319
+* Merged all latest stuff from Zeelog
