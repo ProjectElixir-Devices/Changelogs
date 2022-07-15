@@ -18,3 +18,6 @@
 - haydn: Add support for low power adaptive control feature
 - haydn: Enable IWLAN assisted mode
 - Misc changes and optimization
+
+## Credits: 
+Special Thanks to @ AdarshGrewal For dt, kernel, vendor.miui cam
