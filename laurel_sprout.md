@@ -1,10 +1,6 @@
-## 1.7 Laurel Sprout
+## 1.9 Laurel Sprout
 
-- Fixed wide angle camera crash.
-- Improved boot time.
-- Tried to improve gps accuracy.
-- Mic is back to like it was in 1.5 .
-- Removed Xiaomi parts.
+NO DEVICE SIDE CHANGES
 
 Notes:
 - Encryption disabled
