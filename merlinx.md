@@ -1,3 +1,18 @@
+## 1.9 merlin
+- Device
+Import SpeechVol Param for modifications
+audio: Make gain control work properlyRevert "lava: proprietary-files: checkout Power-Hardware from miui_merlin_V12.0.8.0.QJOMIXM"
+Switch to 64bit powerhal
+Drop unneeded power_native_test binaries
+Drop buildable libs
+Switch to 64bit powerhal
+kernel updated to 4.14.288
+pizza kernel
+
+- Rom changes are in update channel
+Updated to July security patch
+A lot of fix and changes
+
 ## 1.8 merlin
 
 - merlinx: Import SpeechVol Param for modifications 
