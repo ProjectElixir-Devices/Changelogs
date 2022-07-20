@@ -1,3 +1,15 @@
+## 1.9 Juice
+
+- Switch to libperfmgr
+- Update blobs from miui_LIMEPRE_22.7.6_5b91be000b_12.0
+- Switch to Pixel Power HAL
+- Import powerhint from sunfish
+- Tune powerhint tables for juice usage
+- Enable DFEv2
+- Change cache partition to f2fs
+- Fix DRM
+- Fix crashes on brave
+
 ## 1.8 Juice
 
 - Switch to OSS vendor ( CLEAN FLASH REQUIRED )
