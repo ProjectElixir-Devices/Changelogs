@@ -2,6 +2,39 @@
 
 # Project Elixir All Version Update Changelogs
 
+### v2.0 (12.08.2022)
+- Merged latest August Security patch 
+- CTS passes by default and banking apps are working fine
+- Settings: Elixir: Redesign My Device Page 
+- Settings: Elixir : Redesign our Firmware information
+- Settings: Elixir: Adapt our new layout in rest settings 
+- Essence: Transparent QS customization [Optional]
+- Essence: Add toggle to switch Fluid QS panel style [Optional]
+- Essence: Add horizon light settings
+- Essence: Adapt whole UI to match with settings
+- GlobalActions: Redesign Power Menu
+- base: Force fullscreen for Google Dialer
+- ven/aosp: Update Default wall for v2.0 Release
+- Use navigation handle dimens from Android 13 Beta 3
+- SystemUI: Fix QS expand lag when VoLTE/VoWiFi icons are enabled
+- CustomClocks: Cleanup some useless codes of ButterCupSyra clock 
+- CustomClocks: Fixed padding for custom clocks
+- VolumePanel: Show percentage 
+- Package installer: show current and new version on apk installation 
+- CustomUtils: Import restart systemui api 
+- PixelPropsUtils: Update raven fingerprint
+- SystemUI: Fix QS mobile icon disappearing on theme switch 
+- vendor: Show Android version as 12L 
+- ven/aosp: Import More Fonts Overlay 
+- ven/aosp: Themes: Add lots of signal icons
+- ven/aosp: Themes: Add W33d icon styles
+- Essence: Fix crash with media art
+- Improved stability and performance
+- Misc changes and improvements
+- Much More - Try by yourself
+
+### NOTE: Don't report anything related to CTS or Banking apps if you do ROOT or modify anything in system or using MODs.
+
 ### v1.9 (07.07.2022)
 * Merged latest July Security patch
 * Essence: Add fade filter to the media artwork 
