@@ -7,3 +7,10 @@
 - June security patches
 - Minor changes to the device sector.
 - Improved performance and stability.
+
+## 2.0 Cheeseburger
+
+- Reworked Audio output [Credit: Pixel Experience]
+- August security patches
+- Minor changes to the device sector.
+- Improved performance and stability.
