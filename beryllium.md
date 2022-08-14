@@ -1,7 +1,21 @@
-## 1.7 Beryllium
+## 2.0 Beryllium
 
-Improved Padding and rounded corners
-Uprev Fingerprint HAL v2.3
-Update WFD System Stack
-Added BatteryHealth Overlay
-Update Kernel to Latest Tag
+Added System_ext support.
+
+Improved Padding and rounded corners.
+
+Added non-expensive window-level blur to reduce lags.
+
+Added hearing aid support.
+
+Dropped live-display.
+
+Top-app schedtune boost is now 10.
+
+Enhanced audio quality.
+
+Improved UI smoothness.
+
+Added Lawnchair as default launcher.
+
+Switched to source based haptics.
