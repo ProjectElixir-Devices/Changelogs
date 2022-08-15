@@ -1,6 +1,6 @@
-## 1.9 Laurel Sprout
+## 2.0 Laurel Sprout
 
-NO DEVICE SIDE CHANGES
+- End Of Life Build
 
 Notes:
 - Encryption disabled
