@@ -1,3 +1,24 @@
+
+## 2.0 Violet
+* violet: Update Prebuilt Azure Kernel to 07 Aug 2022
+* violet: sepolicy: Address telephony denials
+* violet: audio: Remove FM Tuner from input devices
+* violet: sepolicy: Label oem prop for rild
+* violet: props: Disable redir_party_num
+* violet: [REPICK] audio: Fix mic issues in apps like WhatsApp
+* violet: audio: Checkout audio_io_policy from sweet
+* violet: Disable sdm rotator downscaler
+* violet: props: Enable QCRIL radio power saving
+* violet: parts: Use directBootAware
+* violet: props: Update surfaceflinger props
+* violet: Update audio stack from SWEETEEAGlobal_V13.0.10.0.SKFEUXM
+* violet: parts: Import IntentFilter
+* violet: Define statusbar height dimens
+* violet: Added Raise to wake gesture option(Settings>Display>Ambient Display)
+* violet: Tune Haptics and Vibrations
+* Improved performance and stability
+* Misc changes and fixes
+
 ## 1.9 Violet
 * violet: Nuke Lawnchair & Ship TeamFiles Pixel launcher
 * violet: Drop atrace HIDL
