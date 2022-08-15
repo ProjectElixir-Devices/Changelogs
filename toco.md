@@ -1,3 +1,72 @@
+## 2.0 Toco
+
+- Add more gnss seccomp_policy
+- audio: Add compress recording configurations
+- audio: Add Stereo config channel support to usb surround sound
+- audio: Fix copyright
+- audio: Fix in-call mic with headphones
+- audio: Fix mic volume
+- audio: Import stock audio_policy_engine_stream_volumes.xml
+- audio: Increase mic volume values
+- audio: Provide missing audio_tuning_mixer.txt
+- audio: Remove dynamic attributes from APS config
+- audio: Set the maximum music group volume to 15
+- audio: Update compress recording configurations
+- Build android.hidl.base@1.0
+- Build missing omx lib
+- Drop remnant Snap stuff
+- Drop Vulkan UI renderer (Fixes video colors)
+- gps: Add nmea tag block grouping feature
+- gps: Comment out ANTENNA_INFO_VECTOR_SIZE by default
+- gps: Update configs from sweet V13.0.8.0.SKFMIXM
+- gps: Update to LA.UM.9.1.r1-11200-SMxxx0.0
+- Import more camera libs from stock
+- Make all elf prebuilts packages
+- media: Update max resolution from True4k to UHD
+- parts: Drop support for zero brightness doze mode
+- parts: Update and polish vector drawables
+- perfd-client: Refactor dummy libqti-perfd-client 
+- perfd-client: Remove namespace declaration
+- perfd-client: Return a dummy value
+- powerhint: Add F2fsRecessModeEnable
+- prop: Fix mic volume in Apps
+- prop: Force disable iorapd
+- prop: Sync up /system_ext properties with QSSI 12
+- Provide module name for libcameraservice
+- Re-enable zram writeback
+- Rename camera face detection libs
+- Restrict interrupts to cores 0 and 1
+- rootdir: Add edgnss socket directory
+- rootdir: Increase the console log level
+- rootdir: Set Netflix property based on target
+- rootdir: Set permissions for KGSL sysfs node
+- rootdir: Stop using hardcoded boot device
+- sepolicy: Add F2FS sysfs permission
+- sepolicy: Address camera hal denial
+- sepolicy: Address dpmd denial
+- sepolicy: Address dolby denials
+- sepolicy: Address mi_thermald-related denials
+- sepolicy: Address neuralnetworks hal neverallow
+- sepolicy: Address some duplicate
+- sepolicy: Address some wifi denials
+- sepolicy: Allow bluetooth to read incremental prop
+- sepolicy: Allow radio to connect to dpmd stream socket
+- sepolicy: Extend vendor_toolbox permissions to files in persist
+- sepolicy: Fix setting ims props on boot
+- sepolicy: Label new telephony properties
+- sepolicy: Rework & label more wakeup nodes
+- sepolicy: Suppress zeroth.debuglog.logmask warning
+- Set soc properties
+- Ship VantomKernel v4.14.290
+- Switch to new Elixir flags
+- udfps: Refactor udfps handler lib
+- Update adreno stack from from LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0
+- Update blobs from sweet V13.0.8.0.SKFMIXM
+- Update blobs from sweet V13.0.12.0.SKFMIXM
+- wifi: Update from sweet V13.0.8.0.SKFMIXM
+- WifiSM6150: Add & increase 5 GHz network signal tolerance
+- WifiSM6150: Align config.xml with AOSP
+
 ## 1.9 Toco
 
 - Add missing status bar dimensions
