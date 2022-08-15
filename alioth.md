@@ -78,3 +78,25 @@
 - Initial build
 - Switch to dora clang
 - Switch to Immensity kernel
+
+## 2.0 Alioth
+- Update blobs to 13.0.7 EU
+- Use prebuilt audiohalext
+- Import prebuilt 
+- Fixup audio io policy voip_rx flags 
+- Move thermal profiles to system settings 
+- Add missing proguard.flags 
+- Limit display refresh rate in AoD 
+- Enable burn-in protection 
+- Fixed front camera protection
+- Added battery friendly pocket mode
+- Update blobs to LA.UM.9.12.r1-14100.02-SMxx50.QSSI12.0 
+- Add overlays for battery health 
+- Use some media codecs from CLO 
+- Update powerhint from EmanuelCN's tree
+- Import OnePlus dolby (all credits goes to @johnmart19)
+- Add OZO 3 channel support from OnePlus 
+- Add missing Built-In Mic | Built-In Back Mic to Primary Input devices
+- Configure device layout specific overlays 
+- Gcam by prebuilt
+- Used ZyC clang for kernel compilation
