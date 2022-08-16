@@ -1,3 +1,6 @@
+## 2.0 Lavender
+* Initial build
+
 ## 1.9 Lavender
 - CTS passes by default and banking apps are working fine
 * Merged latest July Security patch
