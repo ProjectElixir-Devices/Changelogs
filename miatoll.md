@@ -1,3 +1,12 @@
+## v2.0
+- August security patch
+- disable phantom process monitoring
+- Add Stereo config channel support to usb surround aound
+- Disable stereo support for voip
+- Move thermal profiles to system settings
+- Remove dynamic attributes from APS config
+- some minor improvements and fixes
+
 ## 1.8 Miatoll
 
 - June security patch
