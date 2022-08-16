@@ -62,3 +62,10 @@
 - Improved performance and stability
 
 - Misc changes
+
+# 2.0 r5x
+- Initial release from my side
+
+- Fixed All Previous issue
+
+- Improved performance and stability
