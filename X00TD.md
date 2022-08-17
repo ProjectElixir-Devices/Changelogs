@@ -1,3 +1,27 @@
+## v2.0 X00T/D
+```
+- Reverted FP to stock A10
+- Camera: Imported FOSS camera hals
+- Camera: Upstreamed camera blobs from LA.UM.9.2.r1-03600-SDMxx0.0
+- Camera: Disabled lib2d rotation
+- Camera: Link to libhidltransport instead of android.hidl.base
+- Disabled triple buffering
+- Disabled slow blur effect to avoid laggish blur effect
+- Fixed camera lags
+- Dropped all SF offset related props
+- Fixed Google Camera crashes issue
+- Switched to SkiaGL threaded
+- Updated some GPS changes from LA.UM.9.1.r1-11200-SMxxx0.0
+- Changed default GPU idle timeout to 60ms
+- Disabled SF client composition cache
+- Removed duplicated triple frame buffer prop
+- Updated surfaceflinger props from CAF
+- CTS passed by default
+- Some misc improvements and fixes
+- ROM is NON-FBE & LV build
+```
+
+
 ## v1.9 X00T/D
 
 ```
