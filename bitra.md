@@ -1,6 +1,14 @@
 ## v2.0 bitra - Realme GT Neo 2
 
-- Bump to Project Elixir v2.0.
+### HotFix Update:
+- Fixed SuperDart fast charging.
+- Fixed DT2W.
+- Switched to EXT4.
+- Switched to OSS kernel and DTB.
+- Set 1 second timeout for interaction boosts.
+
+### v2.0 previous changelog:
+- Bumped to Project Elixir v2.0.
 - Switched to SELinux Enforcing.
 - CTS passes by default now.
 - Enabled auto brightness in AOD.
@@ -11,7 +19,6 @@
 
 Known Issues [Temp]:
 - Loudspeaker during calls.
-- SuperDart charging.
 
 ## v1.9 bitra - Realme GT Neo 2
 
