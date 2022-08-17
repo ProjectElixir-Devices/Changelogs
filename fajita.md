@@ -8,3 +8,4 @@
 - Now Google Next Gen Assistant Support
 - Switch Pixel Launcher To Lawnchair Launcher
 - Fix Some sepolicy
+- OTA Fixed
