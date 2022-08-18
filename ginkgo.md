@@ -1,3 +1,13 @@
+## 2.0 Ginkgo
+- 5th Aug 2022 security patch.
+- Fix alarm on extreme power saver mode.
+- Fix wifi & hotspot at a time.
+- Nuked XiaomiParts & MiuiCamera.
+- Uprev IRadio HAL to get AOSP sim toggle.
+- Play Store Certification.
+- Safetynet passed without root.
+- Obiously some improvements under the hood.
+
 ## 1.9 Ginkgo
 - 5th Jul 2022 security patch.
 - Fix always shoing location indicator.
