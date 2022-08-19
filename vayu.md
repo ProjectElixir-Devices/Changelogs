@@ -1,5 +1,12 @@
 Device Changes 
 
+# Project Elixir v2.0 
+
+ - Revert back to default paddings and margins 
+ - Rebase to aLn kernel 
+ - Upstream Pixel Launcher MOD to v10.8
+ - Import full set of audio configs from MIUI EU 13.0.5
+
 # Project Elixir v1.9 
 
  - Removed Pixel Launcher MODs app, as it requires root 
