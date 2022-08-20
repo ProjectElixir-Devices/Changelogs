@@ -1,3 +1,17 @@
+## 2.0 Sweet/Sweetin
+- Enable Battery Health
+- Update blobs from sweet V13.0.12.0.SKFMIXM
+- Fixed some RAM-related issues
+- Fixed an issue with the headphones volume controls not working with wired headsets
+- Fixed Fingerprint Wake-up Animation
+- Few changes regarding vibration
+- Upstreamed kernel to 4.14.290
+- Fixed an issue with the phone not being able to go to sleep due to smp2p_sleepstate
+- Switch audio HAL to V7
+- Optimize shutdown time ( Power Off )
+- Enable usage of dex2oat64 and Optimise dex flags
+- Other fixes and  improvements
+
 ## 1.9 Sweet/Sweetin
 - Rebased on the latest xiaomi-sm6150 sources
 - Switched to user builds
