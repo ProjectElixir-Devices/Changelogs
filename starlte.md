@@ -1,3 +1,9 @@
+## 2.0 starlte
+Changelogs:
++ Reduced logs level.
++ Kernel Upstreamed to 4.9.325
++ Imported new gnss and media blobs from N770F
+
 ## 1.8 starlte
 + Kernel: 4.9.319
 + Initial Official release.
