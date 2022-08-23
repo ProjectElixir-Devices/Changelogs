@@ -1,3 +1,28 @@
+## 2.0 Lava
+
+# Device
+- Some IMS fixes
+- Google Camera buffer fix, now it doesn't lags
+- New Power HAL custom library
+- YouTube 60 FPS Lag fixed
+- Upstream Kernel to 4.14.290
+- pizza kernel
+- NOTE: If you face VoLTE issues, you should flash 12.5.>
+
+# Rom changes are in update channel
+
+- Updated to August security patch
+- A lot of fix and changes
+
+Thanks for device source and Kernel
+@chcepizze @SparXFusion @ashblk @TheMalachite
+@ceb8khs @bengris32
+
+Thanks to @haxis_lancelot for test it.
+
+Bugs:
+ScreenRecorder (use external
+
 ## 1.9 lava
 
 # Device
