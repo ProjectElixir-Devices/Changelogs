@@ -1,3 +1,12 @@
+## 2.0 Chime
+
+- Switch to chime codename
+- Tune perfboostconfig for smoother ui
+- Switch again to QTI Perf
+- Compile HWUI for performance
+- Enable the pre-rendering feature
+- And more changes again.
+
 ## 1.9 Juice
 
 - Switch to libperfmgr
