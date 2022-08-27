@@ -1,3 +1,15 @@
+## 2.0 Spes/Spesn
+
+- Updated blobs from SPESNGlobal V13.0.2.0-A12
+- Updated prebuilt kernel from SPESNGlobal V13.0.2.0-A12
+- Updated GApps
+- Disabled process reclaim (for better multitasking)
+- Removed intree audio/display/media HALs
+- Allowed all CPUs usage on foreground
+- Removed HD notification for VoLTE
+- Selinux: Address denials
+- Misc. Fixes and Improvements
+
 ## 1.9 Spes/Spesn
 - Update blobs and configs from SPESGlobal V13.0.2.0-A12
 - Updated prebuilt kernel from SPESGlobal V13.0.2.0-A12
