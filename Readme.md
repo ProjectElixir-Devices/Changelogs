@@ -2,7 +2,7 @@
 
 # Project Elixir All Version Update Changelogs
 
-### Below changelog is from Android 13 Changelog 
+### - Android 13 Initial Release Changelog 
 
 ### v3.0 (29.08.2022)
 - Inital Android 13 BETA build with August Security patch
