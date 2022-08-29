@@ -5,7 +5,7 @@
 ### - Android 13 Initial Release Changelog 
 
 ### v3.0 (29.08.2022)
-- Inital Android 13 BETA build with August Security patch
+- Initial Android 13 BETA build with August Security patch
 - CTS Passes by default and banking apps are working fine
 - Settings: Elixir: Redesign My Device Page
 - Settings: Elixir : Redesign our Firmware information
@@ -44,7 +44,6 @@
 - base: allow hiding navbar
 - SystemUI: allow changing the length of gesture navbar 
 - base: Add navbar layout inversion tuning 
-- SystemUI: Redesign Volume Panel the 404 way
 - udfps: Implement framework dimming support
 - Settings: Introduce PUI iconpack
 - Settings: Revamped Setting page
