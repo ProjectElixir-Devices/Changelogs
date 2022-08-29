@@ -1,6 +1,60 @@
-![Changelog](https://i.imgur.com/L1ygpem.png)
+![Changelog](https://i.imgur.com/SayZYoF.png)
 
 # Project Elixir All Version Update Changelogs
+
+#  -------- > Below changelog is from Android 13 Changelog < --------
+
+### v3.0 (29.08.2022)
+- Inital Android 13 BETA build with August Security patch
+- CTS Passes by default and banking apps are working fine
+- Settings: Elixir: Redesign My Device Page
+- Settings: Elixir : Redesign our Firmware information
+- Settings: Elixir: Adapt our new layout in rest settings
+- Essence: QS customization [Optional]
+- Essence: Added Wifi Icon style [Optional]
+- Essence: Hide power menu on secure lockscreen
+- Essence: Hide Status bar on Lock screen
+- Essence: Add Lockscreen album art filter
+- VolumePanel: Redesign Volume pannel
+- Package installer: show current and new version on apk installation
+- Essence: Make LS media filter blur radius configurable
+- Essence: Global Actions with Advanced Reboot
+- Essence: Double tap to sleep on lockscreen
+- Essence: Double tap to sleep on statusbar
+- Base: Add Maybe Rectangle QS Style
+- QS Tiles: Introduce Outline Shapes
+- SystemUI: Implement lockscreen quick unlock 
+- base: allow disable of screenshot shutter sound
+- Keyguard: Add option to scramble pin layout when unlocking
+- SystemUI: Add auto brightness button to QS brightness slider
+- Base: Add custom signal style support
+- Privacy Indicators: Follow light/dark theme settings
+- SystemUI: Use Monet colors for power menu
+- SystemUI: Allow to enable Lockscreen Media Art
+- base: Add three-fingers-swipe to screenshot 
+- SystemUI: Display a toast when a screenshot is deleted
+- SettingsLib: Update LTE+/4G+ icon as per new Silk design 
+- SettingLib: Add deep sleep info to uptime preference 
+- BatteryStatsImpl: Reset stats only above 95%
+- SystemUI: Add delete action to screen recorder notification 
+- SystemUI: Update BT battery level from OOS
+- SystemUI: Forward-port smartspace to Android 13 
+- SystemUI: Bring back separate wifi & data QS tiles 
+- udfps: Implement framework dimming support
+- base: allow hiding navbar
+- SystemUI: allow changing the length of gesture navbar 
+- base: Add navbar layout inversion tuning 
+- SystemUI: Redesign Volume Panel the 404 way
+- udfps: Implement framework dimming support
+- Settings: Introduce PUI iconpack
+- Settings: Revamped Setting page
+- Settings: Toast insulter: Add insults 
+- Expose the notification log
+- Misc changes
+- Much More - Try by yourself
+
+
+# -------- > Below changelog is from Android 12.1 Changelog < --------
 
 ### v2.0 (12.08.2022)
 - Merged latest August Security patch 
