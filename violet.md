@@ -2,7 +2,7 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
-### v2.0 Violet
+### v3.0 Violet
 
 - Initial release
 - Selinux is Enforcing
