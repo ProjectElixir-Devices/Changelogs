@@ -1,3 +1,10 @@
+## 2.0 begonia
+* Updated to latest VoidKernel
+* Introduced MtkInCallService
+* Misc fixes under the hood
+* Imported Gcam buffer fix camera blobs
+* Updated blobs from V12.5.8.0
+
 ## 1.9 begonia
 * CTS passes by default and banking apps are working fine
 * Merged latest July Security patch
