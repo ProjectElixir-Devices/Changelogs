@@ -1,8 +1,12 @@
 ![Changelog](https://i.imgur.com/SayZYoF.png)
 
-# Project Elixir All Version Update Changelogs
+<br>
+<br>
 
-### - Android 13 Initial Release Changelog 
+<h1 align="center"> Project Elixir All Version Update Changelog </h1> 
+
+<br>
+<h3 align="left">- Below changes are from Android 13 </h3> 
 
 ### v3.0 (29.08.2022)
 - Initial Android 13 BETA build with August Security patch
@@ -52,8 +56,27 @@
 - Misc changes
 - Much More - Try by yourself
 
+<br>
+<br>
 
-### Below changelog is from Android 12.1 Changelog 
+<h1 align="center"> Below changes are from Android 12.1 </h1> 
+
+<br>
+<br>
+
+![Android 12.1 Changelog](https://i.imgur.com/N84YZja.png)
+
+
+### v2.1 (06.09.2022) | EOL Update | Last Public Update
+- CTS Passes and banking apps are working fine
+- Essence: Switch to new UI 
+- Implement A13 like seekbar animation
+- Fixed some font were not working
+- Updated the build status card logo 
+- Fixed gaming mode crash on some devices
+- Essence: Add Elixir Lock Screen Clock
+- Essence: Add outline QS Style
+- ven/aosp: Update the default wall for v2.1
 
 ### v2.0 (12.08.2022)
 - Merged latest August Security patch 
