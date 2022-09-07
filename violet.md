@@ -1,3 +1,5 @@
+## 2.1 Violet
+- EOL Build
 
 ## 2.0 Violet
 * violet: Update Prebuilt Azure Kernel to 07 Aug 2022
