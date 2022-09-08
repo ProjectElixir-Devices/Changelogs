@@ -1,3 +1,6 @@
+## v2.1
+- EOL update
+
 ## v2.0
 - August security patch
 - disable phantom process monitoring
