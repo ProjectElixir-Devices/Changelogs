@@ -1,5 +1,7 @@
-## 1.9 apollo/apollopro 
+## 2.1 apollo/apollopro 
+- EOL Build
 
+## 1.9 apollo/apollopro 
 * CTS passes by default and banking apps are working fine
 * Merged latest July Security patch
 * Essence: Add fade filter to the media artwork 
