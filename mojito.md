@@ -1,3 +1,6 @@
+## 2.1 Mojito
+- EOL update
+
 ## 1.8 Mojito
 - Merged latest June Security patch
 - Essence: Allow changing monet settings
