@@ -1,5 +1,7 @@
-## 1.5 Cepheus
+## 2.1 Cepheus
+- EOL build
 
+## 1.5 Cepheus
 • CTS Passes by default
 • Introducing our New OTA Updater
 • parts: import doze icons from PixelDoze
