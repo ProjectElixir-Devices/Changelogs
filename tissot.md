@@ -1,5 +1,7 @@
-## 1.9 Tissot
+## 2.1 Tissot
+- EOL update
 
+## 1.9 Tissot
 * CTS passes by default and banking apps are working fine
 * Merged latest July Security patch
 * Essence: Add fade filter to the media artwork 
