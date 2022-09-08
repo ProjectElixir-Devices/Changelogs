@@ -1,7 +1,5 @@
 ## v2.0 X00T/D
 ```
-- Updated FP to Raven September
-- Merged September security patch
 - Sycned latest source changes
 - Boost audio output
 - Build opensource soundtrigger HAL
