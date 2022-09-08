@@ -1,5 +1,7 @@
-## 2.0
+## 2.1
+- EOL Update
 
+## 2.0
 - haydn: overlay: Declare 6ghz wifi support
 - haydn: wifi: Enable support for IEEE80211AX 
 - haydn: wifi: Enable automatic channel selection
