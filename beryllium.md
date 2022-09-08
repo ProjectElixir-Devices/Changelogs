@@ -1,3 +1,20 @@
+## 2.1 Beryllium
+
+Fixed WiFi Display.
+
+Added f2fs support.
+
+Updated Thermal profile list.
+
+Improved Thermals.
+
+Added New Smart Scene in parts.
+
+Added clear Speaker.
+
+Firmware included with rom so no need to flash Firmware separately.
+
+
 ## 2.0 Beryllium
 
 Added System_ext support.
