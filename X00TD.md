@@ -1,5 +1,25 @@
 ## v2.0 X00T/D
 ```
+- Updated FP to Raven September
+- Merged September security patch
+- Sycned latest source changes
+- Boost audio output
+- Build opensource soundtrigger HAL
+- Display: Enable support for protected content GPU composition
+- Force disable iorapd
+- Disable sdm rotator downscaler
+- Pin renderscript blobs to memory
+- Enable pre-rendering
+- Enable HWUI_COMPILE_FOR_PERF
+- Switch to SkiaGL Threaded
+- CTS passed by default
+- Some misc improvements and fixes
+- ROM is NON-FBE & LV build
+```
+
+
+## v2.0 X00T/D
+```
 - Reverted FP to stock A10
 - Camera: Imported FOSS camera hals
 - Camera: Upstreamed camera blobs from LA.UM.9.2.r1-03600-SDMxx0.0
