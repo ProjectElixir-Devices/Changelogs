@@ -1,3 +1,8 @@
+##2.1 Raphael
+- Fixed Minor Bugs
+- Minor changes to the Fod.
+- Improved performance and stability.
+
 ##2.0 Raphael
 - August security patches
 - Fixed Minor Bugs
