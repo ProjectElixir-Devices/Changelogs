@@ -1,5 +1,9 @@
 Device Changes 
 
+# Project Elixir v2.1 
+
+ - No device changelogs for this release 
+
 # Project Elixir v2.0 
 
  - Revert back to default paddings and margins 
