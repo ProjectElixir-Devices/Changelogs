@@ -1,3 +1,13 @@
+## v2.1 Veux/Peux - Redmi note 11 Pro Plus / Poco X4 Pro
+
+```
+- Bumped to Project Elixir v2.1.
+- CTS passes by default.
+- Some minor fixes and improvements
+
+Note:  This is final EOL build of Android 12
+```
+
 ## v2.0 Veux/Peux
 
 ```
