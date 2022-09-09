@@ -1,8 +1,12 @@
-## 1.0 Ysl
+## v2.1 ysl
 
-- Fixed hotspot toggle issue
-- Fixed goodix fp
-- Fixed ok google
+```
+- Bumped to Project Elixir v2.1.
+- CTS passes by default.
+- Some minor fixes and improvements
+
+Note:  This is final EOL build of Android 12
+```
 
 ## v2.0 YSL
 
