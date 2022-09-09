@@ -1,3 +1,11 @@
+## v2.1 bitra - Realme GT Neo 2
+- Bumped to Project Elixir v2.1.
+- Merged September security patch.
+- Fixed loudspeaker during calls.
+- CTS passes by default.
+
+Note:  This is final EOL build of Android 12
+
 ## v2.0 bitra - Realme GT Neo 2
 
 ### HotFix Update:
