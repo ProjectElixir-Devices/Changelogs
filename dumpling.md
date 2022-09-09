@@ -40,3 +40,8 @@ Known bug:
 - August security patches
 - Minor changes to the device sector.
 - Improved performance and stability.
+
+## 2.1 Dumpling
+
+- A12.1 EOL Update.
+- No Changes.
