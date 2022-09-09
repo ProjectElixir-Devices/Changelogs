@@ -1,3 +1,9 @@
+## 2.1 Ginkgo
+- 5th Sep 2022 security patch.
+- Play Store Certification.
+- Safetynet passed without root.
+- Misc changes from source side.
+
 ## 2.0 Ginkgo
 - 5th Aug 2022 security patch.
 - Fix alarm on extreme power saver mode.
