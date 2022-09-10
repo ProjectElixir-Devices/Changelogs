@@ -1,4 +1,3 @@
-# V1.9 mido
+# V2.1 mido
 
-* Updated Kernel to v4.9.319
-* Merged all latest stuff from Zeelog
+- EOL update
