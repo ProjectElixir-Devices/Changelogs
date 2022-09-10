@@ -1,3 +1,7 @@
+## 2.1 Toco
+
+- EOL Android 12 build
+
 ## 2.0 Toco
 
 - Add more gnss seccomp_policy
