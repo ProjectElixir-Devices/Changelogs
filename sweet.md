@@ -1,3 +1,7 @@
+## 2.1 Sweet/Sweetin
+- some fixes and  improvements
+- EOL Update (End Of Life)
+
 ## 2.0 Sweet/Sweetin
 - Enable Battery Health
 - Update blobs from sweet V13.0.12.0.SKFMIXM
