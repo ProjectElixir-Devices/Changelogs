@@ -1,3 +1,8 @@
+## 2.1 Vince
+- August Security Patch
+- EOL Build
+- Upstream kernel to 4.9.327
+
 ## 2.0 Vince
 - August Security Patch
 - Add vendorsetup script
