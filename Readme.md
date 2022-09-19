@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/SayZYoF.png)
+![Changelog](https://i.imgur.com/3uuYftu.png)
 
 <br>
 <br>
@@ -6,7 +6,37 @@
 <h1 align="center"> Project Elixir All Version Update Changelog </h1> 
 
 <br>
-<h3 align="left">- Below changes are from Android 13 </h3> 
+<h2 align="center">- Below changes are from Android 13 </h2> 
+<br>
+
+### v3.1 (19.09.2022)
+- Merged latest September Security patch
+- CTS Passes by default and banking apps are working fine
+- Essence: Bring back icon shapes, icon packs, fonts Customisation
+- SystemUI: Optional haptic feedback on back gesture
+- Essence: Add charging info on lockscreen
+- BatteryService: add dash, warp, vooc charging support
+- AlertSlider: Introduce user interface for Alert Sliders
+- BatteryService: Add SuperDart charging support 
+- Essence: Add network traffic indicator
+- Essence: SystemUI: Port brightness slider changes
+- base: Add support for window ignore secure 
+- display: Add simple RGB color balance transform 
+- SystemUI: Improve the QS tile styles
+- Essence: Add Transparent QS customization 
+- AutoBrightness: Add support for one shot auto-brightness
+- SystemUI: Updates to various icons
+- fw/b: Add capability to allow tethering to use VPN upstreams
+- frameworks: Add unlinked ringtone and notification volumes
+- Settings: Forward port CM Screen Security settings 
+- Settings: Expose radio info (*#*#4636#*#*)
+- Essence: Alert Slider: Add toggle to disable notifications 
+- kernel: Changes for LLVM binutils
+- Allow to suppress notifications sound/vibration if screen is ON
+- kernel: Allow to set custom user and host strings 
+- ven/aosp: rro_overlays: Update for Android 13
+- Misc changes & improvements
+- Much More - Try by yourself
 
 ### v3.0 (29.08.2022)
 - Initial Android 13 BETA build with August Security patch
