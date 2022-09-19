@@ -1,8 +1,8 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 
-## Project Elixir for Realme GT Neo 2 (5G)  Changelogs
+### Project Elixir for Realme GT Neo 2 (5G)  Changelogs
 
-## v3.1 bitra - Realme GT Neo 2
+### v3.1 bitra - Realme GT Neo 2
 
 - Bumped to Project Elixir v3.1.
 - Updated to Redfin September FP.
@@ -19,11 +19,7 @@
 - Improve recording microphone volume.
 
 
-![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
-
-## Project Elixir for Realme GT Neo 2 (5G)  Changelogs
-
-## v3.0 bitra - Realme GT Neo 2
+### v3.0 bitra - Realme GT Neo 2
 
 - Initial A13 beta build.
 - Selinux is Enforcing.
@@ -32,6 +28,6 @@
 - CTS passes by default now.
 - Added OPlusExtras.
 
-# Credits: 
+### Credits: 
 - [Elias](https://t.me/TheMalachite) for initial trees.
 - [Anierin Bliss](https://t.me/Anierin_Bliss) for OPlusExtras.
