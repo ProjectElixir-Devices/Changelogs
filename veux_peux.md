@@ -25,3 +25,28 @@ veux: Strip size of com.qti.node.mialgocontrol.so
 veux: proprietary-files: Update veux vendor blobs
 veux: prebuilts: Update Google Camera Go v3.6.455515391
 ```
+
+## v3.1 Veux/Peux
+
+```
+veux: overlays: Display correct charging speed 
+veux: overlay: Set default value night display color temperature 
+veux: Fix AAPT config 
+veux: Drop sound trigger 
+veux: overlay: Enable front-facing camera protection 
+veux: overlay: Configure camera cutout 
+veux: prebuilts: Update Google Camera Go v3.8.466520855 
+veux: overlay: Set screen timeout to 30 seconds 
+veux: proprietary-files: Back 32-bits RIL lib
+veux: Reorder kernel session 
+veux: Drop DTC and LLVM flags for building kernel
+veux: Use libhidlbase from vndk v32 for vendor/lib64/libvendor.goodix… 
+veux: sepolicy: Allow apps and camera HAL access to secure ADSP domain 
+veux: sepolicy: Allow neural networks HAL to read ADSP properties 
+veux: Make fastrpc_shell_3 publicly available 
+veux: gpt-utils: Update PTN_SWAP_LIST and handle multiimg(oem/qti), 
+veux: gpt-utils: Do fsync after writing partition entries 
+veux: gpt-utils: Add product to ab partiti
+veux: gpt-utils: Drop unused sparse_crc32 
+veux: bootctrl: Remove bootctrl.xiaomi_holi target 
+```
