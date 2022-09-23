@@ -8,3 +8,11 @@
 - Build is encrypted
 - Selinux is Enforcing
 - CTS passes by default
+
+# v3.1
+
+- GPS updated blobs.
+- Improved stereo sound recording volume.
+- x-kernel inlined.
+- DotFix 6.3 inlined.
+- many more.
