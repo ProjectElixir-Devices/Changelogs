@@ -16,3 +16,7 @@
 - x-kernel inlined.
 - DotFix 6.3 inlined.
 - many more.
+
+# v3.1 [HOTFIX]
+
+- fixed booting issue.
