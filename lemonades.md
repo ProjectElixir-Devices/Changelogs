@@ -2,9 +2,9 @@
 
 ### Project Elixir for Oneplus 9R (lemonades) Changelogs
 
-### v3.0 Lemonades
+### v3.1 Lemonades
 
-- Initial release
+- Fixed Buggy Wifi Qs Tile
 - Selinux is Enforcing
 - Build is encrypted
 - CTS passes and banking apps working
