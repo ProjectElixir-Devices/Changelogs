@@ -13,3 +13,17 @@
 - Switched DRM to aidl
 - Gapps shipped with ROM
 - CTS passes by default
+
+
+### v3.1 haydn
+
+- Added Gcam
+- Hotspot Fixed
+- Fixed random lags
+- Fixed ideal drain issue caused by ril
+- Fixed NFC & Primary (main) camera issue for Global users
+- Fixed some sepolicy stuff related to surfaceflinger
+- Under the hood changes
+
+### Credits: A very special thanks to Grewal for trees, Akshay for bringup, Saurav and Elixir team, & Einsel for testing.  
+
