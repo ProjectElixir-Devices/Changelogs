@@ -1,4 +1,6 @@
-## Vince 3.1
+![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
+
+### Vince 3.1
 - Drop FDE support entirely 
 - rootdir: Drop quota flags 
 - rootdir: Remove encryptable=userdata for external SD 
@@ -6,12 +8,12 @@
 - overlay|props: Disable Recovery overrides from source
 - Correct TARGET_RECOVERY_DEVICE_MODULES 
 
-## Vince 3.0 hotfix
+### Vince 3.0 hotfix
 - Fixed Bluetooth issues
 - Fixed Hotspot issues
 - Fixed USB tethering
 
-## Vince 3.0
+### Vince 3.0
 - September Security Patch
 - Initial BETA Release
 - Enforcing Build
