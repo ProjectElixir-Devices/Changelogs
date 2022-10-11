@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/3uuYftu.png)
+![Changelog](https://i.imgur.com/7636B4K.png)
 
 <br>
 <br>
@@ -8,6 +8,30 @@
 <br>
 <h2 align="center">- Below changes are from Android 13 </h2> 
 <br>
+
+### v3.2 (11.10.2022)
+- Merged latest October Security patch 
+- CTS Passes by default and banking apps are working fine
+- Essence: User toggle for GamesProp
+- Essence: Add option to launch statusbar tuner
+- SystemUI: Media notification artwork blur filter 
+- SystemUI: Add tunables for clock position
+- SystemUI: Add tunables for clock AM/PM style 
+- Battery Styles: Bring back good ol' circle battery style
+- Battery Styles: Introduce Battery Landscape 
+- base: Allow disabling ripple effect on unlock 
+- base: Introduce PropImitationHooks
+- Allow to suppress notifications sound/vibration if screen is ON
+- SystemUI: Add support for GameSpace
+- Essence: Ask user to restart Settings on hide icons
+- Essence: Add greeting in homepage 
+- Essence: Add more welcome quotes from google ofc
+- Settings: Add missing illustration for camera gesture
+- ven/aosp: Bump version to 3.2 | Oct Release
+- SystemUI: Fix QS mobile icon disappearing on theme switch
+- Misc changes & improvements
+- Improved stability and performance
+- Much More - Try by yourself
 
 ### v3.1 (19.09.2022)
 - Merged latest September Security patch
