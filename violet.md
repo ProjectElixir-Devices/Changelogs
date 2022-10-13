@@ -3,6 +3,7 @@
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
 ### v3.2 Violet
+```
 - violet: Migrate to AIDL ClearKey DRM HAL
 - violet: Enable zygote critical window
 - violet: Add apk/jar/vintf fragments to PRODUCT_PACKAGES
@@ -17,8 +18,10 @@
 - violet: overlay: Remove BT related configs
 - violet: Move Bluetooth power overlays to sysprops
 - Misc changes and fixes
+```
 
 ### v3.1 Violet
+```
 - violet: Switch to metadata FBE
 - violet: sepolicy: Address init denial
 - violet: Don't build FM for now
@@ -31,12 +34,15 @@
 - violet: audio: Increase In-call earpiece volume
 - violet: rootdir: Add Offline Charging LED Indicator 
 - Misc changes and fixes
+```
 
 ### v3.0 Violet
+```
 - Initial release
 - Selinux is Enforcing
 - Build is encrypted
 - CTS passes and banking apps working
 - No need to flash firmware or gapps (included)
+```
 
 ### Credits: A very special thanks to Nipin 
