@@ -2,6 +2,18 @@
 
 ### Project Elixir for Realme GT Neo 2 (5G)  Changelogs
 
+### v3.2 bitra - Realme GT Neo 2
+
+- Bumped to Project Elixir v3.2.
+- Updated to Redfin October FP.
+- Update blobs to RMX3370_11.C.09.
+- Place volume panel on the left by default.
+- Fixed cpu_dma_latency value.
+- Fixed lockscreen charging info of mA & watts.
+- Modify kgsl idle timer to 58ms.
+- Reserved some space on system, system_ext, product partitions.
+- Switched to AOSP NXP NFC HAL.
+
 ### v3.1 bitra - Realme GT Neo 2
 
 - Bumped to Project Elixir v3.1.
