@@ -1,6 +1,16 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Redmi Note 9 (merlinx) Changelogs
 
+### v3.2 Merlinx
+
+- S Vendor Build
+- CTS passes by default
+- Selinux is Enforcing
+- Add Gcam go 
+- October Security Patch 
+- Project Elixir 3.2 - More changelog on website
+- No need to flash Gapps (included)
+
 ### v3.1 Merlinx
 - S Vendor Build
 - CTS passes by default
@@ -19,4 +29,4 @@
 
 ## Credits
 @sakthivelnadar @telepathine @surblazer  @ceb8khs @bengris32 and Other Redmi-MT6768 contributions  For dt
-@itsnouralawad for test
+@itsnouralawad @zhiter @theHero_7 for test

@@ -1,6 +1,16 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Redmi 9 / Poco M2 (LAVA) Changelogs
 
+### v3.2 Lava
+
+- S Vendor Build
+- CTS passes by default
+- Selinux is Enforcing
+- Add Gcam go 
+- October Security Patch 
+- Project Elixir 3.2 - More changelog on website
+- No need to flash Gapps (included)
+
 ### v3.1 Lava
 - S Vendor Build
 - CTS passes by default
@@ -19,4 +29,4 @@
 ## Credits
 @sakthivelnadar @telepathine @surblazer  @ceb8khs @bengris32 and Other Redmi-MT6768 contributions  For dt
 
-@usergrinch for test
+@AFK_ever for test
