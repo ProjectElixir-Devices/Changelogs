@@ -20,3 +20,8 @@
 # v3.1 [HOTFIX]
 
 - fixed booting issue.
+
+# v3.2
+
+- Alert Slider fix.
+- October security patch.
