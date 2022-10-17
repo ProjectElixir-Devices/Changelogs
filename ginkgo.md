@@ -2,6 +2,16 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.2 ginkgo (HotFix Build)
+```
+- Fixed Double Tap to Wake.
+- Fixed Hotspot bug.
+- Fixed Settings crash.
+- Miui Camera replaced by GCamGo.
+- Fixed Fast charging issue.
+- Move to QuickSliveR-2.5 (4.14.256) kernel.
+```
+
 ### v3.2 ginkgo
 ```
 - Initial Official ProjectElixir build.
