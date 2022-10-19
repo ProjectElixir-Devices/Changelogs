@@ -17,3 +17,10 @@ Use Emanuel powerhint
 Switch to SkiaGL Threaded
 Rework thermal
 
+### v3.2 Alioth
+
+Update to last N0Kernel and build with Clang-16
+Add proper rounded corners config 
+Tweaks on sound and dolby
+Tweaks on powerhint
+Add "Turbo Charger" overlay
