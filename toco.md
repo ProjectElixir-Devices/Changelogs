@@ -2,6 +2,26 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.2 toco Changelog
+```
+- Add xiaomi cit sensor service
+- Drop unnecessary overlay configs
+- livedisplay: Fix racy init
+- overlay: Remove COLOR_MODE_SATURATED
+- parts: Dirac fixes
+- parts: Import BootCompletedReceiver IntentFilter
+- parts: Move Thermal Profiles to system section
+- Remove some packages at build time
+- Restore ims-vt prop & overlay
+- rootdir: Remove discard command tuning
+- sepolicy: Address more health denials
+- Ship VantomKernel v4.14.295
+- Switch MiuiCamera repo
+- udfps: Hander -> Handler
+- Update from LA.QSSI.13.0.r1-06400-qssi.0
+- Update system blobs from LA.QSSI.13.0.r1-05800-qssi.0
+```
+
 ## v3.1 toco Changelog
 ```
 - Build libldacBT packages
