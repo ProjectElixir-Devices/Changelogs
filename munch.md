@@ -2,6 +2,16 @@
 
 ### Project Elixir for Redmi K40S / POCO F4 (munch) Changelogs
 
+### v3.2 munch (26-10-2022)
+
+- Removed GcamGo
+- Added MIUI Camera (64 MP Mode is broken)
+- Switched to RealKing Kernel
+- Kernel built with clang 15.0.3 
+- Audio Improvement | Force 24-Bit Audio with 48000 | 96000 (Khz)
+- Switched to AOSP Dialer 
+- Other Under the hood improvements.
+
 ### v3.2 munch
 
 - Updated Mi Sound Blobs from V13.0.11.0.SLMCNXM
