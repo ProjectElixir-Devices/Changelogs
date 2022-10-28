@@ -2,6 +2,15 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.2 ginkgo HOTFIX
+```
+- Fixed Screen Flickering in some apps.
+- Fixed Screen Record.
+- Sync with latest source.
+- Misc changes, fixes & source upsteam.
+```
+
+
 ### v3.2 ginkgo
 ```
 - Initial Official ProjectElixir build.
