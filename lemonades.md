@@ -9,3 +9,11 @@
 - Build is encrypted
 - CTS passes and banking apps working
 - No need to flash gapps (included)
+
+### v3.2 Lemonades
+
+- Fixed Udfps Padding
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- No need to flash gapps (included)
