@@ -3,10 +3,10 @@
 <br>
 <br>
 
-<h1 align="center"> Project Elixir All Version Update Changelog </h1> 
+<h3 align="center"> Project Elixir All Version Update Changelog </h3> 
 
 <br>
-<h2 align="center">- Below changes are from Android 13 </h2> 
+<h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
 
 ### v3.2 (11.10.2022)
@@ -118,7 +118,7 @@
 <br>
 <br>
 
-<h1 align="center"> Below changes are from Android 12.1 </h1> 
+<h3 align="center"> Below changes are from Android 12.1 </h3> 
 
 <br>
 <br>
