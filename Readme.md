@@ -10,6 +10,7 @@
 <br>
 
 ### v3.2 (11.10.2022)
+```
 - Merged latest October Security patch 
 - CTS Passes by default and banking apps are working fine
 - Essence: User toggle for GamesProp
@@ -32,8 +33,10 @@
 - Misc changes & improvements
 - Improved stability and performance
 - Much More - Try by yourself
+```
 
 ### v3.1 (19.09.2022)
+```
 - Merged latest September Security patch
 - CTS Passes by default and banking apps are working fine
 - Essence: Bring back icon shapes, icon packs, fonts Customisation
@@ -61,8 +64,10 @@
 - ven/aosp: rro_overlays: Update for Android 13
 - Misc changes & improvements
 - Much More - Try by yourself
+```
 
 ### v3.0 (29.08.2022)
+```
 - Initial Android 13 BETA build with August Security patch
 - CTS Passes by default and banking apps are working fine
 - Settings: Elixir: Redesign My Device Page
@@ -109,7 +114,7 @@
 - Expose the notification log
 - Misc changes
 - Much More - Try by yourself
-
+```
 <br>
 <br>
 
@@ -122,6 +127,7 @@
 
 
 ### v2.1 (06.09.2022) | EOL Update | Last Public Update
+```
 - CTS Passes and banking apps are working fine
 - Essence: Switch to new UI 
 - Implement A13 like seekbar animation
@@ -131,8 +137,10 @@
 - Essence: Add Elixir Lock Screen Clock
 - Essence: Add outline QS Style
 - ven/aosp: Update the default wall for v2.1
+```
 
 ### v2.0 (12.08.2022)
+```
 - Merged latest August Security patch 
 - CTS passes by default and banking apps are working fine
 - Settings: Elixir: Redesign My Device Page 
@@ -162,10 +170,14 @@
 - Improved stability and performance
 - Misc changes and improvements
 - Much More - Try by yourself
+```
 
-### NOTE: Don't report anything related to CTS or Banking apps if you do ROOT or modify anything in system or using MODs.
+```
+NOTE: Don't report anything related to CTS or Banking apps if you do ROOT or modify anything in system or using MODs.
+```
 
 ### v1.9 (07.07.2022)
+```
 * Merged latest July Security patch
 * Essence: Add fade filter to the media artwork 
 * Essence: Slide on Statusbar brightness control
@@ -203,8 +215,10 @@
 * Improved stability and performance
 * Misc changes and improvements 
 * Much More - Try by yourself 
+```
 
 ### v1.8 (09.06.2022)
+```
 * Merged latest June Security patch
 * Essence: Allow changing monet settings
 * Essence: Bring back Lockscreen media art & blur custs 
@@ -236,8 +250,10 @@
 * Improved stability and performance
 * Misc changes and improvements 
 * Much More - Try by yourself 
+```
 
 ### v1.7 (11.05.2022)
+```
 * Merged latest May 5 Security patch
 * Introduce high touch polling rate feature control 
 * Add support for per-app volume 
@@ -263,8 +279,10 @@
 * Settings: Move Extra Dim feature to Display 
 * prebuilt: fix APN for Vodafone NL
 * Bump to v1.7 and Update wall
+```
 
 ### v1.6 (06.04.2022)
+```
 * Full Rebase our repos on Android 12.1 
 * Merged latest April Security patch  
 * Added support for call recorder 
@@ -279,8 +297,10 @@
 * Much faster overall system response and animations processing
 * Hell lot of changes and optimization 
 * Improved performance and stability
+```
 
 ### v1.5 (08.03.2022)
+```
 * Added Face Unlock into System
 * Added Applocker into System
 * Settings: Revamped Setting page
@@ -336,8 +356,10 @@
 * Much faster overall system response and animations processing
 * Hell lot of changes and optimization 
 * Improved performance and stability
+```
 
 ### v1.4 (10.02.2022)
+```
 * Merged latest February Security patch Release 29
 * CTS Passes by default and banking apps are working fine
 * Switch back to stock QS style like pixel 
@@ -379,8 +401,10 @@
 * Much faster overall system response and animations processing
 * Hell lot of changes and optimization 
 * Improved performance and stability
+```
 
 ### v1.3 (15.01.2022)
+```
 * Latest January Patch r27 Merged
 * CTS Passes by default and banking apps are working fine
 * Unlimited Google photos in original quality available
@@ -419,8 +443,10 @@
 * Much faster overall system response and animations processing
 * Hell lot of changes and optimization 
 * Improved performance and stability
+```
 
 ### v1.2 (11.12.2021)
+```
 * Latest December Patch Merged 
 * Added statusbar clock & battery customisation
 * Allow to suppress notifications sound/vibration if screen is ON
@@ -439,9 +465,11 @@
 * allow hiding navbar 
 * Hell lot of changes and optimization 
 * Improved performance and stability
+```
 
 ### v1.1 (23.11.2021)
-* Latest November Patch Merged
+```
+Latest November Patch Merged
 * CTS passes by default
 * Added back missed prefs animations
 * Updated props, ringtone,overlays from SD1A.210817.015.A4
@@ -452,8 +480,10 @@
 * Settings: Show all available SIMs in provider model 
 * Improved Performance and Stability
 * Misc changes and fixes
+```
 
 ### v1.0 [Part 1 and 2] (21.10.2021)
+```
 * Initial Android 12 Build
 * CTS Passes by Default
 * Add back SELinux info in about page
@@ -491,3 +521,4 @@
 * Fixed Charging Indication not showing on some devices
 * Fixed FOD not showing issues
 * Improved Performance & stability
+```
