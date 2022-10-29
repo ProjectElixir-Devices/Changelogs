@@ -9,4 +9,10 @@
 - CTS passes and banking apps working
 - No need to flash gapps (included)
 
+### v3.2 lavender
 
+- Fixed CTS fail problem
+- Debloated some gapps problem
+- Fixed night light & extra dim
+- Adjusted Statusbar Padding
+- Updated some blobs
