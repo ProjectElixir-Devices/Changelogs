@@ -9,6 +9,6 @@
 - Build is encrypted
 - CTS passes and banking apps working
 - No need to flash firmware or gapps (included)
-``
+```
 
 ### Special Thanks to ZHANtech for tree 
