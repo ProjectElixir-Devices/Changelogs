@@ -24,3 +24,16 @@ Add proper rounded corners config
 Tweaks on sound and dolby
 Tweaks on powerhint
 Add "Turbo Charger" overlay
+
+### v3.2 Alioth Hotfix
+
+Fix hotspot
+Disable QCOM system daemon
+Optimize package manager dexopt properties
+Optimise dex flags
+Rework Dolby / Prebuilts environment
+Enable the pre-rendering feature
+Import AOSPA Trees Power Profile
+Add missing dimens.xml to fix status bar padding
+Import Charging props
+Multiple audio tweaks
