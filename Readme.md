@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/7636B4K.png)
+![Changelog](https://i.imgur.com/kMHhEzO.png)
 
 <br>
 <br>
@@ -8,6 +8,41 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.3 (18.11.2022)
+```
+- Merged latest November Security patch
+- CTS Passes by default and banking apps are working fine
+- Essence: Theme: Added Pitch Black theme (vivid)
+- Added Face Unlock support
+- Settings: Double tap to trigger doze 
+- BatteryStyles: Optionally add yellow charging bolt color
+- Settings: Allow using 4G icon instead of LTE 
+- Essence: incall vibration options 
+- Essence: Bring back old style mobile data indicators
+- Settings: Forward Port Volume Long Press Skip Tracks
+- Elixir: Include our brand new elixir OTA updater 
+- Settings: support per-app volume
+- Settings: Import Wi-Fi standard icon
+- SystemUI: Add hotspot toggle in QS internet dialog
+- Skip screen on animation when wake and unlock via biometrics
+- SystemUI: Bring back separate wifi & data QS tiles
+- SystemUI: Add caffeine QS tile 
+- base: SystemUI: add qs AOD tile
+- SystemUI: Introduce Data Switch QS Tile
+- SystemUI: Add USB tethering QS tile
+- BatteryService: Add support for oem fast charger detection
+- ven/aosp: Bump version to v3.3 as STABLE
+- BatteryService: Add Turbo power charging support
+- [SQUASH] BatteryService: add dash, warp, vooc charging support
+- QS: LocationTile: make it cycle modes
+- BatteryService: Add SuperDart charging support
+- Fixed lockscreen wallpaper not changing bug
+- SystemUI: Implement Bluetooth dialog
+- Misc changes & improvements
+- Improved stability and performance
+- Much More - Try by yourself
+```
 
 ### v3.2 (11.10.2022)
 ```
