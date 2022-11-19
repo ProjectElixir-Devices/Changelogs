@@ -2,6 +2,14 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
+### v3.3 violet
+```
+- Switched to prebuilt Azure kernel
+- Increased In-call earpiece volume
+- Cleaned up some death targets & adapted existing props to Android 13
+- Misc changes and fixes 
+```
+
 ### v3.2 Violet
 ```
 - violet: Migrate to AIDL ClearKey DRM HAL
