@@ -2,6 +2,16 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.3 beryllium
+- Added offline charging LED support.
+- Added aptx and LDAC suport (Not Tested).
+- Improved thermal profiles.
+- Switched to threaded.
+- redefined default thermal profile for better efficiency.
+- implimented kernelspace battery-saver.
+- Swithced to AOSP WFD.
+- misc and smoothness tweaks.
+
 ### v3.2 beryllium
 - Updated IMS, RIL, DPM, QMI, CNE blobs.
 - Fixed issue with Bluetooth.
