@@ -1,6 +1,11 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Miatoll Changelogs
 
+### v3.3 MIATOLL
+
+- November security patch
+- CTS passes by default
+
 ### v3.2 MIATOLL
 - October security patch
 - CTS passes by default
@@ -13,6 +18,7 @@
 
 NOTE:- 
 - Clean flash must required
+- Flash stable A11 firmware 
 - No need to flash Gapps (included)
 - Selinux is Enforcing
 - Rom is fbev1
