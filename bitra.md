@@ -2,6 +2,20 @@
 
 ### Project Elixir for Realme GT Neo 2 (5G)  Changelogs
 
+### v3.3 bitra - Realme GT Neo 2
+
+- Bumped to Project Elixir v3.3.
+- Updated to RedfiNovember FP.
+- Switched to user build.
+- Fixed SuperDart Charging text.
+- Fixed ScreenOff FOD.
+- Imported OOS 11 Dolby (thanks to @revolwoc)
+- Decrease launch boost to 3sec.
+- Removed Battery and Notification LED option.
+- Add Dragon Ball Edition fastchg firmware and support into libinit.
+- Misc powerhint improvements.
+- Update blobs to RMX3370_11.C.09.
+
 ### v3.2 bitra - Realme GT Neo 2
 
 - Bumped to Project Elixir v3.2.
