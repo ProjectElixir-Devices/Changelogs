@@ -32,6 +32,28 @@
 - Added Moto Dolby
 - Under the hood changes
 
+### v3.3 haydn
+
+- Switch to vendor-defined color modes 
+- Migrate vendor.camera.aux.packagelist to overlay 
+- Sepolicy: Fix faceunlock denial
+- Remove references to a2dp module 
+- Statusbar and corner config from aospa/alioth 
+- Create IMS symlinks
+- Nfc: Fix Mifare Classic reading
+- Nfc: Tone down debugging
+- Pin ImsRcsService form cupid-user-13
+- Set bt name via init on basis of marketname
+- Lower sf idle timer 
+- Relax timers for automatic refresh rate switching 
+- Configure RefreshRate brightness thresholds
+- Sync brightness overlays with miui
+- Fix Mifare Classic readings
+- Add temp divider value for cpu info overlay
+- Switch to AutoSingleLayer Android 13 Setting 
+- Remove non-existent packages
+- Switch to SkiaGL Threaded
+- Build more drm vendor hal
 
 ### Credits: A very special thanks to Grewal for trees, Akshay for bringup, Saurav and Elixir team, & Einsel for testing.  
 
