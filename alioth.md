@@ -37,3 +37,18 @@ Import AOSPA Trees Power Profile
 Add missing dimens.xml to fix status bar padding
 Import Charging props
 Multiple audio tweaks
+
+### v3.3 Alioth
+
+Props: add ro.audio.monitor props According to https://buildpropeditor.jrummyapps.com/system-properties.html, could fix audio direction not switching on rotation
+Audio Volumes: Update volumes from Google Pixel 7 Pro
+Powerhint: limited the dex2oat resouce when thermal stress
+Better RAM Management
+Enable suspend while charging 
+Configure SQLite to operate in MEMORY mode
+Make the UI smoother
+Use surfaceflinger props from cheetah
+Use HintManager for HWUI 
+Enable display async powermode 
+Compile HWUI for performance 
+Sync suspend properties from raven
