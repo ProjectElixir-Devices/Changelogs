@@ -2,6 +2,17 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.3 ginkgo
+```
+- November 5th, 2022 Security Patch.
+- Fixed NFC for willow users.
+- Fixed HDR in Gcam Mods.
+- Fixed some minor crashes.
+- Upstream Display Blob.
+- Misc changes, fixes & source upsteam.
+```
+
+
 ### v3.2 ginkgo HOTFIX
 ```
 - Fixed Screen Flickering in some apps.
