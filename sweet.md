@@ -2,6 +2,25 @@
 
 ### Project Elixir for Redmi Note 10 Pro / Max (sweet/sweetin) Changelogs
 
+### v3.3 sweet/sweetin
+```
+- Rebase tree from @Aryannn999
+- Switch  back to audio HAL to V7
+- Add compilation of legacy audio
+- sepolicy: Dont audit vendor_diag_device denials
+- sepolicy: Label qcom extcon sysfs
+- parts: Remove proximity sensor gestures
+- parts: Restore MiSound scene on boot complete
+- gps: Revert oem changes
+- Import oriole cpuctl tuning
+- Disable blur on app launch
+- Define AAPT configuration
+- Pin Google's SystemUI instead of AOSP's
+- Switch to Azure clang 15 and Sleepy kernel
+- Switch to build type user
+- Other fixes and  improvements
+```
+
 ### v3.2 sweet/sweetin
 ```
 - Bump EROFS PCluster Size
