@@ -3,14 +3,12 @@
 ### Changelogs For OnePlus 5T (dumpling)
 
 # v3.0
-
 - Initial A13 Beta Build
 - Build is encrypted
 - Selinux is Enforcing
 - CTS passes by default
 
 # v3.1
-
 - GPS updated blobs.
 - Improved stereo sound recording volume.
 - x-kernel inlined.
@@ -18,10 +16,14 @@
 - many more.
 
 # v3.1 [HOTFIX]
-
 - fixed booting issue.
 
 # v3.2
-
 - Alert Slider fix.
 - October security patch.
+
+# v3.3
+- November Security Patches.
+- Charging LED fix.
+- Stock Rounded corner.
+- Dolby atmos
