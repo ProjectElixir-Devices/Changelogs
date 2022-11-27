@@ -1,6 +1,18 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Redmi Note 9 (merlinx) Changelogs
 
+### v3.3 Merlinx
+
+- S Vendor Build
+- CTS passes by default
+- Selinux is Enforcing
+- Bump ZRAM size 75%
+- Updated blobs from Miui 13.0.2 Global
+- November Security Patch 
+- Project Elixir 3.3 
+- More changelog on website
+- No need to flash Gapps (included)
+
 ### v3.2 Merlinx
 
 - S Vendor Build
