@@ -2,6 +2,22 @@
 
 ### Project Elixir for OnePlus 7 Pro (guacamole) Changelogs
 
+### v3.3
+```
+- OOS 11 Based Keep In Mind
+- Switch to AutoSingleLayer Android 13 setting 
+- Remove overriding config for BT as no need in T
+- allow apps to get aux camera prop
+- Disable client composition cache 
+- correctly pin daxui and daxservices
+- Improved Dolby
+- ReImport Touch HIDL
+- Optimize native executables for Cortex-A76 CPU 
+- Fix the problem of locking 60Hz under strong light
+- Kang Power Profile from OOS12
+- Add blkio tuning from sunfish
+```
+
 ### v3.2 
 ```
 - Updated Media codecs from OOS12OB2
