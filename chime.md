@@ -2,6 +2,9 @@
 
 ### Changelog for Poco M3 & Redmi 9T / 9 Power / Note 9 4G
 
+# 3.3 HOTFIX!
+- Fix cam
+
 ## 3.3
 
 - Fix several incall mic issue
