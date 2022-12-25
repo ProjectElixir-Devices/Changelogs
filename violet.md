@@ -2,6 +2,17 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
+### v3.4 violet
+```
+- Switched back to Xcalibur️ kernel
+- violet: parts: Adapt to A13 QPR-1
+- Build Aperture Cam app
+- violet: overlay: Compact cached app heaps in the background 
+- violet: Compile HWUI for performance 
+- violet: Enable use of dedicated device for voip
+- Misc changes and fixes 
+```
+
 ### v3.3 violet
 ```
 - Switched to prebuilt Azure kernel
