@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/kMHhEzO.png)
+![Changelog](https://i.imgur.com/5Y0eqsV.png)
 
 <br>
 <br>
@@ -8,6 +8,49 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.4 (25.12.2022)
+```
+- Merged latest December Security patch
+- CTS Passes by default and banking apps are working fine
+- Switched to Launcher 3 (Experience is much better now)
+- App lock in system as been added
+- Allow locking tasks to recents 
+- BrightnessController: Allow setting vibration duration 
+- Essence: incall vibration options
+- Essence : Toggle data usage view on QS footer 
+- Essence: Add toggle to switch QS panel style
+- Essence: Allow doubletap/longpress power to toggle torch
+- Essence: Power menu animations
+- Essence: Screen off animations 
+- Essence: Make combined signal icons configurable at runtime 
+- base: Introduce GamesPropsUtils
+- Settings: add option to enable AOD on charging only 
+- SystemUI: Implement burn-in protection for status/navbar
+- SystemUI: Add AOD QS tile 
+- QS: Add and use Mobile Data panel 
+- base: Live Volume Steps
+- Fixed bugs with Faceunlock
+- Keyguard: Allow disabling fingerprint wake-and-unlock
+- Rework battery usage bar like OOS13
+- base: Implement cutout force full screen
+- SystemUI: Import QS panel changes from FluidUI
+- QS: LocationTile: make it cycle modes
+- SystemUI: screenrecord: Add an option to use HEVC 
+- Screenrecord: add blinking stop dot and low quality options
+- Screenrecord: Make low quality bitrate scalable per device
+- Screenrecord: Add an option to record for longer
+- Screenrecord: Allow to reduce 3 second screen record timer 
+- SystemUI: Introduce Adaptive Playback
+- Double tap to wake on doze 
+- SystemUI: Implement Reverse-engineered Smartspace
+- base: Allow toggling screen off FOD 
+- Forward Port Volume Long Press Skip Tracks
+- Oooooof! TBH iDK there are a lot of changes and fixes due to rebase
+- Misc changes & improvements
+- Improved stability and performance
+- Much More - Try by yourself
+```
 
 ### v3.3 (18.11.2022)
 ```
