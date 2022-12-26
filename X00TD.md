@@ -1,21 +1,18 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/kMHhEzO.png)
+![Changelog](https://i.imgur.com/5Y0eqsV.png)
 
-## v3.2 X00T/D Changelogs
+## v3.4 X00T/D Changelogs
 ```
-- Updated FP to Cheetah November
-- Merged November security patch
-- Added CAMERA in light type for android.hardware.light
-- wifi: Enabled set channel on NDP setup
-- wifi: Configured correct overlay configuration.
-- Added A2DP offload going
-- Builded a2dpoffload libs
-- Bringed back A2DP blobs
-- Updated props and enabled A2DP offload support
-- Dropped WIFI_DRIVER_FW_PATHS
-- props: Kanged sf duration from RMX3193_11_A.01
-- Migrated to AIDL ClearKey DRM HAL
+- Updated FP to Cheetah December
+- Merged December security patch
+- Removed bdroid_buildcfg.h
+- Renamed Light HAL default implementation variable
+- Dropped WFD protected buffers support
+- Removed msadp symlinking
+- Defered triggering WiFi load to HAL
+- Dropped Atrace HIDL service
+- wifi: Disabled TDLS offchannel
 - CTS passed by default
 - Some misc improvements and fixes
 
