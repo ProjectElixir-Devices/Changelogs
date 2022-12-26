@@ -1,5 +1,9 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 
+## v3.4 Veux/Peux
+- Synced with latest source changes
+- Miscellaneous other changes to make rom smoother and better
+
 ## v3.0 Veux/Peux
 
 ```
