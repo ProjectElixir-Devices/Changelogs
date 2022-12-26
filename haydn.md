@@ -3,7 +3,7 @@
 ### Project Elixir for Redmi K40 Pro/Pro+/Mi 11X Pro/11i (haydn) Changelogs
 
 ### v3.0 haydn
-
+```
 - Initial OFFICIAL Build
 - Nuked Miuicam
 - Switched to Aosp BT
@@ -13,10 +13,10 @@
 - Switched DRM to aidl
 - Gapps shipped with ROM
 - CTS passes by default
-
+```
 
 ### v3.1 haydn
-
+```
 - Added Gcam
 - Hotspot Fixed
 - Fixed random lags
@@ -24,16 +24,18 @@
 - Fixed NFC & Primary (main) camera issue for Global users
 - Fixed some sepolicy stuff related to surfaceflinger
 - Under the hood changes
+```
 
 ### v3.2 haydn
-
+```
 - October Patch
 - Tweaked thermals to unlock 2.8Ghz on prime cores (Expect some heating)
 - Added Moto Dolby
 - Under the hood changes
+```
 
 ### v3.3 haydn
-
+```
 - Switch to vendor-defined color modes 
 - Migrate vendor.camera.aux.packagelist to overlay 
 - Sepolicy: Fix faceunlock denial
@@ -54,6 +56,18 @@
 - Remove non-existent packages
 - Switch to SkiaGL Threaded
 - Build more drm vendor hal
+```
+
+### 3.4 haydn
+```
+- Fixed issues related Android Auto.
+- haydn: Import more video calls related props
+- haydn: sepolicy: Label some RIL property. 
+- haydn: Enable zygote critical window.
+- haydn: Disable hwc vds in surface flinger. 
+- haydn: rootdir: Chown the cgroup.procs nodes.
+- And some under the hood changes
+```
 
 ### Credits: A very special thanks to Grewal for trees, Akshay for bringup, Saurav and Elixir team, & Einsel for testing.  
 
