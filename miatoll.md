@@ -1,6 +1,11 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Miatoll Changelogs
 
+### v3.4 MIATOLL
+
+- December security patch
+- CTS passes by default
+
 ### v3.3 MIATOLL
 
 - November security patch
