@@ -27,3 +27,7 @@
 - Charging LED fix.
 - Stock Rounded corner.
 - Dolby atmos
+
+# v3.4
+- December security patch.
+- Novenber features.
