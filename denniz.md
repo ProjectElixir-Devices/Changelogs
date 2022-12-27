@@ -2,18 +2,13 @@
 
 ### Project Elixir for OnePlus Nord2 5G (denniz) Changelogs
 
-### v3.3 OnePlus Nord2 5G (denniz)
+### v3.4 OnePlus Nord2 5G (denniz)
 
-- Merged November security patch
-- Added media Playback control with the volume key
-- Added AOD tile
-- Fixed lockscreen wallpaper issue
-- Added OTA updater
-- Added pitch black theme
-- Added saparate wifi and mobile data tile
-- Added call connect, disconnect, waiting vibrations
-- Added per app volume control
-- Added small 4G icon
+- Merged December security patch [QPR1]
+- Kernel Upstreamed to Linux Stable 4.14.302
+- Switched to Launcher3 (Experience is much better now)
+- App lock in system as been added
+- Allow locking tasks to recents
 - Other fixes and improvements
 - Synced with latest Project-Elixir sources
 
