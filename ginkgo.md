@@ -2,6 +2,17 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.4 ginkgo
+```
+- December 5th, 2022 Security Patch.
+- Replaced GCamGo with Aparture Camera.
+- Fixed call recording issue.
+- Updated Display, Audio & media blobs to latest CLO.
+- Fixed fastcharging in chineese varrient.
+- Many more changes under the hood.
+```
+
+
 ### v3.3 ginkgo
 ```
 - November 5th, 2022 Security Patch.
