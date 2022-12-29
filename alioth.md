@@ -53,3 +53,12 @@
 - Enable display async powermode 
 - Compile HWUI for performance 
 - Sync suspend properties from raven
+
+## v3.4 Alioth
+
+Rework trees based on 13.0.8 EU blobs, thanks to johnmart19, voidui dev
+Added Leica camera thanks to darkphnx
+Nexus kernel by default thanks to NotZeetaa
+Increase volume speaker
+Added live display with sunlight mode and anti flickering
+And more
