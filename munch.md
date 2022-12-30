@@ -2,6 +2,14 @@
 
 ### Project Elixir for Redmi K40S / POCO F4 (munch) Changelogs
 
+### v3.4 munch (30-12-2022)
+
+- Fixed compatibility issue with Orange Fox & TWRP custom recovery
+- Updated Security patch to December 2022
+- Added GcamGo
+- Fixed all other issues that have existed since Elixir 3.1
+- Other minor improvements
+
 ### v3.2 munch (26-10-2022)
 
 - Removed GcamGo
