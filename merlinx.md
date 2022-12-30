@@ -1,6 +1,15 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Redmi Note 9 (merlinx) Changelogs
 
+## 3.4 Merlinx
+
+- R vendor build
+- Fixed EBPF Problems
+- Rebased new device tree, thanks to mati and ben
+- December security patch
+- Clean flash mandatory please
+- No need to flash gapps (included)
+
 ### v3.3 Merlinx
 
 - S Vendor Build
