@@ -2,6 +2,19 @@
 
 ### Project Elixir for Realme GT Neo 2 (5G)  Changelogs
 
+### v3.4 bitra - Realme GT Neo 2                                    
+- Bumped to Project Elixir v3.4.
+- Updated to Redfin December FP.
+- Switch to OSS dtbo.
+- Introduce Oplus Vibrator.
+- Introduce smooth_level and sensitive_level for touchpanel.
+- Added some audio rotation props.
+- Tweaked Vibration, Auto brightness and Livedisplay.
+- Imported Display Eye Protection Data from stock.
+- Fix brightness mapping + add new autobrightness config.
+- Update WCNSS and power profile configs.
+- Update blobs to RMX3370_11.C.10.
+
 ### v3.3 bitra - Realme GT Neo 2
 
 - Bumped to Project Elixir v3.3.
