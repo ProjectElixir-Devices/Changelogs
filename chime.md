@@ -2,6 +2,16 @@
 
 ### Changelog for Poco M3 & Redmi 9T / 9 Power / Note 9 4G
 
+# 3.4
+
+- Fix zoom
+- Kang runtime cpusets from coral
+- Update blobs from miui_LIME_V13.0.4.0.SJQCNXM_88d1d76919_12.0
+- Import camxoverride settings configuration
+- Switch BtAudio to AIDL
+- Apply MIUI build fingerprint for each variants
+- Add blkio tuning from sunfish
+
 # 3.3 HOTFIX!
 - Fix cam
 
