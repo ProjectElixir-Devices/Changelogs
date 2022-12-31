@@ -2,9 +2,12 @@
 
 ### Project Elixir for Xiaomi Mi A1 (tissot) Changelogs
 
-### v3.2
+### v3.4 tissot
 ```
-- Initial release
+- parts: Added Clear Speaker
+- Build Aperture Cam app
+- Source changes of v3.4
+- Misc changes and fixes 
 - Selinux is Enforcing
 - CTS passes and banking apps working
 - No need to flash firmware or gapps (included)
