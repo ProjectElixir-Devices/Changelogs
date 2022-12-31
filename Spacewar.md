@@ -2,7 +2,7 @@
 
 ![Changelog](https://i.imgur.com/5Y0eqsV.png)
 
-## v3.4 Spacewar Changelogs
+## v3.4 - HotFix Spacewar Changelogs
 ```
 - Merged December security patch
 - Imported Bluetooth firmware from stock android 13 beta
@@ -14,6 +14,10 @@
 - Imported QTI AIDL lights HAL from LA.UM.9.14.r1-17700-LAHAINA.0
 - CTS passed by default
 - Some misc improvements and fixes
+
+HotFix Changelogs:
+- Fixed Hotspot issues
+- Fixed crashing Network settings
 
 Note: 
 - SELinux Enforcing
