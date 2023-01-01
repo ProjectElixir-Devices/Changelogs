@@ -9,6 +9,35 @@ Device maintainer: Flower Sea
 Required firmware: build-in
 ```
 
+# v3.4 venus
+
+For the last update in 2022, let's meet again in 2023. Happy New Year!
+
+## device/xiaomi/venus
+* Remove smooth display
+* Aperture: Unlock additional camera framerates
+
+## kernel/xiaomi/venus
+* Flower Kernel: Dec: Daffodils-v3.0
+* built with the latest LLVM Clang 16
+* Merge CLO tag 'LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0'
+* Add simple_lmk(Simple Android Low Memory Killer)
+* Switched I/O scheduler from BFQ to Samsung's SSG for lower CPU overhead and better Android-specific optimizations
+* mm: vmstat: use power efficient workingqueues
+* Enable power efficient workqueues
+* techpack/video: Split lahaina video config from kona
+* Makefile: Use O3 optimization level for Clang LTO 
+* Makefile: Set --lto-O3 LLD linker flag with clang LTO
+* allow all arches to enable O3
+* drivers: scsi: ufs-qcom: set auto hibern8 back to 1ms 
+* qcacld-3.0: Do not allow any wakelocks to be held 
+* drivers/qcacld-3.0: Disable power debugging by default
+* cpufreq: qcom-hw: Reduce limits polling delay 
+* cpufreq: qcom-hw: Switch to non deferrable work
+
+## source Changelog
+* Synced latest Elixir 3.4 source
+
 # v3.3 venus
 ## device/xiaomi/sm8350-common
 * sm8350-common: rootdir: Remove discard command tuning
