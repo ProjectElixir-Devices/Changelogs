@@ -2,6 +2,9 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.4 beryllium
+- Source upstream.
+
 ### v3.3 beryllium
 - Added offline charging LED support.
 - Added aptx and LDAC suport (Not Tested).
