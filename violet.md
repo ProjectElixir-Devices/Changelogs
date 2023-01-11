@@ -2,6 +2,15 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
+### v3.5 violet
+```
+- Included stable MiuiCamera as default camera
+- Improved charging speed
+- Updated radio to v1.5 (Sim enable/disable option is unlocked now)
+- Full base tree and cleanup
+- Misc changes and fixes
+```
+
 ### v3.4 violet
 ```
 - Switched back to Xcalibur️ kernel
