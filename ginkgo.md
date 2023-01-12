@@ -2,6 +2,16 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.5 ginkgo
+```
+- January 5th, 2023 Security Patch.
+- Enabled aux camera support with Aparture Camera.
+- Removed hidl base 1.0 dependency from trinket camera hal.
+- Fixed some application crashes.
+- Source Upsteam & misc changes.
+```
+
+
 ### v3.4 ginkgo
 ```
 - December 5th, 2022 Security Patch.
