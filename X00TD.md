@@ -1,18 +1,18 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/5Y0eqsV.png)
+![Changelog](https://i.imgur.com/Uppw05s.png)
 
-## v3.4 X00T/D Changelogs
+## v3.5 X00T/D Changelogs
 ```
-- Updated FP to Cheetah December
-- Merged December security patch
-- Removed bdroid_buildcfg.h
-- Renamed Light HAL default implementation variable
-- Dropped WFD protected buffers support
-- Removed msadp symlinking
-- Defered triggering WiFi load to HAL
-- Dropped Atrace HIDL service
-- wifi: Disabled TDLS offchannel
+- Updated FP to Cheetah January
+- Merged January security patch
+- Added touchscreen gestures HIDL HAL
+- Disabled ZSL mode
+- Enabled EGL buffer_age extension support
+- Updated RIL manifest entries
+- rootdir: Adjusted userdata and cache f2fs mount options
+- Moved qti_whitelist.xml to /system_ext
+- Switched IWlan to AP-assisted mode
 - CTS passed by default
 - Some misc improvements and fixes
 
