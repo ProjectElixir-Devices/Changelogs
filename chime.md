@@ -2,6 +2,12 @@
 
 ### Changelog for Poco M3 & Redmi 9T / 9 Power / Note 9 4G
 
+# 3.5
+
+- January sec patch
+- Shipped with anya kernel
+- Misc changes & improvements
+
 # 3.4
 
 - Fix zoom
