@@ -7,6 +7,15 @@ Build type: Monthly
 Device: Xiaomi 11 Pro (mars)
 Device maintainer: Flower Sea
 ```
+
+# v3.5 mars
+
+## device/xiaomi/sm8350-common
+* Enable battery health
+
+## source Changelog
+* Synced latest Elixir 3.5 source
+
 # v3.4 mars
 
 For the last update in 2022, let's meet again in 2023. Happy New Year!
