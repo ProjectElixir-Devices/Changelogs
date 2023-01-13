@@ -9,6 +9,14 @@ Device maintainer: Flower Sea
 Required firmware: build-in
 ```
 
+# v3.5 venus
+
+## device/xiaomi/sm8350-common
+* Enable battery health
+
+## source Changelog
+* Synced latest Elixir 3.5 source
+
 # v3.4 venus
 
 For the last update in 2022, let's meet again in 2023. Happy New Year!
