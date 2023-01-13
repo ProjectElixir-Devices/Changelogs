@@ -32,3 +32,11 @@
 - December security patch.
 - Novenber features.
 - [BUG] Flash light.
+
+# v3.5
+- Updated Bluetooth blobs.
+- Cleanup GPS, music Blobs.
+- Drop unneeded NFC & media libs.
+- GPU Tweaks. 
+- [BUG] Flash light.
+- January Security Patches

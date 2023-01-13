@@ -31,3 +31,10 @@
 # v3.4
 - December security patch.
 - Novenber features.
+
+# v3.5
+- Updated Bluetooth blobs.
+- Cleanup GPS, music Blobs.
+- Drop unneeded NFC & media libs.
+- GPU Tweaks.
+- January Security Patches
