@@ -2,6 +2,14 @@
 
 ### Project Elixir for Redmi Note 7/7s (lavender) changelogs
 
+### 3.5 lavender
+
+- Disable skia tracing by default
+- DeviceSettings: Adjust fps overlay
+- DeviceSettings: Update clear speaker audio from MIUI 12
+- Rootdir: Add offline charging LED indicator
+- Rootdir: Stop bootanimation service after boot
+
 ### 3.4 lavender
 
 - Fixed Led 
