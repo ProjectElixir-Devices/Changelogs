@@ -2,6 +2,16 @@
 
 ### Project Elixir for Realme GT Neo 2 (5G)  Changelogs
 
+### v3.5 bitra - Realme GT Neo 2
+- Bumped to Project Elixir v3.5.
+- Updated to Redfin January FP.
+- Removed smart charging and battery health.
+- Change perms to hide Magisk in banking apps.
+- Enable USB debugging on boot.
+- Fixed brightness level mapping.
+- Update Audio configs from C.10.
+- Update blobs to RMX3370_11.C.10.
+
 ### v3.4 bitra - Realme GT Neo 2                                    
 - Bumped to Project Elixir v3.4.
 - Updated to Redfin December FP.
