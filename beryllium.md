@@ -2,6 +2,12 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.5 beryllium
+- Fixed issue with Netflix.
+- Fixed issue with Snapchat.
+- Addressed some denials.
+- Switched to user build.
+
 ### v3.4 beryllium
 - Source upstream.
 
