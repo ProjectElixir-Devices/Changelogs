@@ -2,6 +2,19 @@
 
 ### Project Elixir for Redmi K40S / POCO F4 (munch) Changelogs
 
+### v3.5 munch (15-01-2023)
+
+- Added MIUI Camera Lecia Edition 
+- Update MI Sound Blobs to MIUI 14 CN
+- Enabled V-Sync for CPU Rendered Apps 
+- Build with Prelude Clang (16.0)
+- Add Dynamic Refresh Rate Support
+- Fixed Battery Health Menu
+- January 2023 Security Patch
+- Fixed Extra Dim
+- Latest Elixir Source v3.5
+- Fixed Other minor issues and under the hood improvements
+
 ### v3.4 munch (30-12-2022)
 
 - Fixed compatibility issue with Orange Fox & TWRP custom recovery
@@ -39,4 +52,4 @@
 - Added MI Sound Enhancer
 - Rework thermal
 
-### Credits: A very special thanks to MadMax for trees, Saurav and Elixir team.
+### Credits: A very special thanks to MadMax for trees, Spakal for MiCam, Saurav and Elixir team.
