@@ -32,7 +32,6 @@
 - Tweaked thermals to unlock 2.8Ghz on prime cores (Expect some heating)
 - Added Moto Dolby
 - Under the hood changes
-```
 
 ### v3.3 haydn
 ```
@@ -68,6 +67,17 @@
 - haydn: rootdir: Chown the cgroup.procs nodes.
 - And some under the hood changes
 ```
+
+### v3.5 haydn
+
+- haydn: Add miuicamera
+- haydn: sepolicy: Add palm sensor to touchscreen genfs 
+- haydn: parts: Add proguard.flags
+- haydn: sepolicy: Label thermal prop 
+- haydn: sepolicy: Silence some denial
+- haydn: sepolicy: Adress Incremental denial
+- haydn: sepolicy: Address batterysecret denial 
+- haydn: sepolicy: Label some camera prop
 
 ### Credits: A very special thanks to Grewal for trees, Akshay for bringup, Saurav and Elixir team, & Einsel for testing.  
 
