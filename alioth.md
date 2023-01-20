@@ -56,9 +56,20 @@
 
 ## v3.4 Alioth
 
-Rework trees based on 13.0.8 EU blobs, thanks to johnmart19, voidui dev
-Added Leica camera thanks to darkphnx
-Nexus kernel by default thanks to NotZeetaa
-Increase volume speaker
-Added live display with sunlight mode and anti flickering
-And more
+- Rework trees based on 13.0.8 EU blobs, thanks to johnmart19, voidui dev
+- Added Leica camera thanks to darkphnx
+- Nexus kernel by default thanks to NotZeetaa
+- Increase volume speaker
+- Added live display with sunlight mode and anti flickering
+- And more
+
+## v3.5 Alioth
+
+- Rework trees based on 13.0.9 EU blobs, thanks to johnmart19, voidui dev
+- Sync last Nexus kernel staging branch changes
+- Nuked leica camera for the moment
+- Enable SSR for all subsytem types
+- Enable SSR for all subsytem types
+- Imported miui CarrierConfig changes from munch V13.0.5.0.SLMMIX
+- Set bluetooth.device.default_name to 'Poco F3'
+- Enable suspend to RAM 
