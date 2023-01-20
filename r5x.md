@@ -1,6 +1,16 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+
+### v3.5  Realme 5 Series (r5x)
+- Force HAL1 on social apps
+- Added Missing display config file
+- Fixed 5i prebuilt Fingerprint
+- Adressed some Denial
+- Added Prop HintManager for HWUI
+- Misc. Fixes and Improvements
+
+
 ### v3.4 Realme 5 Series (r5x)
 - Added Aperture Camera And Enabled Aux
 - Disable sched_conservative_pl Boosting
