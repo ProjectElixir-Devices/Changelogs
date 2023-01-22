@@ -2,16 +2,16 @@
 
 ### Project Elixir for Redmi Note 10 Pro / Max (sweet/sweetin) Changelogs
 
-### v3.4 sweet/sweetin
+### v3.5 sweet/sweetin
 ```
-- Switch BtAudio to AIDL
-- Migrate vendor.camera.aux.packagelist to sdk overlay
-- Configure aux camera for Aperture Cam
-- Enable 24-bit for primary output and deep buffer
-- Import media_codecs_vendor.xml from sweet
-- Import OnePlus Dolby
-- Add touch improvements sysprops
-- rootdir: Clear package_cache after dirty flash
+- Move to common libpiex_shim
+- Move to common libhidl
+- Fix compilation for QPR1 merge
+- Set default wifi country code to '00'
+- Disable VSync for CPU rendered apps
+- Compile HWUI for performance
+- Switch back to vantom kernel ( playgound clang 16) 
+- Nuked oneplus dolby
 - Other fixes and  improvements
 ```
 
