@@ -1,8 +1,44 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 
+## v3.5 Veux/Peux
+```
+veux: Import XiaomiParts 
+veux: Enable set channel on NDP setup 
+veux: wifi: Configure correct overlay configuration. 
+veux: Enable zygote critical window 
+veux: gps: Update to LA.UM.9.14.r1-19200.02-LAHAINA.QSSI13.0 
+veux: qcc-tr: Define new AID for qcc-trd 
+veux: config.fs: Add mapping for imsdaemon 
+veux: config.fs: init: add AID_VENDOR_FASTRPC group for fastrpc 
+veux: Slim up filesystem configuration 
+veux: Use RSA4096 key also for vbmeta_system 
+veux: Removing GSI keys 
+veux: Switch BtAudio to AIDL 
+veux: Drop qti thermal 2.0 service hals 
+veux: Remove non-existing or implicitly included IPACM packages 
+veux: Remove A2DP input module in audio policy configuration 
+veux: extract-files: Allow extracting proprietary-files for recovery 
+veux: Add Aperture to config_cameraAuxPackageAllowList 
+veux: Migrate vendor.camera.aux.packagelist to overlay 
+veux: Remove QTI BT stack bits 
+veux: Move BT profiles props to vendor 
+veux: overlay: Remove BT related configs 
+veux: Remove Bluetooth power overlays 
+veux: Don't override bluetooth name on recovery 
+veux: Update build fingerprint version 
+veux: Import more vendor blobs from stock 
+veux: Prevent adding same dependency twice in blob_fixup 
+veux: Inherit updatable_apex.mk 
+veux: Symlink libvndfwk_detect_jni.qti for CneApp 
+veux: Create Adreno symlinks   
+veux: Fix bluetooth and USB device name props assignment
+```
+
 ## v3.4 Veux/Peux
-- Synced with latest source changes
-- Miscellaneous other changes to make rom smoother and better
+```
+Synced with latest source changes
+Miscellaneous other changes to make rom smoother and better
+```
 
 ## v3.0 Veux/Peux
 
