@@ -2,6 +2,13 @@
 
 ### Changelog for Redmi K20 /Mi 9T
 
+### v3.5
+```
+- Fixed Hotspot
+- Include oneplus 9r dolby
+- Include leica miuicamera
+```
+
 ### v3.4
 ```
 - Initial Official build
