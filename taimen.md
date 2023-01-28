@@ -2,4 +2,4 @@
 ### Project Elixir for Google Pixel 2 XL (taimen) Changelogs
 
 ### v3.5 Taimen
-- Initial Official Elixir
+- Initial Official Relese Project Elixir
