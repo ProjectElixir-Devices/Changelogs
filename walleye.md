@@ -1,4 +1,4 @@
-![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
+![Changelog](https://i.imgur.com/Uppw05s.png)
 ### Project Elixir for Google Pixel 2 (walleye) Changelogs
 
 ### v3.5 Walleye
