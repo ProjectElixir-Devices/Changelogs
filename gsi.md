@@ -2,8 +2,9 @@
 
 ### Changelog for Generic System Image (gsi)
 
-### v3.4
+### v3.5
 ```
-- Initial Official Gsi build
-- Stable AF
+- Added SEPolicy to fix FOD on Samsung
+- Properly adapted FOD patch
+- Minor optimizations
 ```
