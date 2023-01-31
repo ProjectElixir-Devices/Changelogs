@@ -2,6 +2,15 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.5 ginkgo - 2nd Update
+```
+- Fixup statusbar padding.
+- Fixed charging stop issue for some users.
+- updated adreno stack to WAIPIO 16000.
+- Switch to sepolicy_vndr-legacy-um (fixes some denials)
+- Source Upsteam & misc changes.
+```
+
 ### v3.5 ginkgo
 ```
 - January 5th, 2023 Security Patch.
