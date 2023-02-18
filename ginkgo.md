@@ -2,6 +2,15 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+
+### v3.6 ginkgo
+```
+- February 5th, 2023 Security Patch.
+- Minor cleanup on fingerprint HAL.
+- Enable USB FastCharge by default.
+- Source side upsteams & Misc changes.
+```
+
 ### v3.5 ginkgo - 2nd Update
 ```
 - Fixup statusbar padding.
