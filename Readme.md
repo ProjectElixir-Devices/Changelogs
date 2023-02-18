@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/Uppw05s.png)
+![Changelog](https://i.imgur.com/b3fzqwG.jpg)
 
 <br>
 <br>
@@ -8,6 +8,33 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.6 (18.02.2022)
+```
+- Merged latest February Security patch
+- CTS Passes by default and banking apps are working fine 
+- Exclusive: Added 3 new lock screen clock  
+- Exclusive: Add minimal clock 
+- Exclusive: Add oxygen os alike clock  
+- Exclusive: Add analog clock 
+- Exclusive: Card layout optional 
+- Essence: Import Wi-Fi standard icon 
+- Essence: Battery Styles: Added 9 more battery styles 
+- Essence: Add QS pull down with one finger 
+- Essence: Add Haptic Feedback to tiles 
+- reTicker: Do not show when content/icon is null 
+- SystemUI: Unblock alarm and vibrate status bar icons 
+- SystemUI: Make sure notification icons are sticked to the left 
+- base: Allow disabling color inversion support 
+- Themed icons: Updated themed icons in launcher 
+- ven/aosp: Switch to new gapps 
+- ven/aosp: Bump Elixir version to v3.6 
+- Launcher3: Enable rounded corners enforcement for widgets 
+- Added Music app by default - for streaming music from YouTube Music 
+- Misc changes & improvements
+- Improved stability and performance
+- Much More - Try by yourself
+```
 
 ### v3.5 (11.01.2022)
 ```
