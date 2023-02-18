@@ -9,7 +9,7 @@
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
 
-### v3.6 (18.02.2022)
+### v3.6 (18.02.2023)
 ```
 - Merged latest February Security patch
 - CTS Passes by default and banking apps are working fine 
@@ -36,7 +36,7 @@
 - Much More - Try by yourself
 ```
 
-### v3.5 (11.01.2022)
+### v3.5 (11.01.2023)
 ```
 - Merged latest January Security patch
 - CTS Passes by default and banking apps are working fine
