@@ -1,18 +1,22 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/Uppw05s.png)
+![Changelog](https://i.imgur.com/b3fzqwG.jpg)
 
-## v3.5 X00T/D Changelogs
+## v3.6 X00T/D Changelogs
 ```
-- Updated FP to Cheetah January
-- Merged January security patch
-- Added touchscreen gestures HIDL HAL
-- Disabled ZSL mode
-- Enabled EGL buffer_age extension support
-- Updated RIL manifest entries
-- rootdir: Adjusted userdata and cache f2fs mount options
-- Moved qti_whitelist.xml to /system_ext
-- Switched IWlan to AP-assisted mode
+- Updated FP to Cheetah February
+- Merged February security patch
+- Updated Audio HIDL to 7.1
+- Switched audio HAL to V7
+- Audio: Disabled stereo support for voip
+- Audio: Added offload gapless support flag
+- Audio: Added new flag name to compress offload case
+- Updated multiple vibration intensity levels
+- Enabled perf hint window
+- Adjusted proximity check timeout
+- Disabled HWC composition strategy prediction
+- Disabled continuous transaction tracing on all build types
+- Disabled dynamic fps
 - CTS passed by default
 - Some misc improvements and fixes
 
