@@ -3,6 +3,13 @@
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
 
+### v3.6 beryllium
+```
+- Fixed Gyroscope.
+- Switched to Kawaii kernel.
+- Switched to userdebug build.
+```
+
 ### v3.5 beryllium - 2nd Update
 ```
 - Fixed issue with Wifi Display.
