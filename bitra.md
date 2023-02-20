@@ -2,6 +2,18 @@
 
 ### Project Elixir for Realme GT Neo 2 (5G)  Changelogs
 
+### v3.6 bitra - Realme GT Neo 2
+- Bumped to Project Elixir v3.6.
+- Fix ripple animation lag.
+- Divide IRQ affinity correctly.
+- Adjust FOD sensor position values.
+- Add missing sensor for UDFPS AOD.
+- Enable option for full screen aspect ratio.
+- Removed GcamGo (Aperture cam is good enough).
+- Import some audio/bt configs from stock.
+- Fixed "dc dimming" button getting turned off even if it's enabled.
+- Add Livedisplay 2.1 support (thanks to @cristianvaz).
+
 ### v3.5 bitra - Realme GT Neo 2
 - Bumped to Project Elixir v3.5.
 - Updated to Redfin January FP.
