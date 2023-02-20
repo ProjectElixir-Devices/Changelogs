@@ -45,3 +45,15 @@
 - Moved to F.19 base
 - Fixed autobrightness issues
 - Disable TP Edge limit in OPlus Extras
+
+### v3.6 Lemonades
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- No need to flash gapps (included)
+- Based on Latest OOS13 fw (flash fw accordingly)
+- Changed to Meteoric Kernel
+- Added OOS Cam & Gallery
+- Added refresh rate option
+- Knowns bugs: some modes in OOS Cam may not work,AOD may be a bit buggy
