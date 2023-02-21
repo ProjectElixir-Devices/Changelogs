@@ -40,3 +40,11 @@
 - GPU Tweaks. 
 - [BUG] Flash light.
 - January Security Patches
+
+# v3.6
+- Updated Bluetooth, NFC blobs.
+- Added yaap DeviceSettings.
+- [FIXED] Wrong date&time bug.
+- [FIXED] Random SystemUI Restart.
+- February Security Patches.
+- [BUG] FlashLight
