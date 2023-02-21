@@ -1,5 +1,11 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 
+## v3.6 Veux/Peux
+```
+Improved Display Colors
+Some minimal fixes and Improvements
+```
+
 ## v3.5 Veux/Peux
 ```
 veux: Import XiaomiParts 

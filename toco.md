@@ -2,6 +2,74 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.5 toco Changelog
+```
+- Add AOSP RCS packages
+- Add compilation of legacy audio
+- Add wakelock to citsensor service group
+- Add xiaomi misys support
+- configs: Update qdcm display calibration to MIUI V13.0.4.0
+- Configure aux camera for Aperture
+- Drop custom APM flag along with no-op audio flags
+- Fixup Vulkan deQP permission copy
+- gps: Silence all warnings
+- gps: Update to LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
+- Import Pixel thermal HAL
+- Import Xiaomi displayfeature
+- Inherit several Android Go configurations
+- media: Add swap width and height feature
+- media: Fix VTS issue
+- Move to common Xiaomi displayfeature HIDL
+- overlay: Add default vibration intensites
+- overlay: Configure SQLite to operate in MEMORY mode
+- overlay: Don't pin camera app in memory
+- overlay: Restore COLOR_MODE_SATURATED
+- overlay: Set google autofill service as default
+- overlay: Update pinner list
+- overlay: Update vibration patterns from stock
+- parts: Add Dirac logo
+- parts: Disable startup provider
+- parts: Drop support for Hi-Fi
+- parts: Remove proximity sensor gestures
+- parts: Restore MiSound scene on boot complete
+- powerhint: Fix undefined value in Node[PMQoSCpuDmaLatency]
+- powerhint: Import camera hints
+- powerhint: Restore EnergyAware node
+- powerhint: Set camera cpuset to little cores when unused
+- prop: Add touch improvements sysprops
+- prop: Disable QCRIL power saving
+- prop: Disable Skia tracing by default
+- prop: Do not block binder thread on incoming calls
+- prop: Don't set to adaptive mode by default
+- prop: Enable apk fs-verity
+- prop: Enable DPM Connection Tracking (CT)
+- prop: For smoother scrolling and better responsiveness
+- prop: Pull props for USB controller configuration
+- prop: Remove QTI BT stack bits
+- prop: RIL edits for battery life
+- prop: Switch to AutoSingleLayer A13 setting
+- prop: Use HintManager for HWUI
+- Purge mi_thermald
+- Remove references to a2dp module
+- rootdir: Enable suspend to RAM
+- rootdir: Import oriole cpuctl tuning
+- rootdir: Remove package cache on early boot
+- sepolicy: Address more batterysecret denials
+- Speed profile services and wifi-service
+- Switch to common QTI vibrator HAL
+- Switch to EROFS for relevant partitions
+- Switch to OnePlus Dolby
+- Update blobs from sweet V13.0.14.0.SKFMIXM
+- Update blobs from sweet V13.0.15.0.SKFMIXM
+- Update build fp & desc to MIUI V13.0.4.0.SFNMIXM
+- Update system blobs from LA.QSSI.13.0.r1-08200-qssi.0
+- Update system from LA.QSSI.13.0.r1-07400-qssi.0
+- Use LZ4 compression for ramdisks
+- Use RSA4096 key also for vbmeta_system
+- wifi: Create another interface during driver load
+- WifiSM6150: Enable set channel on NDP setup
+```
+
 ## v3.2 toco Changelog
 ```
 - Add xiaomi cit sensor service
