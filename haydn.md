@@ -79,5 +79,12 @@
 - haydn: sepolicy: Address batterysecret denial 
 - haydn: sepolicy: Label some camera prop
 
+### V3.6 haydn
+```
+- February security patch.
+- Dropped moto dolby.
+- Based on Lineage common sm8350 trees.
+```
+
 ### Credits: A very special thanks to Grewal for trees, Akshay for bringup, Saurav and Elixir team, & Einsel for testing.  
 
