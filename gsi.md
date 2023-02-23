@@ -2,9 +2,9 @@
 
 ### Changelog for Generic System Image (gsi)
 
-### v3.5
+### v3.6
 ```
-- Added SEPolicy to fix FOD on Samsung
-- Properly adapted FOD patch
-- Minor optimizations
+- Reworked half of the FOD patch to actually work properly
+- Increased MTK device support!
+- Minor optimizations.
 ```
