@@ -4,23 +4,17 @@
 
 ### v3.6 POCO F2 Pro (lmi)
 
-- move to Cheetah February 2023 fingerprint
-- Don't pin camera app in memory
-- Unpin updatable-media from memory
-- update remove package
-- wifi: Disable firmware log
-- wifi: No BSS flush for 2018 devices
-- wifi: Disable TDLS offchannel
-- wifi: Remove entry for gEnableNUDTracking
-- wifi: Increase max bss count
-- wifi: Switch gEnablePowerSaveOffload to 5
-- wifi: Remove TxPower2g and 5g
-- Update CarrierConfig from LA.QSSI.13.0.r1-07400-qssi.0
-- Add brightness overlays from LMI V13.0.1.0.SJKMIXM
-- rootdir: Set proper cpusets for kona
-- rootdir: set readahead_size_kb=128 to data
-- rootdir: Set readahead_size_kb=128 on fstab
-- Do not touch sleep disabled
+- Revert "Don't force enable ims features"
+- revert "rootdir: Set proper cpusets for kona"
+- Decrease launch boost to 3sec
+- overlay: switch SystemUI to SystemUIGoogle
+- input: focaltech_spi: Require low latency
+- input: focaltech_spi: Optimize interrupt CPU usage
+- clk: qcom: mdss: Fix tons of memory leaks
+- binder: Revert some 4.19-stable upstreams that seems increase drains
+- qcacld-3.0: Remove pm_qos usage
+- qcacld-3.0: Free a bunch of pkts at once
+- qcacld-3.0: Do not allow any wakelocks to be held
 - Selinux is Enforcing
 - Build is decrypted
 - CTS passes and banking apps working
