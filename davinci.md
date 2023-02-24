@@ -2,6 +2,12 @@
 
 ### Changelog for Redmi K20 /Mi 9T
 
+### v3.6
+```
+- Remove miuicamera and switched back to Apreture
+- Built with vantom syndra kernel
+```
+
 ### v3.5
 ```
 - Fixed Hotspot
