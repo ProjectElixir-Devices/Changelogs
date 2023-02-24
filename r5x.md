@@ -2,6 +2,27 @@
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
 
+### v3.6  Realme 5 Series (r5x)
+- Removed nonexistent hw_recovery nodes
+- Removed nonexistent block device readahead config
+- Removed swap configuration
+- Disabled dalvik minidebuginfo generation
+- Removed unused contexthub overriding service definition
+- power: Implement extension for kernelspace battery saver
+- Added Missing Gps Hal libs
+- Addressed Wakeup nodes
+- props: Optimize ART
+- Optimize everything on preopt
+- Added Some hwui props from stock RUI 2.0
+- Added RealmeParts
+- Massive Cleanup on Device Tree
+- Rearranged all Overlay to rro_Overlay
+- audio: Increase Headset and In-Built Mic Voulme Also Fixed noise issue
+- RealmeParts: Address Vibrator Denials
+- RealmeParts: Drop Notification and Call Vibration strength control
+- Misc. Fixes and Improvements
+
+
 ### v3.5  Realme 5 Series (r5x)
 - Force HAL1 on social apps
 - Added Missing display config file
