@@ -2,6 +2,31 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.6 toco Changelog
+```
+- audio: Fix 24bit audio playback
+- dolby: Drop AC4 codec support
+- overlay: Disable UI touch sounds by default
+- overlay: List aux camera IDs ignored by Aperture
+- overlay: Use AOSP default ripple animation duration
+- overlay: Unlock additional camera framerates
+- parts: Add Dirac logo
+- powerhint: Don't mess with CPU FREQ
+- powerhint: Set GPU idle timeout to match kernel
+- prop: Disable SF composition prediction model
+- prop: Force device to treat 170M as sRGB in SF
+- prop: Remove unused persist.bluetooth.a2dp_offload.cap
+- props: Move fling props to system to avoid denials
+- props: Move IORapd props to system to avoid denials
+- sepolicy: Allow parts to get SettingsLib prop
+- sepolicy: Allow system_server to set tethering properties
+- Update blobs from sweet V13.0.16.0.SKFMIXM
+- Update system from LA.QSSI.13.0.r1-08600-qssi.0
+- Update system from LA.QSSI.13.0.r1-09000.01-qssi.0
+- vendorsetup: Drop miuicamera for now
+- vendorsetup: Switch to PlayGroundTC Clang 17
+```
+
 ## v3.5 toco Changelog
 ```
 - Add AOSP RCS packages
