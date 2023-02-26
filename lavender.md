@@ -2,6 +2,11 @@
 
 ### Project Elixir for Redmi Note 7/7s (lavender) changelogs
 
+### 3.6 lavender
+- Fixed amplify audio not appearing
+- Debloated build
+- Fixed night light
+
 ### 3.5 lavender
 
 - Disable skia tracing by default
