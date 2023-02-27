@@ -2,6 +2,22 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
+### v3.6 violet
+```
+- Removed broken slow motion support
+- Enabled movie effects
+- Enabled sticker avatars
+- Enabled document mode
+- Enabled panorama direction switch
+- Enabled pro video mode
+- Enabled advanced pro mode features
+- Added two channels for echo referece (Another attempt to fix echo on calls when in speaker for the receiver)
+- Disabled protected buffers support (AOSP WFD doesn't support protected Wi-Fi Display buffers)
+- Enabled world phone bool (Allows changes regarding network operations to users)
+- Injected custom doze settings into lockscreen settings
+- Updated blobs to LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+```
+
 ### v3.5 violet
 ```
 - Included stable MiuiCamera as default camera
