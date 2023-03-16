@@ -1,5 +1,10 @@
 ![Elixir Banner](https://i.imgur.com/C0Wcdr5.png)
 
+# Project Elixir v3.6
+
+ - Remove depricated entries from Audio Configs
+ - Update carrier config from LA.QSSI.13.0.r1-07400-qssi.0 and MIUI 13.0.5.0
+
 # Project Elixir v3.5
 
  - Drop IO prefetcher
