@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/b3fzqwG.jpg)
+![Changelog](https://i.imgur.com/woqWtdT.png)
 
 <br>
 <br>
@@ -8,6 +8,35 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.7 (20.04.2023)
+```
+- Merged latest April Security patch
+- CTS Passes by default and banking apps are working fine
+- Whole source has been rebased from very initial
+- Exclusive: Added 2 new lock screen clock
+- Exclusive: Add minimal 2 clock
+- Exclusive: Add minimal 3 clock
+- Exclusive: Added 2 new QS clock
+- Exclusive: Added Minimal QS clock style
+- Exclusive: Added OOS alike QS clock style
+- Essence: Fingerprint authentication vibration
+- Essence: Themes: Add extended monet themes
+- Essence: Add kill button to notification guts
+- Settings: Wi-Fi timeout feature
+- Settings: Bluetooth timeout feature
+- Settings: add option to enable AOD on charging only
+- SoftAp: add Hidden SSID preference
+- Settings: Long press to copy wifi password
+- Introduce LiveDisplay from Lineage
+- SystemUI: Add LiveDisplay tile
+- ven/aosp: Bump Elixir version to v3.7
+- SystemUI: Add reading mode tile
+- SystemUI: Add anti flicker tile
+- Face Unlock and App lock has been added back
+- Improved stability and performance
+- Much More - Try by yourself
+```
 
 ### v3.6 (18.02.2023)
 ```
