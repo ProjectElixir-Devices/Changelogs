@@ -2,9 +2,10 @@
 
 ### Changelog for Generic System Image (gsi)
 
-### v3.6
+### v3.7
 ```
-- Reworked half of the FOD patch to actually work properly
-- Increased MTK device support!
-- Minor optimizations.
+- Updated Treble App to 77c34b9
+- Switched to new TD overlays repo
+- Included QcRilAm app
+- Upstreamed TD patches
 ```
