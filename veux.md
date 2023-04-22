@@ -1,5 +1,19 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 
+## v3.7 Veux/Peux
+```
+•Comes with April Security Patch
+•Volume steps are increased to 18
+•Fixed hyper orange Night Light
+•Fixed Quicksettings Lags
+•Fixed fake Root Detection in few Apps
+•Includes Launcher 3
+•Miui Camera is shipped by default with Rom
+•Updated surfaceflinger props(Made UI much more fluent.)
+•Fixed Qs Pulldown lags
+•Improved overall stability and battery backup seems good too.
+```
+
 ## v3.6 Veux/Peux
 ```
 Improved Display Colors
