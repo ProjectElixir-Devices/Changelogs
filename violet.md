@@ -2,6 +2,26 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
+### v3.7 violet
+```
+- Remove aptX(HD) encoder shared libs (Encoder shared libraries are no longer required as of Android 13 QPR2)
+- Redefined bluetooth a2dp offload capabilities (Dropped unsupported aptx codecs)
+- Enabled enable hwui render ahead
+- Corrected routing order for voip output
+- Added primary input sources for voip_tx
+- Switched to stock acdb loader libs
+- Enabled carrier aggregation workaround (Tnx to @DarkJoker360)
+- Removed duplicated prop definitions
+- Removed dsp. prefix from audio and video power profiles
+- Removed dynamic attributes from APS config 
+- Fixed deprecated power profile items
+- Updated system blobs from LA.QSSI.13.0.r1-09400.01-qssi.0 
+- Updated Carrier Config from LA.QSSI.13.0.r1-08600-qssi.0
+- Update vendor blobs from LA.UM.9.1.r1-12900-SMxxx0.0
+- Dropped Neural Network stack
+- Fixed voip echo & mic issues (Tested and confirmed myself)
+```
+
 ### v3.6 violet
 ```
 - Removed broken slow motion support
