@@ -1,22 +1,20 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/b3fzqwG.jpg)
+![Changelog](https://i.imgur.com/woqWtdT.jpg)
 
-## v3.6 X00T/D Changelogs
+## v3.7 X00T/D Changelogs
 ```
-- Updated FP to Cheetah February
-- Merged February security patch
-- Updated Audio HIDL to 7.1
-- Switched audio HAL to V7
-- Audio: Disabled stereo support for voip
-- Audio: Added offload gapless support flag
-- Audio: Added new flag name to compress offload case
-- Updated multiple vibration intensity levels
-- Enabled perf hint window
-- Adjusted proximity check timeout
-- Disabled HWC composition strategy prediction
-- Disabled continuous transaction tracing on all build types
-- Disabled dynamic fps
+- Updated FP to Cheetah April
+- Merged April security patch
+- Enabled TFA98XX audio amplifier 
+- Tone down nfc debugging 
+- Removed unused tcp property change actions 
+- Dropped SF debug properties 
+- Enabled ro.hwui.render_ahead 
+- Dropped panel phase offsets 
+- Set call volume steps to 8 
+- Compacted cached app heaps in the background 
+- Enabled aptX(HD) offload
 - CTS passed by default
 - Some misc improvements and fixes
 
