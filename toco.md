@@ -2,6 +2,32 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.7 toco Changelog
+```
+- audio: Use 24bit as primary output
+- Import Xiaomi TouchFeature service
+- overlay: Disable lock screen rotation
+- overlay: Disable Pocket Lock
+- overlay: Fix hyper orange night light
+- overlay: Update battery info every second when charging
+- parts: Remove Dirac logo
+- parts: Update from sdm845-common
+- prop: Redefine bluetooth a2dp offload capabilities
+- Restore QCOM wfd HDCP support
+- rootdir: Remove deprecated max comp streams
+- sepolicy: Address location denials
+- sepolicy: Update fast charging perms
+- sepolicy: Update some Dolby sepolicy
+- Update adreno stack from LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- Update ADSP from LA.UM.9.1.r1-12900-SMxxx0.0
+- Update blobs from sweet V14.0.1.0.TKFMIXM
+- Update gps configs from LA.UM.9.1.r1-12900-SMxxx0.0
+- Update keymaster from LA.UM.9.1.r1-12900-SMxxx0.0
+- Update some blobs from msmnile LA.UM.9.1.r1-12900-SMxxx0.0
+- Update system from LA.QSSI.13.0.r1-09400.01-qssi.0
+- Update ueventd from LA.UM.9.1.r1-12900-SMxxx0.0
+```
+
 ## v3.6 toco Changelog
 ```
 - audio: Fix 24bit audio playback
