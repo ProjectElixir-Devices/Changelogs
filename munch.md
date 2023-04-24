@@ -2,6 +2,10 @@
 
 ### Project Elixir for Redmi K40S / POCO F4 (munch) Changelogs
 
+### v3.5 munch (24-04-2023)
+
+- Initial official build by vinc3nt
+
 ### v3.5 munch (15-01-2023)
 
 - Added MIUI Camera Lecia Edition 
