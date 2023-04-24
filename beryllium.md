@@ -5,6 +5,12 @@
 
 ### v3.6 beryllium
 ```
+- Source upstream.
+- Fixed cracking sound on bluetooth.
+```
+
+### v3.6 beryllium
+```
 - Fixed Gyroscope.
 - Switched to Kawaii kernel.
 - Switched to userdebug build.
