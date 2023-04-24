@@ -1,23 +1,22 @@
-![Device Changelog](https://i.imgur.com/b3fzqwG.jpg)
+![Device Changelog](https://i.imgur.com/woqWtdT.png)
 
 ### Project Elixir for POCO F2 Pro (lmi) Changelogs
 
-### v3.6 POCO F2 Pro (lmi)
+### v3.7 POCO F2 Pro (lmi)
 
-- Revert "Don't force enable ims features"
-- revert "rootdir: Set proper cpusets for kona"
-- Decrease launch boost to 3sec
-- overlay: switch SystemUI to SystemUIGoogle
-- input: focaltech_spi: Require low latency
-- input: focaltech_spi: Optimize interrupt CPU usage
-- clk: qcom: mdss: Fix tons of memory leaks
-- binder: Revert some 4.19-stable upstreams that seems increase drains
-- qcacld-3.0: Remove pm_qos usage
-- qcacld-3.0: Free a bunch of pkts at once
-- qcacld-3.0: Do not allow any wakelocks to be held
-- Selinux is Enforcing
-- Build is decrypted
-- CTS passes and banking apps working
+- Update Display stack from LA.UM.9.12.r1-15100-SMxx50.QSSI13.0
+- Update Graphics stack from LA.UM.9.12.r1-15100-SMxx50.QSSI13.0
+- Update WFD stack from LA.UM.9.12.r1-15100-SMxx50.QSSI13.0
+- Enable RCS service
+- Bring back 32-bit libwfdhdcpcp.so from LA.UM.9.12.r1-14400-SMxx50.0
+- Remove aptX(HD) encoder shared libs
+- set fingerprint as stock
+- Enable debug.sf.auto_latch_unsignaled
+- Enable zygote critical window
+- Build KProfiles
+- switch to Kitsune kernel
+- BoardConfig: Disable serial console
+- overlay: Show memory usage in app info
 
 ### Important Note
 - This update maybe needs clean flash
