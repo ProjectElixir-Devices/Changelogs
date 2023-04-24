@@ -2,7 +2,7 @@
 
 ### Project Elixir for Redmi K40S / POCO F4 (munch) Changelogs
 
-### v3.5 munch (24-04-2023)
+### v3.7 munch (24-04-2023)
 
 - Initial official build by vinc3nt
 
