@@ -2,6 +2,11 @@
 
 ### Changelog for Redmi K20 /Mi 9T
 
+### v3.7
+```
+- Under the hood improvements and fixes
+```
+
 ### v3.6
 ```
 - Remove miuicamera and switched back to Apreture
