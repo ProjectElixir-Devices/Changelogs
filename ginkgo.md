@@ -3,6 +3,15 @@
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
 
+### v3.7 ginkgo
+```
+- April 5th, 2023 Security Patch.
+- Switch back to CAF adreno stack.
+- Removal of aptX blobs.
+- Minor Audio configs cleanup.
+- Misc Changes & upsteams.
+```
+
 ### v3.6 ginkgo
 ```
 - February 5th, 2023 Security Patch.
