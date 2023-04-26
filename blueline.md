@@ -4,6 +4,7 @@
 
 ### v3.7 Blueline
 - Initial official release
+- User Build
 - Selinux is Enforcing
 - CTS passes and banking apps working
 
