@@ -2,6 +2,14 @@
 
 ### Project Elixir for Redmi Note 7/7s (lavender) changelogs
 
+### 3.7 lavender
+
+- Fixed Hotspot crashing
+- Added Battery Health overlays
+- Shipped with GcamGO-V3
+- Debloated build
+- Camera working @Credits: Inferno
+
 ### 3.6 lavender
 - Fixed amplify audio not appearing
 - Debloated build
