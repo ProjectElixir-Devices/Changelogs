@@ -14,6 +14,7 @@
 - Updated XiaomiParts translations
 - Adjust status bar padding
 - Switch Aghisna kernel ( build with proton clang )
+- MIUI Cam included
 ```
 
 ### Credit :- 
