@@ -1,3 +1,7 @@
+![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
+
+### Project Elixir for Oneplus 8T (kebab) Changelogs
+
 ### v3.4 Kebab
 
 - Initial Build
@@ -30,3 +34,14 @@
 - Changed to Meteoric Kernel
 - Added refresh rate option
 - Known issues: some modes in oos cam wont work, AOD a bit glitchy
+
+### v3.7 Kebab
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- No need to flash gapps (included)
+- Updated to F.63 fw
+- Switched back to los based kernel
+- Op cam included(all modes working)
+- Switched to new implementation of OPExtras
