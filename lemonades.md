@@ -57,3 +57,14 @@
 - Added OOS Cam & Gallery
 - Added refresh rate option
 - Knowns bugs: some modes in OOS Cam may not work,AOD may be a bit buggy
+
+### v3.7 Lemonades
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- No need to flash gapps (included)
+- Updated to F.22 fw
+- Switched back to los based kernel
+- Op cam included(all modes working)
+- Switched to new implementation of OPExtras
