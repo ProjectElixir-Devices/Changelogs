@@ -1,5 +1,25 @@
 ![Elixir Banner](https://i.imgur.com/C0Wcdr5.png)
 
+# Project Elixir v3.7
+ - Switch Kernel (Kyrielight-KATO as base)
+ - Upstream kernel to v4.14.312
+ - Fix NFC
+ - Ship MIUI 12.0.4.0 (India) firmware with the ROM package
+ - Add some surfaceflinger props to reduce lags | QS lags are still there, no working fix  - found yet
+ - Fix nightlight (reduced the redness of the default nightlight implementation)
+ - Enable blues (its subtle)
+ - Switch to Kyrelight Kernel
+ - Build Boost Framework
+ - Improve status bar time and keygaurd network label positon consistency
+ - Drop aptX(HD) encoder libs (depricated)
+ - Drop saturated color profile in settings (It uses native color profile and it's not  - supposed to be used)
+ - Enable suspend to RAM (Improves idle drain considerably.)
+ - Allow GPU boosting on performance mode
+ - Enable oem fast charge (Fast charging capabilites gets detected better than in generic  - impl.)
+ - Enable background ART heap compaction for cached apps (Better RAM management.)
+ - surface flinger: Force triple frame buffers (Reduces jitter without impacting latency.)
+ - Improve kernel compilation
+
 # Project Elixir v3.6
 
  - Remove depricated entries from Audio Configs
