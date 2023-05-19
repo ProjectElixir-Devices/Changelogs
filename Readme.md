@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/woqWtdT.png)
+![Changelog](https://i.imgur.com/vDxXjpT.png)
 
 <br>
 <br>
@@ -8,6 +8,37 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.8 (19.05.2023)
+```
+- Merged latest April Security patch
+- CTS Passes by default and banking apps are working fine
+- Essence: Add shortcut for game-space In Essence
+- Essence: Import WiFi standard icon
+- Essence: Add re ticker
+- Essence: Custom QS panel styles
+- Essence: add edge light customization
+- Essence: Add Battery Customization
+- Essence: Add QS Header Image
+- Essence: Add clock settings Customization
+- Essence: Add QS transparency settings
+- Essence: Add brightness slider styles
+- Redesign seek bar
+- Redesign switches
+- sounds: Add system sound effects pack
+- Replace lock screen icons with two-tone icons
+- SystemUI: Enable & Redesign lock screen bottom buttons 
+- SystemUI: Optional haptic feedback on back gesture
+- Settings: Allow to hide arrow for back gesture
+- Fixup! Notification icon issues getting small af
+- Fixup! Launcher icons in recent issues getting black af
+- Settings: Use a separate icon for the Notification category
+- ven/aosp: Bump to 3.8 and update wallpaper
+- Merge translations from crowdin
+- App lock has been added back
+- Improved stability and performance
+- Much More - Try by yourself
+```
 
 ### v3.7 (20.04.2023)
 ```
