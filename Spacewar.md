@@ -1,25 +1,21 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/woqWtdT.jpg)
+![Changelog](https://i.imgur.com/vDxXjpT.jpg)
 
-## v3.7 - Spacewar Changelogs
+## v3.8 - Spacewar Changelogs
 ```
-- Merged April security patch
-- Enhanced audio quality 
-- Disabled wallpaper zooming
-- Enabled dex2oat64 usage 
-- Disabled USE_DEX2OAT_DEBUG 
-- Enabled BoostFramework 
-- Build graphics allocator 3.0 interface to vendor
-- Enabled TWS plus feature using persist property 
-- Enabled Qualcomm TrueWireless™ Stereo 
-- Updated Adreno to LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0 
-- Optimized auto brightness adjustments
-- Switched to QTI health HAL implementation 
-- Enabled multi-gen lru by default 
-- Enabled ro.hwui.render_ahead 
-- Enabled aptX(HD) offload 
-- Switched to Vulkan UI renderer 
+- Merged May security patch
+- Imported spatial audio library from cheetah TQ2A.230305.008.C1
+- Audio: Updated audio policy configuration files to declare spatializer output
+- Audio: Enabled head tracking for Spatial audio
+- Audio: Removed spatial audio configuraion in speaker path
+- Audio: Added tuning to reduce glitches and power.
+- Enabled VABC xor
+- Enabled compressed snapshots/VABc
+- Enabled AOSP surfaceflinger 
+- Disabled debug.sf.latch_unsignaled 
+- Configured default light sensor type 
+- Enabled predicted load boosting 
 - CTS passed by default
 - Some misc improvements and fixes
 
@@ -28,6 +24,6 @@ Note:
 - GApps are included
 
 Special Thanks To:
-- AOSPA Team for Glyph
-- @aswin_a_s for kernel
+- AOSPA Team for Glyph improvements
+- @aswin_a_s for kernel support
 ```
