@@ -68,3 +68,11 @@
 - Switched back to los based kernel
 - Op cam included(all modes working)
 - Switched to new implementation of OPExtras
+
+### v3.8 Lemonades
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- Switched back to evox perf kernel
+- Fixed DTW issue
