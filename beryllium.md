@@ -2,8 +2,14 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.8 beryllium
+```
+- Source upstream.
+- Encrypted by default.
+```
 
-### v3.6 beryllium
+
+### v3.7 beryllium
 ```
 - Source upstream.
 - Fixed cracking sound on bluetooth.
