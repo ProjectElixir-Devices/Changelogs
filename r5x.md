@@ -1,6 +1,18 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+### v3.8  Realme 5 Series (r5x)
+- Enabled LTE_CA workaround
+- overlay: Set LTE+ threshold bandwidth to 0
+- Dropped deprecated/unneeded MAX_EGL_CACHE flags
+- Dropped GL comp backpressure prop
+- Adjust lmkd kill timeout
+- Added filecache_min_kb tuning for lmkd
+- props: Switch to AutoSingleLayer Android 13 Setting
+- Enabled R8 optimizations for SystemUI & system_server
+- prop: Dropped ro.hwui.render_ahead
+- Misc. Fixes and Improvements
+
 
 ### v3.7  Realme 5 Series (r5x)
 - Fixed Random Reboot
@@ -97,3 +109,4 @@ Note:
 Thanks
 @BabluS for Device 🎄
 @IrawansAlt for Kernel 🎄
+
