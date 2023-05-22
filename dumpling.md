@@ -58,3 +58,8 @@
 # v3.7
 
 - October security patch.
+
+# v3.8
+
+- [FIXED] NFC Issue.
+- May security patch.
