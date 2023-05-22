@@ -1,5 +1,13 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 
+## v3.8 Veux/Peux
+```
+•Comes with May Security Patch
+•Miui Camera is shipped by default with Rom
+•Overall stability and improvements
+•Rebased trees and imported stock props from miui
+```
+
 ## v3.7 Veux/Peux
 ```
 •Comes with April Security Patch
