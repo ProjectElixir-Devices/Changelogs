@@ -60,3 +60,9 @@
 # v3.7
 
 - October security patch.
+
+# v3.8
+
+- [FIXED] NFC Issue.
+- [BUG] FlashLight Issue.
+- May security patch.
