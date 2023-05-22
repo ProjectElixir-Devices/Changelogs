@@ -2,6 +2,19 @@
 
 ### Project Elixir for Google Pixel 3 (blueline) Changelogs
 
+## v3.8 Blueline
+- Merged May Security Patch
+- User Build
+- Selinux is Enforcing
+- CTS passes and banking apps working
+- Fixed Now Playing
+- Fixed Microphone when video call in Whatsapp,Telegram,etc.
+- Update AiAi to S.10.playstore.pixel3.408937249 
+- Switch back to HIDL 2.1 btAudio
+- Improvements kernel lineage
+- Prop: enable ro.hwui.render_ahead
+- Misc. Fixes and Improvements
+
 ### v3.7 Blueline
 - Initial official release
 - User Build
