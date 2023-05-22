@@ -2,6 +2,24 @@
 
 ### Project Elixir for Redmi K40S / POCO F4 (munch) Changelogs
 
+### v3.8 munch (22-04-2023)
+- May 2023 Security Patch
+- Switched to new device tree
+- Upstream kernel
+- Allow 5G SA on Jio
+- Allow VoLTE and VoWiFi/WFC by default
+- Disable IMS features for TIM Brazil
+- Implement HBM support
+- Kang IMS apk from renoir 
+- Set default_network to 33 for 5G
+- Replace Min & Peak RR menu with Smooth Display
+- Adjust statusbar height and padding
+- Limit Netflix, YouTube, VLC, TikTok and others to 60Hz only
+- Enable QR scanner shortcut in lock screen
+- Fix nfc
+- Fixed all other issues that have existed since Elixir 3.7
+- Other Under the hood improvements.
+
 ### v3.7 munch (24-04-2023)
 
 - Initial official build by vinc3nt
