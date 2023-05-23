@@ -29,3 +29,10 @@ Bug:
 - Wifi display
 - GoogleCamera crash
 - Live caption
+
+### v3.8 Taimen
+Device Changelog:
+- May security path
+- Flatten APEXs for performance
+- Disable battery healt
+- Misc improvements
