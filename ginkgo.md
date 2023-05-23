@@ -2,6 +2,13 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.8 ginkgo
+```
+- May 5th, 2023 Security Patch.
+- Improved cpusets configuration.
+- Reduced schedutil rate limits.
+- Merged 'LA.UM.9.1.r1-13400-SMxxx0.QSSI12.0' to kernel.
+```
 
 ### v3.7 ginkgo
 ```
