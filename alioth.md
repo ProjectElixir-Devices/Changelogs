@@ -72,4 +72,15 @@
 - Enable SSR for all subsytem types
 - Imported miui CarrierConfig changes from munch V13.0.5.0.SLMMIX
 - Set bluetooth.device.default_name to 'Poco F3'
-- Enable suspend to RAM 
+- Enable suspend to RAM
+
+## v3.8 Alioth
+-Silenced some logspam
+-Use HintManager for HWUI
+-Add battery health support
+-Set Poco F3 as default hotspot ssid
+-Enable aosp surfaceslinger
+-Updated thermal
+-If leica cam buggy use gcam instead
+
+Note: Default kernel is No kernel. Don't flash kernelSU supported kernels.
