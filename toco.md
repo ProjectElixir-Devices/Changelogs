@@ -2,6 +2,14 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.8 toco Changelog
+```
+- Ship VantomKernel v4.14.314
+- Switch to common Xiaomi 1.0 sensors implementation
+- Update blobs from LA.QSSI.13.0.r1-09700-qssi.0
+- Update CarrierConfig from LA.QSSI.13.0.r1-09700-qssi.0
+```
+
 ## v3.7 toco Changelog
 ```
 - audio: Use 24bit as primary output
