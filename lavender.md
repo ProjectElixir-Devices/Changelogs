@@ -2,6 +2,12 @@
 
 ### Project Elixir for Redmi Note 7/7s (lavender) changelogs
 
+### 3.8 lavender
+
+- Camera totally fixed now
+- More debloated build
+- Cleaned some shits from tree
+
 ### 3.7 lavender
 
 - Fixed Hotspot crashing
