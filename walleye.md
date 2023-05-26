@@ -28,3 +28,10 @@ Bug v3.7:
 - Wifi display
 - GoogleCamera crash
 - Live caption
+
+### v3.8 Walleye
+Device Changelog:
+- May security path
+- Flatten APEXs for performance
+- Disable battery healt
+- Misc improvements
