@@ -2,6 +2,22 @@
 
 ### Changelog for Redmi K20 /Mi 9T
 
+### v3.8
+```
+- Rebased tree
+- Added leica miuicamera
+- Added moto dolby with fixes
+- Moved to prebuilt audio hals and config
+- Update audio policy from sweetin V14.0.1.0.TKFINXM
+- Update audio hal to 7.1 and bluetooth to 2.1
+- Enable 24bit audio playback
+- Added spatial audio
+- Update wifi and carrier config from V14.0.1.0.TKFINXM 
+- Under the hood improvements and fixes
+- Update kernel to vantom syndra 4.14.315
+- Bugs: Screen off fod is not working on this build
+```
+
 ### v3.7
 ```
 - Under the hood improvements and fixes
