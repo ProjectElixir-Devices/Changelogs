@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/vDxXjpT.png)
+![Changelog](https://i.imgur.com/7TCfreC.jpg)
 
 <br>
 <br>
@@ -8,6 +8,28 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.9 (21.06.2023)
+```
+- CTS Passes by default and banking apps are working fine
+- Essence: Added 4 unique QS clock [Exclusive]
+- Essence: Added more QS Header Image
+- Essence: Add High FPS unlock in games [GamesProp]
+- Essence: Media notification artwork fade and blur filter
+- SystemUI: Add tile to show volume panel
+- SystemUI: Add Sound tile to Quick Settings
+- SystemUI: Introduce refresh rate tile
+- overlays: Add back icon shapes from A11
+- SystemUI: Add Sync QS Tile
+- fw/b: Add support for allowing/disallowing apps on cellular, vpn
+- base: Disable 5G in battery saver mode
+- Launcher3: Expose force monochrome themed icon flag as a user preference
+- ven/aosp: Bump to 3.8 and update wallpaper
+- Merge translations from crowdin
+- Faceunlock and App lock is present
+- Improved stability and performance
+- Much More - Try by yourself
+```
 
 ### v3.8 (19.05.2023)
 ```
