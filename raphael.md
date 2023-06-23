@@ -7,7 +7,10 @@
 - Intial build
 - Selinux is Enforcing
 - Encrypted by default fbev1
-- CTS passes by default 
+- CTS passes by default
+- KSU supported
+- Viper4fx added
+- Leica+Miui camera added
 ```
 
 ### v3.6
