@@ -2,6 +2,15 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.9 beryllium
+```
+- Source upstream.
+- Switched to new powerhint for better smoothness.
+- Added rounded corners.
+- Fixed QS jitter.
+```
+
+
 ### v3.8 beryllium
 ```
 - Source upstream.
