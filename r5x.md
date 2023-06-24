@@ -1,6 +1,19 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+### v3.9 Realme 5 Series (r5x)
+- Switched to retrofit dynamic partition
+- Fixed all Camera related issues 
+- Enable aptX(HD) offload
+- props: Disable sf EGL image tracking
+- Enable & pin msm_irqbalance to system-background
+- Enable BT low power adaptive control feature
+- media: Add attribute name for SW encoder
+- Remove dynamic attributes from APS config
+- Set valid output channel mask for earpiece
+- media: Tune perf xml based on measured fps
+- Remove the RenderScript HAL from the vendor manifest
+
 ### v3.8  Realme 5 Series (r5x)
 - Enabled LTE_CA workaround
 - overlay: Set LTE+ threshold bandwidth to 0
