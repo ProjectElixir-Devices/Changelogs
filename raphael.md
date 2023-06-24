@@ -2,6 +2,17 @@
 
 ### Changelog for Redmi K20 Pro/Mi 9t Pro
 
+### v3.9
+```
+- Intial build
+- Selinux is Enforcing
+- Encrypted by default fbev1
+- CTS passes by default
+- KSU supported
+- Viper4fx added
+- Leica+Miui camera added
+```
+
 ### v3.6
 ```
 - CTS passes by default
