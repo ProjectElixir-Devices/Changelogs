@@ -2,6 +2,20 @@
 
 ### Project Elixir for Google Pixel 3 XL (crosshatch) Changelogs
 
+## v3.9 Crosshatch
+- User Build
+- Selinux is Enforcing
+- CTS passes and banking apps working
+- Enable AOSP Surfacefliger
+- Enable BT low power adaptive
+- Switch to AutoSingleLayer Android 13
+- RIL powersaving for battery life and import more props
+- Add enable usb data service
+- Reclean CarrierSettings integration
+- Try to restrict USB early in boot
+- Rebase kernel lineage
+- crosshatch: Adjust horizontal position of statusbar
+
 ## v3.8 Crosshatch
 - Merged May Security Patch
 - User Build
