@@ -2,6 +2,13 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.9 ginkgo
+```
+- Added Some Gboard side padding.
+- Added Battery Health section.
+- Some minor improvements under the hood.
+```
+
 ### v3.8 ginkgo
 ```
 - May 5th, 2023 Security Patch.
