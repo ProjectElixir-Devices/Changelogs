@@ -1,21 +1,19 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/vDxXjpT.jpg)
+![Changelog](https://i.imgur.com/7TCfreC.jpg)
 
-## v3.8 - Spacewar Changelogs
+## v3.9 - Spacewar Changelogs
 ```
-- Merged May security patch
-- Imported spatial audio library from cheetah TQ2A.230305.008.C1
-- Audio: Updated audio policy configuration files to declare spatializer output
-- Audio: Enabled head tracking for Spatial audio
-- Audio: Removed spatial audio configuraion in speaker path
-- Audio: Added tuning to reduce glitches and power.
-- Enabled VABC xor
-- Enabled compressed snapshots/VABc
-- Enabled AOSP surfaceflinger 
-- Disabled debug.sf.latch_unsignaled 
-- Configured default light sensor type 
-- Enabled predicted load boosting 
+- Based on android-13.0.0_r44
+- Disabled perf scroll optimisation
+- Switched to Stock vibrator HAL
+- display-drivers: Revert LA.UM.9.14.r1-20000-LAHAINA.QSSI12.0
+- Display: Update to Nothing OS 1.5
+- Kernel: Merge changes from Nothing OS 1.5
+- ElixirGlyph: Introduced FaceDownService
+- ElixirGlyph: Add option for PowerShare
+- ElixirGlyph: Switch to NOS 1.1 powershare animation
+- ElixirGlyph: Implement non-standard screen upwards sensor
 - CTS passed by default
 - Some misc improvements and fixes
 
@@ -24,6 +22,7 @@ Note:
 - GApps are included
 
 Special Thanks To:
+- @Yogesh_champ got testing
 - AOSPA Team for Glyph improvements
 - @aswin_a_s for kernel support
 ```
