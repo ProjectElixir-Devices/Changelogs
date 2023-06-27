@@ -2,6 +2,13 @@
 
 ### Project Elixir for Redmi Note 7/7s (lavender) changelogs
 
+### 3.9 lavender
+
+- Minor fixes
+- Shipped with GcamGo-V3 
+- Switched to Jemalloc
+- Address some sepolicy denials
+
 ### 3.8 lavender
 
 - Camera totally fixed now
