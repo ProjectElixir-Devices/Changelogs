@@ -2,6 +2,15 @@
 
 ### Changelog for Redmi K20 /Mi 9T
 
+### v3.9
+```
+- Update Miuicamera to leica+miui version
+- Update moto dolby
+- Set display mode to DCI-P3
+- Under the hood improvements and fixes
+- Bugs: Screen off fod is not working on this build
+```
+
 ### v3.8
 ```
 - Rebased tree
