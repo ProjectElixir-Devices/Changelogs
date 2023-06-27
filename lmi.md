@@ -2,11 +2,11 @@
 
 ### Project Elixir for POCO F2 Pro (lmi) Changelogs
 
-### v3.9 POCO F2 Pro (lmi)
+### v3.9 Hotfix POCO F2 Pro (lmi)
 
-- rebased whole device tree
-- using blobs from V14.0.5.0.SJKCNXM
-- using Kitsune kernel
+- fix camera issue in 3rd party apps
+- fix hotspot issue
 
 ### Important Note
-- Need clean flash for this update
+- Can dirty from previous v3.9 release
+- Need clean flash from v3.8 and earlier
