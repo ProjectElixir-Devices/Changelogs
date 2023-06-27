@@ -84,3 +84,14 @@
 -If leica cam buggy use gcam instead
 
 Note: Default kernel is No kernel. Don't flash kernelSU supported kernels.
+
+## v3.9 Alioth
+Rebased Tree
+- Updated Blobs 
+- Added battery health support
+
+Note:
+cts passed by default
+Leica cam there
+Use 14.0.9 eea firmware
+Rom comes with gapps.
