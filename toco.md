@@ -2,6 +2,11 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.9 toco Changelog
+```
+- Ship VantomKernel v4.14.318
+```
+
 ## v3.8 toco Changelog
 ```
 - Ship VantomKernel v4.14.314
