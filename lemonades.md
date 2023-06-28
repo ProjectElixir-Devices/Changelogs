@@ -76,3 +76,9 @@
 - CTS passes and banking apps working
 - Switched back to evox perf kernel
 - Fixed DTW issue
+
+### v3.9 Lemonades
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working

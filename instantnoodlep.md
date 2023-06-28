@@ -33,3 +33,11 @@
 - Improve Battery performance
 - If Bugs you tell me ... :)
 - Enjoy ....
+
+### v3.9 Instantnoodlep
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- Switched back to evox perf kernel
+- Switched to newer implementation of hardware oplus and op extras
