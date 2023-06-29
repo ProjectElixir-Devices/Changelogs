@@ -1,6 +1,15 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Redmi Note 9 (merlinx) Changelogs
 
+## 3.9 Merlinx
+
+- Selinux is Enforcing
+- Overall stability and improvement
+- Switched to new kernel 
+- CTS passes and banking apps working
+- Updated Gapps 
+
+
 ## 3.4 Merlinx
 
 - R vendor build
