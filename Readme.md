@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/7TCfreC.jpg)
+![Changelog](https://i.imgur.com/SDKuqap.png)
 
 <br>
 <br>
@@ -8,6 +8,39 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.10 (31.07.2023)
+```
+- Fully Rebased and Merged latest July Security patch
+- CTS Passes by default and banking apps are working fine
+- Settings: Add toggle for Smart 5G 
+- Settings: Allow showing Ambient instead of fully waking 
+- Display: Add High Touch Polling Rate Support 
+- Add Battery Styles: Landscape iOS & Origami & MIUI pill battery styles 
+- Bring back Udfps icons and Animations 
+- Switch to 404 Style switches 
+- SystemUI: Improve QS styles 
+- udfps: Implement framework dimming support 
+- SystemUI: Enable new wallpaper picker UI  
+- SystemUI: Flags: Enable media explicit indicator 
+- SystemUI: Flags: Enable lockscreen clock customisation 
+- SystemUI: Enable monochromatic monet style 
+- SystemUI: Alert slider: Introduce user interface for Alert Sliders 
+- Allow to set gestures back swipe deadzone 
+- Essence: QS header customizations  
+- Essence: reTicker: Allow to only show in Landscape mode  
+- base: Forward Port Volume Long Press Skip Tracks  
+- SystemUI: Add LiveDisplay tile  
+- SystemUI: Add powershare QS tile  
+- Themes: Add extended monet themes 
+- Implement burn-in protection for status/navbar  
+- SystemUI: Enable and tune Split notification shade  
+- Introduce pocket lock 
+- ven/aosp: Bump to 3.10 and update wallpaper
+- Fixed many existing bugs 
+- Improved stability and performance 
+- Much More - Try by yourself 
+```
 
 ### v3.9 (21.06.2023)
 ```
