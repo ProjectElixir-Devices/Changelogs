@@ -2,6 +2,20 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
+### v3.10 violet
+```
+- violet: audio: Tune audio output 
+- violet: audio: Switch back to 16-bit audio for playback
+- violet: Uprev audio hal to v7.1
+- violet: audio: Remove references to a2dp module
+- violet: Port brightness overlays from miui
+- violet: Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
+- violet: Enable Pocket Mode
+- violet: Disabled adsprpcd
+- violet: Fixed low volume mic for some social apps like snapchat , telegram, instagram etc
+- violet: See kernel changes here: https://github.com/Joker-V2/kernel_xiaomi_violet/commits/thirteen
+```
+
 ### v3.7 violet
 ```
 - Remove aptX(HD) encoder shared libs (Encoder shared libraries are no longer required as of Android 13 QPR2)
