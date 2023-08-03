@@ -95,3 +95,17 @@ cts passed by default
 Leica cam there
 Use 14.0.9 eea firmware
 Rom comes with gapps.
+
+## v3.10 Alioth
+- Fixed some previous issues
+- Fixed some denials
+- Import some wifi configs and improved 5ghz signal tolerance
+- Disabled hvdcp_opti deamon pps control
+- Enable VoLTE/ViLTE/VoWiFi for entire 470 mcc (BD)
+- Updated clear speaker audio
+
+Note:
+cts passed by default
+Leica cam there
+Use 14.0.9 eea firmware
+Rom comes with gapps
