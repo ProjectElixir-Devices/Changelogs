@@ -2,9 +2,11 @@
 
 ### Changelog for Google Pixel 6a (Bluejay)
 
-### v3.7
+### v3.10
 ```
-- Initial release
-- Based on april security patch
-- Stable
+- switch to stable gs201 kernel
+- upstreamed july patch blobs
+- elixir rebased from scratch
+- instability issues fixed
+- include kernelside patches for pixelparts
 ```
