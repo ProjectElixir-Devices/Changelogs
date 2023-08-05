@@ -2,6 +2,17 @@
 
 ### Project Elixir for Google Pixel 3 XL (crosshatch) Changelogs
 
+## v3.10 Crosshatch
+- User Build
+- Selinux is Enforcing
+- CTS passes and banking apps working
+- Configure default light sensor type
+- Add Google platform certificate
+- Remove google_battery support
+- Remove all permissions from /sys/devices/soc0/serial_number
+- Restrict access to /sys/devices/soc0/serial_number
+- dumpstate: Don't dump serial number
+
 ## v3.9 Crosshatch
 - User Build
 - Selinux is Enforcing
