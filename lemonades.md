@@ -82,3 +82,9 @@
 - Selinux is Enforcing
 - Build is encrypted
 - CTS passes and banking apps working
+
+### v3.10 Lemonades
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
