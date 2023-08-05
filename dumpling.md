@@ -68,3 +68,9 @@
 
 - 3.9 Patches.
 - May security patch.
+
+# v3.10
+
+- Volume control panel moved to left.
+- 3.10 Patches.
+- July security patch.
