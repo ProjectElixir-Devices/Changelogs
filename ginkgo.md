@@ -2,6 +2,14 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.10 ginkgo
+```
+- CLEAN FLASH MANDATORY
+- switched to decrypted build.
+- switched to Cuh-v1 kernel.
+- some minor improvements here n there.
+```
+
 ### v3.9 ginkgo
 ```
 - Added Some Gboard side padding.
