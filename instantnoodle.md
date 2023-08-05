@@ -27,3 +27,9 @@
 - Selinux is Enforcing
 - Build is encrypted
 - CTS passes and banking apps working
+
+### v3.10 Instantnoodle
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working

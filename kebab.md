@@ -59,3 +59,9 @@
 - Selinux is Enforcing
 - Build is encrypted
 - CTS passes and banking apps working
+
+### v3.10 Kebab
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working

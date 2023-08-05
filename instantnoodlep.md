@@ -41,3 +41,9 @@
 - CTS passes and banking apps working
 - Switched back to evox perf kernel
 - Switched to newer implementation of hardware oplus and op extras
+
+### v3.10 Instantnoodlep
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
