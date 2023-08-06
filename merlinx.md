@@ -1,6 +1,17 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Redmi Note 9 (merlinx) Changelogs
 
+## v3.10 Merlinx
+
+- Selinux is Enforcing
+- Fixed edge lighting
+- Fixed Calls through Bluetooth     headphones
+- Overall stability and improvement
+- CTS passes and banking apps working
+- Switched to thunder kernel
+- Fixed qs lags
+
+
 ## 3.9 Merlinx
 
 - Selinux is Enforcing

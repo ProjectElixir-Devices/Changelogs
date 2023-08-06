@@ -2,6 +2,14 @@
 
 ### Project Elixir for Redmi 9 (lancelot) Changelogs
 
+### v3.10 lancelot
+- Selinux is Enforcing
+- Fixed edge lighting
+- Fixed Calls through Bluetooth headphones
+- Overall stability and improvement
+- CTS passes and banking apps working
+- Switched to thunder kernel
+
 ### v3.9 lancelot
 - Selinux is Enforcing
 - Overall stability and improvement
