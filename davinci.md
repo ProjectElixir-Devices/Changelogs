@@ -2,6 +2,13 @@
 
 ### Changelog for Redmi K20 /Mi 9T
 
+### v3.10
+```
+- Fix screenoff fod
+- Some fixes for audio
+- Under the hood improvements and fixes
+```
+
 ### v3.9
 ```
 - Update Miuicamera to leica+miui version
