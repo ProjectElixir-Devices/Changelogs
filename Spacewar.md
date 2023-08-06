@@ -1,19 +1,18 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/7TCfreC.jpg)
+![Changelog](https://i.imgur.com/SDKuqap.png)
 
-## v3.9 - Spacewar Changelogs
+## v3.10 - Spacewar Changelogs
 ```
-- Based on android-13.0.0_r44
-- Disabled perf scroll optimisation
-- Switched to Stock vibrator HAL
-- display-drivers: Revert LA.UM.9.14.r1-20000-LAHAINA.QSSI12.0
-- Display: Update to Nothing OS 1.5
-- Kernel: Merge changes from Nothing OS 1.5
-- ElixirGlyph: Introduced FaceDownService
-- ElixirGlyph: Add option for PowerShare
-- ElixirGlyph: Switch to NOS 1.1 powershare animation
-- ElixirGlyph: Implement non-standard screen upwards sensor
+- Based on July Security Patch
+- Updated CarrierConfig to NOS 1.5.5
+- Added Secure NFC support
+- Enabled newer HIDL override Format
+- Switched to lz4 for zram
+- Added support for low power adaptive control feature
+- Added battery-friendly-pocketmode support
+- Enabled VoNR Calls support 
+- Added props for smoother scrolling and better responsiveness
 - CTS passed by default
 - Some misc improvements and fixes
 
@@ -23,6 +22,6 @@ Note:
 
 Special Thanks To:
 - @Yogesh_champ got testing
-- AOSPA Team for Glyph improvements
+- AOSPA Team
 - @aswin_a_s for kernel support
 ```
