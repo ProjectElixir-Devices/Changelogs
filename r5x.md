@@ -1,6 +1,20 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+### v3.10 Realme 5 Series (r5x)
+- Increased ZRAM size to 60% of Ram size
+- Dropped Lineage LiveDisplay And Power
+- Removed max ZRAM compression streams setting
+- Enabled VoLTE and VoWIFI for all
+- Fixed the Screen Lag during Screen Recording
+- Removed deprecated bluetooth values from power_profile.xml
+- Updated adreno drivers from LAHAINA 21000
+- Updated Adsp,Adsp Module,Alarm,Cdsp,Certificate Authority,Charger,Cne,Drm,Display,Gps,Listen,Media,Postprocessing,Time-services,Tui Blobs from LA.UM.9.11.r1-04500-NICOBAR.0
+- Removed deprecated aptX(HD) encoder shared libs
+- fully Fixed Wfd
+- Correct SoC manufacturer name Qualcomm to Qti
+- Upstreamed Kernel to latest v4.14.320
+
 ### v3.9 Realme 5 Series (r5x)
 - Switched to retrofit dynamic partition
 - Fixed all Camera related issues 
