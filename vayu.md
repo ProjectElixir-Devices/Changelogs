@@ -1,5 +1,14 @@
 ![Elixir Banner](https://i.imgur.com/C0Wcdr5.png)
 
+# Project Elixir v3.10
+ - Upstream kernel to Linux v4.14.320 
+ - Optimize audio codec 
+ - Drop unused props and configs 
+ - Revert back to proprietary perf 
+ - Add CIT sensor service for better adaptive brightness 
+ - Update blobs from MIUI 14.0.3.0 Global 
+ - Patch IMS APK from MIUI 14.0.3.0 Global 
+
 # Project Elixir v3.7
  - Switch Kernel (Kyrielight-KATO as base)
  - Upstream kernel to v4.14.312
@@ -7,7 +16,7 @@
  - Ship MIUI 12.0.4.0 (India) firmware with the ROM package
  - Add some surfaceflinger props to reduce lags | QS lags are still there, no working fix  - found yet
  - Fix nightlight (reduced the redness of the default nightlight implementation)
- - Enable blues (its subtle)
+ - Enable blurs (its subtle)
  - Switch to Kyrelight Kernel
  - Build Boost Framework
  - Improve status bar time and keygaurd network label positon consistency
