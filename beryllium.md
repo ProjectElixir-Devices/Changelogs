@@ -2,6 +2,15 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.10 beryllium
+```
+- July patch.
+- Fixed booting issue in some devices.
+- Enabled apk fs-verify.
+- Misc optimazations.
+```
+
+
 ### v3.9 beryllium
 ```
 - Source upstream.
