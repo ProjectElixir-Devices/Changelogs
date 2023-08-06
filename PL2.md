@@ -2,6 +2,17 @@
 
 ### Project Elixir for Nokia 6.1 (PL2) Changelogs
 
+### 3.10 for Nokia 6.1
+```
+- Based on android-13.0.0_r56
+- Improved system stability
+- User interface enhancements
+- Google security patch 2023-07-05
+```
+### Note:
+```
+- Clean flash due to many QPR3 Changes
+```
 ### 3.9 for Nokia 6.1
 ```
 - Based on android-13.0.0_r44
