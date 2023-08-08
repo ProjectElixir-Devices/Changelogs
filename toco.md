@@ -2,6 +2,35 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.10 toco Changelog
+```
+- Add needed librmnetctl.so lib
+- Build vendor.xiaomi.hardware.touchfeature from source
+- Decommonize misys prebuilts
+- Disable continuous transaction tracing on all build types
+- Disable per-cgroup PSI accounting
+- Drop QCOM wfd HDCP support
+- Drop unused RIL properties
+- Drop vestigial FM board-flags
+- Enable casefolding support on userdata
+- Fix IMS symlink as per dynamic partitions
+- Fix libGLESv2_adreno.so symlink 
+- media: Add Vorbis Decoder 
+- parts: Use vector drawable for Dirac™ logo
+- prop: Default to boosted color mode
+- prop: Disable debug.sf.latch_unsignaled 
+- prop: Use FUSE passthrough by default
+- rootdir: Don't specify fstab path unnecessarily
+- sepolicy: allow system app access zram0
+- sepolicy: Label fpc wakeup node
+- Set PRODUCT_SET_DEBUGFS_RESTRICTIONS
+- Ship VantomKernel v4.14.320
+- Switch to Moto Dolby
+- Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
+- Update common blobs from sweet MIUI V14.0.4.0.TKFMIXM
+- Update system blobs from LA.QSSI.13.0.r1-10000.02-qssi.0
+```
+
 ## v3.9 toco Changelog
 ```
 - Ship VantomKernel v4.14.318
