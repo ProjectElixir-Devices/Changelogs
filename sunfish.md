@@ -1,6 +1,15 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Google Pixel 4a (sunfish) Changelogs
 
+### v3.10 Sunfish
+- Based on July security patch
+- CTS passed by default
+- Misc. Fixes and Improvements
+
+### v3.9 Sunfish
+- Updated v3.9
+- Misc. Fixes and Improvements
+
 ### v3.8 Sunfish
 - May SP Merged
 - Fixed NFC
