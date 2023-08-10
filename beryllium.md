@@ -2,6 +2,14 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.10 HOTFIX beryllium
+```
+- Fixed Cracking BT sound.
+- Switched to fastest rendering graphics firmware & its more sharp now.
+- Fixed Combined signal issue.
+```
+
+
 ### v3.10 beryllium
 ```
 - July patch.
