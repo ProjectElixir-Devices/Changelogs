@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/SDKuqap.png)
+![Changelog](https://i.imgur.com/VLpDHwf.png)
 
 <br>
 <br>
@@ -8,6 +8,35 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.11 (16.08.2023)
+```
+- Merged latest August Security patch
+- CTS Passes by default and banking apps are working fine
+- Switched back to Launcher3
+- Themes: Drop clear theme
+- PixelPropsUtils: Add game props
+- Fixed time on ls gets stuck on aod
+- PixelPropsUtils: Switch to Oneplus 8 pro for BGMI
+- QuickStatusBarHeader: hide whole qs header layout if not enabled
+- Merge translations from crowdin
+- Essence: Launch default music player on headset connect
+- Essence: Make combined signal icon toggleable using overlay
+- Essence: Fix removing icon in essence homepage
+- base: overlays: Stop building NotoSerif font
+- NightLight: Allow lower temperatures
+- sounds: Bring in Nothing 2.0 UI sound effects
+- services: fix weird launcher3 crash
+- Fix sfps arrow color in overlay
+- vendor: Drop SimpleDeviceConfig
+- SystemUI: Add a circle background for QS Edit icon
+- SystemUI: Make Lockscreen Bottom ShortcutsBackground Translucent
+- overlays: don't allow backup
+- ven/aosp: Bump to 3.11 and update wallpaper
+- Fixed many existing bugs 
+- Improved stability and performance 
+- Much More - Try by yourself 
+```
 
 ### v3.10 (31.07.2023)
 ```
