@@ -1,18 +1,20 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/SDKuqap.png)
+![Changelog](https://i.imgur.com/VLpDHwf.png)
 
-## v3.10 X00T/D Changelogs
+## v3.11 X00T/D Changelogs
 ```
-- Based on July Security Patch
-- Forced device to treat 170M as sRGB in SF
-- Extended buffer size to 256kb for offload playback
-- Optimized package manager dexopt properties
-- Disabled WLAN Firmware loggings
-- Implemented spatial audio support
-- Reduced ZRAM size to 25%
-- Enabled zram writeback
-- Better RAM Management
+- Based on August Security Patch
+- Dropped renderscript Pinner Service
+- Removed unnecessary QTI logkit directories 
+- Removed racey printk setups 
+- Disabled phantom process monitoring
+- Builded offline charging daemon dependency 
+- Enabled Seamless Transfer support
+- Disabled firmware log
+- Updated ZRAM configuration 
+- Nuked storage.xml post boot
+- Improved audio resampler quality
 - CTS passed by default
 - Some misc improvements and fixes
 
