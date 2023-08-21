@@ -1,18 +1,18 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/SDKuqap.png)
+![Changelog](https://i.imgur.com/VLpDHwf.png)
 
-## v3.10 - Spacewar Changelogs
+## v3.11 - Spacewar Changelogs
 ```
-- Based on July Security Patch
-- Updated CarrierConfig to NOS 1.5.5
-- Added Secure NFC support
-- Enabled newer HIDL override Format
-- Switched to lz4 for zram
-- Added support for low power adaptive control feature
-- Added battery-friendly-pocketmode support
-- Enabled VoNR Calls support 
-- Added props for smoother scrolling and better responsiveness
+- Based on August Security Patch
+- Implemented Minimal Richtap vibrations
+- Enabled automatic channel selection
+- Disabled BT A2DP AAC whitelist
+- Dropped Nothing Camera support
+- Added MGC Parrot GCam v2.3 as default
+- More Improvements on Haptics
+- Tweaks on surface flinger refresh rate timers
+- Enabled aptX(HD) offload
 - CTS passed by default
 - Some misc improvements and fixes
 
@@ -22,6 +22,6 @@ Note:
 
 Special Thanks To:
 - @Yogesh_champ got testing
-- AOSPA Team
+- AOSPA Team for Glyph support
 - @aswin_a_s for kernel support
 ```
