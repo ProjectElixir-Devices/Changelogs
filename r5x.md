@@ -1,6 +1,15 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+### v3.11 Realme 5 Series (r5x)
+- Update Perf Blobs from LA.UM.9.11.r1-04500-NICOBAR.0
+- Enabled 4K Video Recording on Back Camera
+- Added Viper4Android
+- Update Cutout Values from stock
+- Use proper device model as device name
+- Enabled config.low_ram for 3GB variants
+- RealmeParts Drop Ambient Display And Gesture
+
 ### v3.10 Realme 5 Series (r5x)
 - Increased ZRAM size to 60% of Ram size
 - Dropped Lineage LiveDisplay And Power
