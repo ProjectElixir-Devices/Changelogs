@@ -2,6 +2,12 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.11 toco Changelog
+```
+- configs: Update dax-default profiles
+- Explicitly disable serial console
+```
+
 ## v3.10 toco Changelog
 ```
 - Add needed librmnetctl.so lib
