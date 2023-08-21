@@ -2,6 +2,14 @@
 
 ### Project Elixir for Nokia 6.1 Plus (DRG) Changelogs
 
+### 3.11 for Nokia 6.1 Plus
+```
+- Merged August Security Patch
+- Fixed broken GCam
+- Switched back to Elixir Launcher
+- Enjoy the update!
+```
+
 ### 3.10 for Nokia 6.1 Plus
 ```
 - Based on android-13.0.0_r56
