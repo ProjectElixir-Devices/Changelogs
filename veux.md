@@ -2,6 +2,21 @@
 
 ## v3.8 Veux/Peux
 ```
+•Comes wit August Security patch.
+•Drop old non used stuff.
+•Switch to VEUX ril stack (5G should really work fine).
+•Drop input boost (less battery drain).
+•Optimise dex flags.
+•Fixed statusbar padding.
+•Updated vendor and kernel to latest global v14.0.2.0
+•Updated firmware to latest global.
+•Fixed nfc for Global users.
+•Dolby and spatial audio comes with in the rom.
+•launcher 3 is shipped by default.
+```
+
+## v3.8 Veux/Peux
+```
 •Comes with May Security Patch
 •Miui Camera is shipped by default with Rom
 •Overall stability and improvements
