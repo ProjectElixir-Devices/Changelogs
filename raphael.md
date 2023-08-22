@@ -2,6 +2,16 @@
 
 ### Changelog for Redmi K20 Pro/Mi 9t Pro
 
+### v3.11
+```
+- Fixed Encryption
+- Enabled pocket mode
+- Leica+Miui camera preinstalled
+- CTS passes by default
+- Dropped some Gapps packages
+- Some more under the hood changes
+```
+
 ### v3.10
 ```
 - Fixed NFC
