@@ -109,3 +109,17 @@ cts passed by default
 Leica cam there
 Use 14.0.9 eea firmware
 Rom comes with gapps
+
+## v3.11 Alioth
+- Fixed the issue where audio volume goes low and High
+- If you face Delay in FP, switch to NoKernel
+- Disabled SDM rotator downscaler
+- Enabled Optimized Power Management
+- Droped slim_daemon
+
+Note:
+cts passed by default
+Leica cam there
+Flash kernel su supported kernel to use kernelsu
+Use 14.0.9 eea firmware
+Rom comes with gapps
