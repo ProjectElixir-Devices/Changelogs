@@ -2,6 +2,17 @@
 
 ### Project Elixir for Redmi 9 (lancelot) Changelogs
 
+### v3.11 lancelot
+- Enabled pocket mode 
+- Fixed blank screen when screen turns off while playing video
+- Show charging rapidly in lock screen 
+- Include mtkfm
+- Include power off alarm 
+- Fixed heating issues
+- Disable few services to improve wifi stability
+- Updated kernel
+- Fixed random wifi disconnect
+
 ### v3.10 lancelot
 - Selinux is Enforcing
 - Fixed edge lighting
