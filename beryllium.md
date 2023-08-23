@@ -2,6 +2,15 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.11 beryllium
+```
+- Augest patch.
+- Some kernel optimization.
+- tried to resolve battery backup issue.
+- Misc optimazations.
+```
+
+
 ### v3.10 HOTFIX beryllium
 ```
 - Fixed Cracking BT sound.
