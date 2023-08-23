@@ -1,7 +1,20 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Redmi Note 9 (merlinx) Changelogs
 
-## v3.10 Merlinx
+### v3.11 merlinx
+
+- Enabled pocket mode 
+- Fixed blank screen when screen turns off while playing video
+- Show charging rapidly in lock screen 
+- Include mtkfm
+- Include power off alarm 
+- Fixed heating issues
+- Disable few services to improve wifi stability
+- Updated kernel
+- Fixed random wifi disconnect
+
+  
+### v3.10 Merlinx
 
 - Selinux is Enforcing
 - Fixed edge lighting
@@ -12,7 +25,7 @@
 - Fixed qs lags
 
 
-## 3.9 Merlinx
+### 3.9 Merlinx
 
 - Selinux is Enforcing
 - Overall stability and improvement
@@ -21,7 +34,7 @@
 - Updated Gapps 
 
 
-## 3.4 Merlinx
+### 3.4 Merlinx
 
 - R vendor build
 - Fixed EBPF Problems
@@ -69,5 +82,4 @@
 - Its mandatory follow the right follow steps if you don't want a brick
 
 ## Credits
-@sakthivelnadar @telepathine @surblazer  @ceb8khs @bengris32 and Other Redmi-MT6768 contributions  For dt
-@itsnouralawad @zhiter @theHero_7 for test
+ @surblazer @bengris32 for trees
