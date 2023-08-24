@@ -8,5 +8,4 @@
 - CTS passes by default
 - Wifi Display Working
 - Augest patch.
-- No bugs from my side
 ```
