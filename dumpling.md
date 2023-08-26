@@ -74,3 +74,8 @@
 - Volume control panel moved to left.
 - 3.10 Patches.
 - July security patch.
+
+# 3.11
+
+- 3.11 Patches.
+- August security patch.
