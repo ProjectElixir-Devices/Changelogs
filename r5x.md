@@ -1,6 +1,15 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+### v3.11 (HOTFIX) Realme 5 Series (r5x)
+- Switched to Aidl Power Libperfmgr
+- Dropped some useless camera blobs And stock camera Config
+- RealmeParts: extend sound_control to realmeparts
+- RealmeParts: Implement Clear Speaker
+- Added Prebuilt Aperture Camera
+- Fixed Freezing issues
+- Misc. Fixes and Improvements
+
 ### v3.11 Realme 5 Series (r5x)
 - Update Perf Blobs from LA.UM.9.11.r1-04500-NICOBAR.0
 - Enabled 4K Video Recording on Back Camera
