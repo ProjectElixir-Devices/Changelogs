@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/VLpDHwf.png)
+![Changelog](https://i.imgur.com/VHEzeIF.png)
 
 <br>
 <br>
@@ -8,6 +8,40 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.12 (25.09.2023)
+```
+- Merged latest September Security patch
+- CTS Passes by default and banking apps are working fine
+- Added Parallel Space 
+- Exclusive: Added 2 new lock screen clock 
+- Added App Lock and hide in launcher 
+- Added Statusbar Clock background chip 
+- Added XuiMod: Toast Animations 
+- Added brightness slider styles 
+- Added Themes: Data icon style 
+- Added Add option to launch statusbar tuner 
+- Added SystemUI: Custom QS header image 
+- Added Power Menu animations 
+- Settings: Add greeting in homepage of settings  
+- Added charging icon to the charging animation 
+- SystemUI: QS header gradient improvements 
+- Enable and tune new keyguard user switcher 
+- Add statubar clock customisations 
+- Merge translations from crowdin 
+- Settings: Update Essence icon  
+- Settings: Don't turn on smart 5g by default 
+- Settings: Rework icons  
+- Settings: Switch back to default layout of battery UsageView 
+- SystemUI: Integrate Google Lens into Screenshot UI  
+- Fixed updater color & text issues  
+- soong: extend support for oppo camera 
+- Added our Elixir wallpapers 
+- ven/aosp: Bump to 3.12 & update wallpaper 
+- Fixed many bugs related to battery backup, heating and ui glitch 
+- Improved stability and performance 
+- Much More, Try by yourself 
+```
 
 ### v3.11 (16.08.2023)
 ```
