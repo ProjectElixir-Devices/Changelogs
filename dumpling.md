@@ -79,3 +79,8 @@
 
 - 3.11 Patches.
 - August security patch.
+
+# 3.12
+
+- 3.12 Patches.
+- September security patch.
