@@ -2,6 +2,28 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.12 toco Changelog
+```
+- Add fastcharge implementation
+- Add keylayout mapping for Xbox360 compatible controllers
+- Build Lineage Health HAL
+- Build needed `libbthost_if_sink` package
+- Import Qualcomm CameraX Vendor Extensions
+- keylayout: Import joystick keylayouts from 1Controller v1.5.2
+- parts: Refactor ClearSpeakerFragment code
+- parts: Rename app to Xiaomi Parts
+- Restore soundtrigger
+- Ship VantomKernel v4.14.325
+- Update to Moto Dolby Atmos v06.03.1558
+- wifi: Enable Optimized Power Management
+- wlan: Remove arp_ac_category INI item
+- wlan: Remove obselete gEnableBypass11d config
+- wlan: Remove obsolete gEnableSifsBurst config
+- wlan: Remove obsolete INI called gFixedRate
+- wlan: Remove obselete McastBcastFilter config
+- wlan: Remove obselete SapSccChanAvoidance config
+```
+
 ## v3.11 toco Changelog
 ```
 - configs: Update dax-default profiles
