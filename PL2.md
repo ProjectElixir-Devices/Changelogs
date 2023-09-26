@@ -2,6 +2,14 @@
 
 ### Project Elixir for Nokia 6.1 (PL2) Changelogs
 
+### 3.12 for Nokia 6.1
+```
+- Added Fast Charging HAL's
+- Fixed OK Google
+- Improved Thermals
+- Enjoy the Update!
+```
+
 ### 3.11 for Nokia 6.1
 ```
 - Merged August Security Patch

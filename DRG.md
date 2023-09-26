@@ -2,6 +2,14 @@
 
 ### Project Elixir for Nokia 6.1 Plus (DRG) Changelogs
 
+### 3.12 for Nokia 6.1 Plus
+```
+- Added Fast Charging HAL's
+- Fixed OK Google
+- Improved Thermals
+- Enjoy the Update!
+```
+
 ### 3.11 for Nokia 6.1 Plus
 ```
 - Merged August Security Patch
