@@ -2,7 +2,33 @@
 
 ### Project Elixir for Google Pixel 3 (blueline) Changelogs
 
-## v3.10 Crosshatch
+## v3.12 Blueline
+- User Build
+- Selinux is Enforcing
+- CTS passes and banking apps working
+- Update display vendor packages
+- b1c1: drop android.hardware.tetheroffload.config manifest
+- b1c1: Modify kgsl idle timer to 58ms 
+- b1c1: overlay: Switch to AVC 3.1 for screen recording
+- b1c1: overlay: Disable gms components for better WiFi speeds 
+- b1c1: Optimize Launcher3 and Settings for speed
+- b1c1: props: add smoother scrolling and better responsivenes
+- b1c1: props: Disable sf EGL Image tracking
+- b1c1: rro_overlays: Increase 5 GHz network signal tolerance
+- b1c1: switch to Vulkan UI
+- b1c1: vendor.prop: set HWUI Render to 20
+- b1c1: wifi: Add parameters for Hotspot 2.0
+- b1c1: wifi: Disable RX wakelock feature
+- b1c1: wifi: Disable firmware log
+- b1c1: wifi: Disable TDLS offchannel
+- b1c1: wifi: Enable Optimized Power Management
+- b1c1: wifi: Relax WiFi re-association RSSI threshold
+- b1c1: wifi: Switch gEnablePowerSaveOffload to 5
+- b1c1: wifi: smarter decisions on whether to use a 2- or 5Ghz AP
+- revert: b1c1: Switch cpu variant to kryo 385
+- Misc. Fixes and Improvements
+
+## v3.10 Blueline
 - User Build
 - Selinux is Enforcing
 - CTS passes and banking apps working
