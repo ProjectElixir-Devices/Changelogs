@@ -2,5 +2,10 @@
 
 ### Project Elixir for Realme X2(RMX199X) Changelogs
 
-## v3.11
-- Initial Official Build 
+## v3.12
+- Tune vibration
+- Update dolby configs
+- Remove some packages
+- Update surfaceflinger
+- Added missing qti thermal
+- some under the hood optimazation
