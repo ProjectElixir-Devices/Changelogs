@@ -1,6 +1,17 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Miatoll Changelogs
 
+### v3.12 MIATOLL
+- Fixed Vulkan was crashing
+- Enabed Spatial Audio for Speaker
+- Dolby codecs support available [ac3, eac3, eac3-joc]
+- Audio effects is now more immersive
+- Fixed Audio HAL related stuff (v7.0)
+- Upsteam Kernel v4.14.325
+- Update Audio Kernel of LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0
+- Update TreeWide of LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0
+- Update Firmware API of LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0
+
 ### v3.11 MIATOLL
 - Fix NFC
 - Add Stock Miui Camera support [Included Miui Gallery]
