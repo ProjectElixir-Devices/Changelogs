@@ -1,6 +1,29 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+### v3.12 Realme 5 Series (r5x)
+- RealmeParts:  Update Kcal view Images
+- Improve device Displaycutout padding (stock modified)
+- Refine carrier statusbar padding
+- Fix rro overlays build
+- Fix 5s Camera Pink Photo issue
+- Removed bogus ebtables/ethertypes/libebtc packages
+- Remove libbthost_if from product packages
+- Remove android.hardware.graphics.composer@2.4-impl
+- Remove vendor com.qualcomm.qti.bluetooth_audio@1.0
+- powerhint Set screen-off schedutil ratelimits
+- Remove TARGET_USES_64_BIT_BINDER
+- Reduced schedutil rate limits
+- Added blkio tuning from sunfish
+- Remove deprecated telephony flag
+- Switch to Audio HAL V6
+- Remove deprecated display packages
+- Audio: Add fast input profile for the record concurrency
+- Audio: Add hotword input for hotword mic concurrency
+- Remove deprecated BOARD_HAS_LARGE_FILESYSTEM
+- vibrator: Add config to exclude haptics devices from input subsy
+- Misc. Fixes and Improvements
+
 ### v3.11 (HOTFIX) Realme 5 Series (r5x)
 - Switched to Aidl Power Libperfmgr
 - Dropped some useless camera blobs And stock camera Config
