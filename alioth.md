@@ -117,6 +117,13 @@ Rom comes with gapps
 - Enabled Optimized Power Management
 - Droped slim_daemon
 
+## v3.12 Alioth
+- Switched to los kernel
+- Some vendor side changes
+- Improved overall smoothness and stability
+
+ (Los kernel break dc dimming and hbm. use any other kernel to use those)
+
 Note:
 cts passed by default
 Leica cam there
