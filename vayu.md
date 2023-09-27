@@ -1,5 +1,8 @@
 ![Elixir Banner](https://i.imgur.com/C0Wcdr5.png)
 
+# Project Elixir v3.12
+ - Upstream kernel to Linux v4.14.325 
+
 # Project Elixir v3.10
  - Upstream kernel to Linux v4.14.320 
  - Optimize audio codec 
