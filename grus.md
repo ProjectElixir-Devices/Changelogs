@@ -2,6 +2,15 @@
 
 ## Project Elixir for Xiaomi MI 9 SE (grus) Changelogs
 
+### v3.12 grus
+```
+- Move to GCam(Google Camera)
+- Improve 4k write performance(EXT4)
+- Fix up Buffer issue
+- Disable qcom_rx_wakelock to improve powersave
+- Further improve the deep sleep
+```
+
 ### v3.11 2nd grus
 ```
 - Move to GCamGo(Google Camera Go)
