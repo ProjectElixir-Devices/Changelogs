@@ -2,6 +2,14 @@
 
 ### Project Elixir for Redmi Note 8/8T (ginkgo) Changelogs:
 
+### v3.12 ginkgo
+```
+- BUILD IS DECRYPTED.
+- Fixed all UI lags.
+- Synced Cuh-v1.2 kernel.
+- Lots of minor improvements & cleanups.
+```
+
 ### v3.11 ginkgo
 ```
 - BUILD IS DECRYPTED.
