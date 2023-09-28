@@ -2,6 +2,12 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+### v3.12 beryllium
+```
+- Source upstram.
+```
+
+
 ### v3.11 beryllium
 ```
 - Augest patch.
