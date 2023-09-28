@@ -2,6 +2,21 @@
 
 ### Changelog for Redmi K20 Pro/Mi 9t Pro
 
+### v3.12
+```
+- Disable ART debug and optimize dexpreopt
+- Disable dexpreopt minidebuginfo
+- Drop DexPreOpt
+- Track QSPM HAL service
+- Add QSPM hal service
+- Add a script to reorder blobs list
+- Reorder blob list
+- Use QCOM implementation for audio effects
+- Import QCOM audio effects blobs
+- Leica+Miui camera preinstalled
+- CTS passes by default
+```
+
 ### v3.11
 ```
 - Fixed Encryption
