@@ -1,18 +1,22 @@
 # WELCOME TO PROJECT ELIXIR - ANDROID 13.0
 
-![Changelog](https://i.imgur.com/VLpDHwf.png)
+![Changelog](https://i.imgur.com/VHEzeIF.png)
 
-## v3.11 - Spacewar Changelogs
+## v3.12 - Spacewar Changelogs
 ```
-- Based on August Security Patch
-- Implemented Minimal Richtap vibrations
-- Enabled automatic channel selection
-- Disabled BT A2DP AAC whitelist
-- Dropped Nothing Camera support
-- Added MGC Parrot GCam v2.3 as default
+- Based on September Security Patch
+- Fixed Reverse wireless charging
+- Fixed QS lags (Requires sometime to settle rom)
+- Improvements on Glyph Interface
+- Optimized everything on preopt
+- Disabled ART debug and optimized dexpreopt
+- Downgraded zram to 2GB
+- Force disabled low ram config
+- Enabled the performant auth feature
+- Optimized Launcher3 and Settings for speed
+- Used FUSE passthrough mode by default
+- Added system property for System UI compiler filter
 - More Improvements on Haptics
-- Tweaks on surface flinger refresh rate timers
-- Enabled aptX(HD) offload
 - CTS passed by default
 - Some misc improvements and fixes
 
@@ -21,7 +25,7 @@ Note:
 - GApps are included
 
 Special Thanks To:
-- @Yogesh_champ got testing
+- @Yogesh_champ for testing
 - AOSPA Team for Glyph support
 - @aswin_a_s for kernel support
 ```
