@@ -1,6 +1,16 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Redmi Note 9 (merlinx) Changelogs
 
+### v3.12 merlinx
+
+- Fix power off alarm
+- use Zram
+- Remove Unwanted Apps
+- Enable auto power saving modes
+- Switched to new kernel (thnx to @orkunergun)
+- Upstreamed kernel to v4.14.324
+
+
 ### v3.11 merlinx
 
 - Enabled pocket mode 

@@ -2,6 +2,14 @@
 
 ### Project Elixir for Redmi 9 (lancelot) Changelogs
 
+### v3.12 lancelot
+- Fix power off alarm
+- use Zram
+- Remove Unwanted Apps
+- Enable auto power saving modes
+- Switched to new kernel (thnx to @orkunergun)
+- Upstreamed kernel to v4.14.324
+
 ### v3.11 lancelot
 - Enabled pocket mode 
 - Fixed blank screen when screen turns off while playing video
