@@ -2,6 +2,35 @@
 
 ### Changelog for Redmi K20 /Mi 9T
 
+### v3.12
+```
+- This release based on new dynamic trees from lineageos thanks to Arian 
+- Move to perf kernel from lineage os and added vibration control
+- This release comes with leica 5.0 camera thanks to itzdfplayer
+- Fix issue with WFD at 1080p@60 with some TVs
+- Add Snapdragon Computer Vision blobs
+- Update Adreno to Moto G84 (bangkk)
+- Switch back to prebuilt audio HAL and config
+- Added dummy super image inside rom zip so no need to flash it separately
+- Update system blobs from LA.QSSI.13.0.r1-10000.02-qssi.0
+- Add hotword blobs from V14.0.2.0.TKFMIXM
+- Enable TWS plus feature using persist property
+- Enable Qualcomm TrueWireless Stereo
+- AAC frame control enabled for hal implementation
+- Disable BT A2DP AAC whitelist
+- Add support for low power adaptive control feature
+- Update gps from LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0
+- Update CarrierConfig from LA.QSSI.13.0.r1-10000.02-qssi.0
+- Import joystick keylayouts from 1Controller v1.5.2
+- Add mapping for Xbox360 compatible controllers
+- Checkout overlay to Evolution-X-Devices/device_xiaomi_raphael@71a1b2f
+- Fix PowerOffAlarm
+- Fine-tune cpusets parameters
+- Increase the radius of the fingerprint enrollment progress bar
+- Update audio , wifi and media configs
+- Bugs: NFC
+```
+
 ### v3.10
 ```
 - Fix screenoff fod
