@@ -2,6 +2,15 @@
 
 ## Project Elixir for Xiaomi MI 9 SE (grus) Changelogs
 
+### v3.12 2nd grus
+```
+- Add erofs support
+- Fix up hotspot issue
+- Fix up Settings crash issue
+- Adjust the status bar
+- Further improve the r/w performance
+```
+
 ### v3.12 grus
 ```
 - Move to GCam(Google Camera)
