@@ -2,10 +2,24 @@
 
 ### Project Elixir for Redmi Note 7/7s (lavender) changelogs
 
+### 3.12 lavender
+- Initial k4.19 build.
+- CLEAN FLASH MANDATORY.
+- NekoKernel by default
+- Retrofit Dynamic Partitions build.
+- Build and enable fastbootd.
+- Used logdump as /metadata.
+- Inbuilt GCamGOPrebuilt-V3_8.
+- Recovery decrypted doesn't work (at least for now).
+- Inbult Xiaomi Parts aka DeviceSettings.
+- L3 for now.
+- If you faced any bug report it kindly with proper logcat, no logs -> no bug :)
+- Safetynet passes by default.
+
 ### 3.9 lavender
 
 - Minor fixes
-- Shipped with GcamGo-V3 
+- Shipped with GcamGo-V3
 - Switched to Jemalloc
 - Address some sepolicy denials
 
@@ -38,7 +52,7 @@
 
 ### 3.4 lavender
 
-- Fixed Led 
+- Fixed Led
 - Fixed random reboot issue
 - Fixed hyperorange night light
 - Defined multiple vibration intensity levels config for T
