@@ -57,5 +57,6 @@ NOTE:-
 - No need to flash Gapps (included)
 - Selinux is Enforcing
 - Rom is fbev1
-- ## Recovery Link : [OFOX Recovery](https://orangefox.download/release/6327989a3c05f43c193c0acb)
+- ## Recovery Link : [OFOX Recovery: FBEv1](https://orangefox.download/release/6423f3fd3b7efd4549c74602) [OFOX Recovery: FBEv2](https://orangefox.download/release/6423f4eb3b7efd4549c74604)
+
 
