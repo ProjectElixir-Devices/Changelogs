@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/VHEzeIF.png)
+![Changelog](https://i.imgur.com/zw6GQAg.png)
 
 <br>
 <br>
@@ -8,6 +8,33 @@
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
 <br>
+
+### v3.13 (16.10.2023)
+```
+-  CTS Passes by default and banking apps are working fine 
+-  Exclusive: Added 2 new lock screen clock 
+-  Exclusive: Added all new 25 iOS style depth clock 
+-  Added greeting in homepage of settings 
+-  Settings: Add card layout to System 
+-  Revamped Settings dashboard UI  
+-  Added QS Header img preview 
+-  Switched Gapps to minimal one and cleanup 
+-  Fixed Status bar traffic indicator crashes when set to set auto-hide 
+-  Merged translations from crowdin 
+-  Privacy Indicators: Follow light/dark theme settings 
+-  Add layout in Game space 
+-  Re arranged and adapted UI with proper category 
+-  Fixed some issues with updater UI  
+-  Fix the shrinked battery graph  
+-  SystemUI: Integrate Google Lens into Screenshot UI  
+-  SystemUI: Expose location and microphone icons to Tuner  
+-  Switch to GrapheneOS blue color palette for Material You  
+-  base: Do not reset keyguard going away state  
+-  ven/aosp: Bump to 3.13 and update wallpaper  
+-  Fixed many bugs related to battery backup, heating and ui glitch
+-  Improved stability and performance 
+-  Much More, Try by yourself 
+```
 
 ### v3.12 (25.09.2023)
 ```
