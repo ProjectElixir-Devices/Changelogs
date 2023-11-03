@@ -2,6 +2,11 @@
 
 ### Project Elixir for Google Pixel 2 XL (taimen) Changelogs
 
+### v3.13 EOL
+- Sept security patch
+## Note:
+- If u got bootloop when reboot to recovery, just flash reovey from PixelExperience
+
 ### v3.11
 - August security patch
 - Correct the slot ID of non-removable ESIM
