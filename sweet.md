@@ -2,6 +2,15 @@
 
 ### Project Elixir for Redmi Note 10 Pro / Max (sweet/sweetin) Changelogs
 
+### v3.13 sweet/sweetin
+```
+- Switched back to Sleepy Perf Kernel
+- Other device tree and Kernel Changes
+- LEICA Cam included with MIUI Gallery
+- Included Sony Dolby & Spatial Audio
+- Enjoy the Update!
+```
+
 ### v3.12 sweet/sweetin
 ```
 - Switched to Zelo Kernel
