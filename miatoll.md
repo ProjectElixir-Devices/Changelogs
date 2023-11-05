@@ -1,6 +1,11 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Miatoll Changelogs
 
+### v3.13 MIATOLL ###
+- Enable Optimized WiFi Power Management
+- Enable asynchronous library events in WiFi supplycant
+- misc changes
+
 ### v3.12 MIATOLL
 - Fixed Vulkan was crashing
 - Enabed Spatial Audio for Speaker
