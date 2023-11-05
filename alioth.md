@@ -122,6 +122,10 @@ Rom comes with gapps
 - Some vendor side changes
 - Improved overall smoothness and stability
 
+## v3.13 Alioth
+- Same as 3.12
+- Last A13 build
+
  (Los kernel break dc dimming and hbm. use any other kernel to use those)
 
 Note:
