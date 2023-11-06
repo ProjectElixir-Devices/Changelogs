@@ -1,6 +1,17 @@
 ![Device Changelog](https://i.imgur.com/C0Wcdr5.png)
 ### Project Elixir for Realme 5 Series (r5x) Changelogs
 
+### v3.13 Realme 5 Series (r5x)
+- Overlay: Do not force enable shutter sounds for India
+- rootdir: Fix sdcard support
+- rootdir: Don't mount useless OPPO partition
+- rootdir: Remove unsupported fstab flag
+- light: Bump light aidl to v2
+- rootdir: Switch to f2fs on Userdata Partition
+- rootdir: Fix fsmgr flag for F2FS Compression
+- rootdir: Mount metadata fs during first stage init
+- proprietary-files: Update Gatekeeper And Keymaster Blobs from rmx2050 qssi-user-11-RKQ1.200903.002-1651143221904-release-keys
+
 ### v3.12 Realme 5 Series (r5x)
 - RealmeParts:  Update Kcal view Images
 - Improve device Displaycutout padding (stock modified)
