@@ -2,6 +2,12 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
+### v3.13 violet
+```
+- violet: EOL Update with misc changes and fixes
+- violet: See kernel changes here: https://github.com/Joker-V2/kernel_xiaomi_violet/commits/thirteen
+```
+
 ### v3.10 violet
 ```
 - violet: audio: Tune audio output 
