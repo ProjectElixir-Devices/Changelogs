@@ -2,6 +2,13 @@
 
 ![Changelog](https://i.imgur.com/3uuYftu.png)
 
+## v3.13 toco Changelog
+```
+- gps: Resolve unused parameter warnings again
+- gps: Update from LA.UM.9.1.r1-13900-SMxxx0.QSSI13.0
+- Update common blobs from sweet MIUI V14.0.7.0.TKFMIXM
+```
+
 ## v3.12 toco Changelog
 ```
 - Add fastcharge implementation
