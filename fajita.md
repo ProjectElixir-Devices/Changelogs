@@ -2,6 +2,12 @@
 
 ### Project Elixir for Oneplus 6T (fajita) Changelogs
 
+### 3.13(EOL) fajita
+```
+- Source Upstreamed
+- Eol build for A13
+```
+
 ### 3.12 fajita
 ```
 - Fixed WFD glitches
