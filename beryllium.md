@@ -2,6 +2,14 @@
 
 ## Project Elixir for Xiaomi POCO F1 (beryllium) Changelogs
 
+
+### v3.13 beryllium
+```
+- Source upstram.
+- Updated Micam.
+```
+
+
 ### v3.12 beryllium
 ```
 - Source upstram.
