@@ -65,3 +65,13 @@
 - Selinux is Enforcing
 - Build is encrypted
 - CTS passes and banking apps working
+
+### v3.13 Kebab
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- Firmware has been updated to OOS 13.1.0.581(EX01)
+- Added LDAC blobs
+- Fixed low mic volume on VoIp
+- Added Dolby Atmos 
