@@ -2,6 +2,13 @@
 
 ### Project Elixir for Google Pixel 3 (blueline) Changelogs
 
+## v3.13 Blueline
+Note : This is Final Build for Android 13[EOL]
+- User Build
+- Selinux is Enforcing
+- CTS passes and banking apps working
+- Same changelog in 3.12
+
 ## v3.12 Blueline
 - User Build
 - Selinux is Enforcing
