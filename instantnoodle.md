@@ -33,3 +33,13 @@
 - Selinux is Enforcing
 - Build is encrypted
 - CTS passes and banking apps working
+
+### v3.13 Instantnoodle
+
+- Selinux is Enforcing
+- Build is encrypted
+- CTS passes and banking apps working
+- Firmware has been added inbuilt, no need to flash again
+- Added LDAC blobs
+- Fixed low mic volume on VoIp
+- Added Dolby Atmos 
