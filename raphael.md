@@ -2,6 +2,21 @@
 
 ### Changelog for Redmi K20 Pro/Mi 9t Pro
 
+### v3.13
+```
+- Fixed haptic level adjustment
+- Fixed many log spams/denials
+- Drop QCOM perf
+- Create dummy libqti-perfd-clint
+- Import carrier config from MIUI
+- Extend buffer size to 256kb for offload playback
+- Redefine bluetooth a2dp offload capabilities
+- Set permissions for KGSL sysfs node
+- Shim the GetPreviewImageData symbol on libpiex
+- Lecia+Miui camera pre-installed
+- CTS passes by default 
+```
+
 ### v3.12
 ```
 - Disable ART debug and optimize dexpreopt
