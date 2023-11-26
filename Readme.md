@@ -14,6 +14,59 @@
 ```
 - Initial Release of Android 14 
 - Added Settings Dashboard UI
+- Added an option to scramble pin layout when unlocking 
+- Added Forward port CM Screen Security settings 
+- Added Wake on plug toggle
+- Added extended monet themes
+- Added Network Traffic Indicator
+- Redesign the switch  
+- Added support per-app volume
+- Added battery style customization
+- Add package name to installed app details
+- SystemUI: Port statusbar brightness control 
+- SystemUI: Make app icons in statusbar optional
+- SystemUI: Forward-port notification counters
+- Added Livedisplay support
+- Added SystemUI icon tuner
+- Added screen off fod
+- Added Alert Slider user interface
+- Introduce automated DC Dimming 
+- Added three-fingers-swipe to screenshot
+- Added icon packs, fonts, signal, wifi and shape
+- SystemUI: Update BT battery level from OOS
+- SystemUI: Option to disable Data Disabled Indicator icon
+- Added support for window ignore secure
+- SystemUI: Allow using 4G icon instead of LTE
+- Bring back QQS brightness slider options
+- Allow disabling qs on secure lockscreen 
+- services: Introduce Pocket Mode feature
+- Added Statusbar clock customizations 
+- base: allow disabling ripple effect on unlock
+- Added Fingerprint authentication vibration 
+- fwb: Screen off animations
+- base: Incall vibration options
+- SystemUI: add edge light customization 
+- Added runtime configurable audio panel location
+- Essence: Hide Status bar on Lock screen
+- Added toggle 4g-LTE & Data Disable
+- Added AODSchedule and support for mixed time & sun modes
+- Added new google SystemUIClocks-Handwritten
+- Essence: Less boring heads up option
+- Essence: Add toggle for Double tap to sleep gesture
+- Essence: Forward Port Volume Long Press Skip Tracks 
+- Allow disable of screenshot shutter sound
+- display: Add simple RGB color balance transform 
+- Allow showing Ambient instead of fully waking 
+- SystemUI: New per-app volume icon 
+- Added capability to allow tethering to use VPN upstreams 
+- Added Lockscreen Charging Info
+- Added Advanced Reboot options
+- Added support for oem fast charger detection 
+- QS: Add and use Mobile Data panel 
+- SystemUI: Toggle data usage view on QS footer
+- PackageInstaller: show current/new version on sideload
+- Enable Lock screen long-press to open wallpaper picker
+- Ofc Google Lockscreen brand new clocks
 - Much more 
 ```
 
