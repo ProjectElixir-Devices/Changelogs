@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/DBZe4rs.jpg)
+![Changelog](https://i.imgur.com/MF2K9V2.png)
 
 <br>
 <br>
@@ -10,9 +10,11 @@
 <br>
 
 
-### v4.0 | Public Release Date is not yet decided
+### v4.0 | 04 January, 2024
 ```
-- Initial Release of Android 14 
+- Initial Release of Android 14
+- Merged latest January Security patch
+- CTS and play integrity passes [May require a clear data of the Play Store and Google Pay/Wallet apps]
 - Added Settings Dashboard UI
 - Added an option to scramble pin layout when unlocking 
 - Added Forward port CM Screen Security settings 
@@ -50,7 +52,6 @@
 - Essence: Hide Status bar on Lock screen
 - Added toggle 4g-LTE & Data Disable
 - Added AODSchedule and support for mixed time & sun modes
-- Added new google SystemUIClocks-Handwritten
 - Essence: Less boring heads up option
 - Essence: Add toggle for Double tap to sleep gesture
 - Essence: Forward Port Volume Long Press Skip Tracks 
@@ -65,7 +66,6 @@
 - QS: Add and use Mobile Data panel 
 - SystemUI: Toggle data usage view on QS footer
 - PackageInstaller: show current/new version on sideload
-- Enable Lock screen long-press to open wallpaper picker
 - Ofc Google Lockscreen brand new clocks
 - Much more 
 ```
