@@ -14,4 +14,5 @@
 - Remove IO read_ahead_kb tune to reduce memory pressure
 - Import some powerhint patches to enhance power saving
 - Speed up app cold start by avoiding QoS requests during app launch
+- Add "Files by Google" by default
 ```
