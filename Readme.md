@@ -69,7 +69,8 @@
 - Ofc Google Lockscreen brand new clocks
 - Much more 
 ```
-
+### NOTE: 
+- For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
 
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
