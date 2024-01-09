@@ -1,0 +1,2 @@
+- Initial Build
+- Install viper driver (popup in app will appear) via magisk or kernelSU. Or use dtsxultra audio module.
