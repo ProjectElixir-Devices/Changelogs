@@ -33,3 +33,9 @@
 - Use Dynamic ofox recovery
 - Based on OSS vendor and latest Bool-X kernel
 ```
+
+### Credits
+```
+- Onett Boots for kernel
+- itzdfplayer ✙ (Denys K.) for leica+miui camera
+- My beloved tester's specially BULLA for always quick response and support
