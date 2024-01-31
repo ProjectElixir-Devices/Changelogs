@@ -8,12 +8,11 @@
 
 ## v4.0 - Spacewar Changelogs
 ```
-- Intial Android 14 Release
 - Based on January 2024 Security Patch
-- Improved Brigntness nits
-- More Improvements on Haptics
-- Added touch improvements props
-- Synced suspend properties from raven
+- Updated Blobs from Stock NOS 2.5
+- Updated Camera Blobs from Stock NOS 2.5
+- Fixed all Camera Issues
+- Included NOS Camera from Stock NOS 2.5.2
 - CTS passed by default
 - Some misc improvements and fixes
 
