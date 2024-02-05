@@ -6,20 +6,21 @@
 
 ```
 - Initial A14 build.
-- Update blobs from MIUI V14.0.4.0.TKCMIXM.
+- Updated blobs from MIUI V14.0.4.0.TKCMIXM.
+- Added Moto Dolby Support.
+- Added tweaks for Brightness.
 - Comes with January Security Patch.
-- Comes with Pixel Launcher.
-- Gcam is the default cam.
+- Gcam is the default cam fo now.
 - Synced with the latest source changes.
 - CTS passes by default.
 - NFC works for Global Devices only.
-- Other Misc. fixes and changes.
+- Many More Misc. Fixes and Changes.
 ```
 ### Notes:
 
 ```
-- Do Clean flash only, dirty flash might cause bootloop issues as kernel is changed.
-- Use latest MIUI 14.x firmware of your region.
+- Do Clean flash only, dirty flash might cause bootloop issues as Android Version is Changed.
+- Latest Global firmware shipped by default(You can flash latest available firmware for your region after flashing the ROM).
 ```
 • Refer the flashing guide: [Tap here for Link](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/veux.md)
 
