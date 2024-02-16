@@ -1,4 +1,4 @@
-![Changelog](https://i.imgur.com/MF2K9V2.png)
+![Changelog](https://i.imgur.com/c9asWG8.jpeg)
 
 <br>
 <br>
