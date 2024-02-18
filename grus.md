@@ -2,6 +2,17 @@
 
 ### Project Elixir for Xiaomi MI 9 SE (grus) Changelogs
 
+### v4.1 grus
+```
+- Switch to Twilight Kernel
+- Add Clear Speaker
+- Update UDFPS values to fix fingerprint misalignment
+- Switch to Aperture Camera
+- Switch to Lawnchair
+- Fix deep sleep not working in certain cases
+- Synchronize February security patch
+```
+
 ### v4.0 grus
 ```
 * Update from Android 13 requires CLEAN FLASH *
