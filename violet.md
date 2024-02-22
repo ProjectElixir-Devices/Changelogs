@@ -18,8 +18,8 @@
 - violet: overlay: Add available Color Modes
 - violet: overlay: Update notification icons overlay for Android 14
 - violet: Update Clang version to 18.0.0
-- violet: Latest Xcalibur kernel is included
-- violet: See kernel changes here: https://github.com/Joker-V2/kernel_xiaomi_violet/commits/fourteen
+- violet: Latest perf kernel is included
+- violet: See kernel changes here: https://github.com/crdroidandroid/android_kernel_xiaomi_violet.git
 - violet: Firmware is already included in zip no need to flash additionally
 ```
 
@@ -32,7 +32,7 @@
 - violet: Firmware is already included in zip no need to flash additionally
 ```
 
-### Credits: A very special thanks to Nipin 
+### Credits: A very special thanks to Nipin & Kibria  
 
 ### NOTE: 
 - Install Google Photos and Google apps if you want them i have nuked few of them to keep the zip size small and ofc for Miui camera
