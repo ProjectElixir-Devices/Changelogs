@@ -2,6 +2,22 @@
 
 ### Project Elixir for Redmi Note 9s/9 Pro/Max/10 Lite/Poco M2 Pro (miatoll) Changelogs
 
+### v4.1 miatoll
+
+```
+- Android Security Patch 2024-02
+- Fix fingerprint bugs
+- Added Miui Camera
+- Added Dolby Atmos [EAC | EAC3 | EAC3-joc] codecs support included
+- Switch to OSS audio
+- fixup! Spatial audio for bluetooth headsets (ec3 codec now loads while playing the supported content)
+- fixup! fingerprint indicator sign to the correct location
+- Switch to Pixel Power & Thermal HAL
+- Switch from time daemon to Sony timekeep
+- Upstreamed Forza Kernel v4.14.336 [EOL]
+- miscellaneous optimization
+```
+
 ### v4.0 miatoll
 
 ```
