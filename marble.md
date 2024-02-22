@@ -12,6 +12,7 @@
 ### NOTE:
 
 - Clean flash Required 
+- If facing Sms bug toggle sim on off on every boot and for rooted users flash this [smsfix zip file](https://t.me/chaitanyabuilds/52044)
 - Use latest Regional [Firmware](https://t.me/chaitanyabuilds/52705)
 - Check Flashing Guide [Here](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/marble.md)
 - For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
