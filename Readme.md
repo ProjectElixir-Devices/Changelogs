@@ -1,15 +1,9 @@
 ![Changelog](https://i.imgur.com/c9asWG8.jpeg)
 
-<br>
-<br>
-
 <h3 align="center"> Project Elixir All Version Update Changelog </h3> 
-
-<br>
-<h3 align="center">- Below changes are from Android 14 </h3>
 <br>
 
-### v4.1 | 18 February, 2024
+### v4.1 | 18 February, 2024 | Android 14
 ```
 - Merged latest February Security patch 
 - CTS and play integrity passes and banking apps are working fine 
@@ -35,10 +29,10 @@
 - Much More, Try by yourself
 - Much more 
 ```
-### NOTE: 
-- For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
+> [!Important]
+> - For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
 
-### v4.0 | 04 January, 2024
+### v4.0 | 04 January, 2024 | Android 14
 ```
 - Initial Release of Android 14
 - Merged latest January Security patch
@@ -97,8 +91,8 @@
 - Ofc Google Lockscreen brand new clocks
 - Much more 
 ```
-### NOTE: 
-- For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
+> [!Important]
+> - For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
 
 <br>
 <h3 align="center">- Below changes are from Android 13 </h3> 
