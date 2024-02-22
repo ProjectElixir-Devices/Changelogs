@@ -2,6 +2,9 @@
 
 ### Project Elixir for Redmi Note 7 Pro (violet) Changelogs
 
+> [!Warning]
+> **NOTE: We have Switched Retrofit Dynamic Partitions from v4.1 or above**
+
 ### v4.1 violet [CLEAN Flash]
 ```
 - violet: Switched Retrofit Dynamic Partitions
@@ -23,6 +26,9 @@
 - violet: Firmware is already included in zip no need to flash additionally
 ```
 
+> [!Warning]
+> **NOTE: We have Switched Retrofit Dynamic Partitions from v4.1 or above**
+
 ### v4.0 violet
 ```
 - violet: Initial Release of A14 for violet
@@ -32,7 +38,12 @@
 - violet: Firmware is already included in zip no need to flash additionally
 ```
 
-### Credits: A very special thanks to Nipin & Kibria  
+<br>
 
-### NOTE: 
-- Install Google Photos and Google apps if you want them i have nuked few of them to keep the zip size small and ofc for Miui camera
+> [!Important]
+> **Credits: A very special thanks to Nipin & Kibria**  
+
+<br>
+
+> [!Note] 
+> * Install Google Photos and Google apps if you want them i have nuked few of them to keep the zip size small and ofc for Miui camera
