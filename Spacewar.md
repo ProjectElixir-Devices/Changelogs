@@ -1,18 +1,19 @@
 # **WELCOME TO PROJECT ELIXIR - ANDROID 14.0**
 
-![Changelog](https://i.imgur.com/MF2K9V2.png)
+![Changelog](https://i.imgur.com/c9asWG8.png)
 
 ## **Project Elixir for Nothing Phone (1) Changelogs**
 
 ![Changelog](https://i.imgur.com/MsgqFFz.png)
 
-## v4.0 - Spacewar Changelogs
+## v4.1 - Spacewar Changelogs
 ```
-- Based on January 2024 Security Patch
-- Updated Blobs from Stock NOS 2.5
-- Updated Camera Blobs from Stock NOS 2.5
-- Fixed all Camera Issues
-- Included NOS Camera from Stock NOS 2.5.2
+- Based on February 2024 Security Patch
+- Added Lawnchair 
+- Added OnePlus Dolby Audio
+- Disabled display refresh rate override
+- Removed hardware acceleration audio effect
+- Switched to skiagl threaded
 - CTS passed by default
 - Some misc improvements and fixes
 
