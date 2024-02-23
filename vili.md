@@ -2,10 +2,17 @@
 
 ### Project Elixir for Xiaomi 11T Pro (vili) Changelogs
 
-### v4.0 vili
+### v4.1 vili
 ```
-- vili: Initial Release of A14 for vili
-- vili: Leica Camera added as default camera
-- vili: Lineage kernel is included
+- Fixed Dolby Vision
+- Working OTT
+- Added NotchBarKiller
+- Re-introduce XiaomiParts
+- Moved Dolby Atmos to Sounds Section
+- Addressed some denials
+- Added Charging Control
+- Switched to Vulkan Renderer
+- Enabled Smooth Display
+- Nuked some BT log spams
 
 ### Credits: A very special thanks to Sector 5 Devs team of vili
