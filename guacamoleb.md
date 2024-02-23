@@ -14,7 +14,7 @@
 <br>
 
 > [!Important]
-> - **Credits: A very special thanks to LOS & its developers**
+> - **Credits: A Special Thanks to Shantanu Sarkar and LOS**
 > - The first boot may takes a little longer depending on the device. If it takes longer, you may have missed a step, otherwise feel free to get assistance.  
 
 <br>
