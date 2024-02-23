@@ -2,10 +2,11 @@
 
 ### Project Elixir for Oneplus 6T (fajita) Changelogs
 
-### v4.0 fajita
+### v4.1 fajita
 
 ```
-- Initial A14 buid
+- Feb SPL
+- Some misc changes and improvements
 ```
 ### Notes
 
