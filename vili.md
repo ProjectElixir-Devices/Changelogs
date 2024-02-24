@@ -15,4 +15,7 @@
 - Enabled Smooth Display
 - Nuked some BT log spams
 
+HOTFIX
+- Reverted Leica patches to make it work.
+
 ### Credits: A very special thanks to Sector 5 Devs team of vili
