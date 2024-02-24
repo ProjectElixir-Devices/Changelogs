@@ -14,6 +14,7 @@
 - Switched to Vulkan Renderer
 - Enabled Smooth Display
 - Nuked some BT log spams
+```
 
 HOTFIX
 - Reverted Leica patches to make it work.
