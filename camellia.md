@@ -2,13 +2,10 @@
 
 ### **Project Elixir for Redmi Note 10 5G/10T/11SE (china)/Poco M3 Pro Changelogs**
 
-### v4.0 - Camellia Changelogs
+### v4.1 - Camellia Changelogs
 ```
-- Initial build
-- Based on January 2024 Security Patch
-- Updated IMS Blobs from plato
-- Added thermal profiles
-- Added VoNR support
+- Based on February 2024 Security Patch
+- Added Aperture Camera
 - Some improvements and fixes
 ```
 
@@ -18,7 +15,7 @@
 - Clean Flash Mandatory from A13
 
 ### Special Thanks To:
-- @aayush_2627 And @VipulSharma_007 For Testing
-- @rio113 for Device Tree
-- @noah_allen For Support
+- @fnayush For Test
+- @rio113 For Device Tree
+- @ramshell688 And @noah_allen For Support
 
