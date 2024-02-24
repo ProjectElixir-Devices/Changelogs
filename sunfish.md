@@ -2,6 +2,14 @@
 
 ### Project Elixir for Google Pixel 4a (sunfish) Changelogs
 
+### v4.1 sunfish
+
+```
+- Based on February 2024 Security Patch
+- Fixed video playback issues
+- Other Misc. fixes and changes
+```
+
 ### v4.0 sunfish
 
 ```
