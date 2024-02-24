@@ -2,6 +2,15 @@
 
 ### Project Elixir for XIaomi Mi Note 10 Lite (toco) Changelogs
 
+### v4.1 toco
+
+```
+- CarrierConfigOverlay: Update from sweet V14.0.9.0.TKFMIXM
+- Decommonize ADSP modules
+- Enable SVELTE memory configuration
+- Update blobs from sweet_k6a V816.0.2.0.THGMIXM
+```
+
 ### v4.0 toco
 
 ```
