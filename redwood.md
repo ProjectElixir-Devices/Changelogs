@@ -2,12 +2,14 @@
 
 ### Project Elixir for Redmi Note 12 Pro Speed / POCO X5 Pro 5G (redwood) Changelogs
 
-### v4.0 redwood
+### v4.1 redwood
 
 ```
-- Initial A14 buid
-- Shipped with Stock Prebuilt kernel (5.4.233)  
-- Shipped with oneplus dolby support
+- Synced latest Elixir v4.1 changes
+- February SP merged
+- Aperture Cam included
+- Fixed NFC service
+- Droped oneplus dolby support
 ```
 ### Notes
 
