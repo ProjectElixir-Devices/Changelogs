@@ -50,6 +50,7 @@
 > [!Note]
 > * Installation Guide: [Tap here](https://github.com/ProjectElixir-Devices/Wiki/)
 > * Gapps is already included in zip no need to flash additionally
+> * For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
 > * If you are coming from PORTs then you need to Format Data and flash latest firmware [depending on the device]
 > * If you are coming from Android 12 or 13 to Android 14 then clean flash is compulsory and format data.
 > * If you are encrypted do format Data before flashing build to avoid bugs.
