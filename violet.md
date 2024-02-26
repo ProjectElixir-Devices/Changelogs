@@ -25,7 +25,6 @@
 - violet: See kernel changes here: https://github.com/crdroidandroid/android_kernel_xiaomi_violet.git
 - violet: Firmware is already included in zip no need to flash additionally
 ```
-
 > [!Warning]
 > **NOTE: We have Switched Retrofit Dynamic Partitions from v4.1 or above**
 
@@ -41,9 +40,17 @@
 <br>
 
 > [!Important]
-> **Credits: A very special thanks to Nipin & Kibria**  
+> **Credits: A very special thanks to Nipin, Kibria, Project Elixir and TEAM**
+> * **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
+> * Android 14 Recovery Link : [Tap here for link](https://projectelixiros.com/download)
+> * Any Extra File link if required : [Tap Here for link](https://sourceforge.net/projects/project-elixir/files/fourteen)
 
 <br>
 
-> [!Note] 
-> * Install Google Photos and Google apps if you want them i have nuked few of them to keep the zip size small and ofc for Miui camera
+> [!Note]
+> * Installation Guide: [Tap here](https://github.com/ProjectElixir-Devices/Wiki/)
+> * Gapps is already included in zip no need to flash additionally
+> * If you are coming from PORTs then you need to Format Data and flash latest firmware [depending on the device]
+> * If you are coming from Android 12 or 13 to Android 14 then clean flash is compulsory and format data.
+> * If you are encrypted do format Data before flashing build to avoid bugs.
+> * Install Google Photos and Google apps if you want them i have nuked few of them to keep the zip size small
