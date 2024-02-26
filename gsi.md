@@ -2,8 +2,6 @@
 
 ### Project Elixir for Generic System Image (gsi) Changelogs
 
-### v4.1 Generic System Image (gsi)
-
 ### Initial v4.0 build
 ```
 - May not boot on certain mediateks or exynos at this time, try at your own risk
