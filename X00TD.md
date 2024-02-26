@@ -2,20 +2,17 @@
 
 ### Project Elixir for Asus ZenFone Max Pro M1 Changelogs
 
-### v4.0 - X00TD Changelogs
+### v4.1 - X00TD Changelogs
 ```
-- Intial Android 14 Release
-- Based on Janvary 2024 Security Patch
-- Improved Smoothness
-- Improved Touch Responsiveness
-- Improved QS (Turn Off the Blurs in Display for more smooth)
-- Disabled ahardware buffer
-- Disabled display inline rotation
-- Cleaned up useless log spams
-- Increased SF durations even more
-- Improvements over touch Hal
-- Used HintManager for HWUI
-- Updated dalvik.vm values
+- Based on Febvuary 2024 Security Patch
+- Shipped with Lawnchair
+- Added Parrot GCam as default camera 
+- Disable HWUI's Skia tracing
+- Removed legacy verity support
+- Dropped imsdaemon
+- Fixed qti_power_hal
+- Fixed Fingerprint issues on social media apps
+- Fixed Calling issues
 - CTS passed by default
 - Some misc improvements and fixes
 ```
