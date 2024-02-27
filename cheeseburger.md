@@ -15,8 +15,8 @@
 
 <br>
 
-> [!Important] > **Credits: A very special thanks to Los and its devs and Project Elixir & TEAM**
->
+> [!Important]
+> **Credits: A very special thanks to Los and its devs and Project Elixir & TEAM**
 > - **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
 > - Android 14 Recovery Link : [Tap here for link](https://projectelixiros.com/download)
 > - Any Extra File link if required : [Tap Here for link](https://sourceforge.net/projects/project-elixir/files/fourteen)
@@ -24,7 +24,6 @@
 <br>
 
 > [!Note]
->
 > - Installation Guide: [Tap here](https://projectelixiros.com/download)
 > - Gapps is already included in zip no need to flash additionally
 > - Install Google Photos and Google apps if you want them i have nuked few of them to keep the zip size small
