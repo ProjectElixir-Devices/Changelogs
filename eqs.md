@@ -24,13 +24,13 @@
 > [!Important]
 > **Credits: A very special thanks to Project Elixir & TEAM**
 > * **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
-> * Recovery Link : [Tap here for link](https://t.me/moto_edge_30_ultra_updates/163)
+> * Recovery Link : [Tap here for link](https://projectelixiros.com/device/eqs)
 > * Any Extra File link if required : [Tap Here for link](https://sourceforge.net/projects/project-elixir/files/fourteen)
 
 <br>
 
 > [!Note]
-> * Installation Guide: [Tap here](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/eqs.md)
+> * Installation Guide: [Tap here](https://projectelixiros.com/device/eqs)
 > * Gapps is already included in zip no need to flash additionally
 > * If you are coming from PORTs then you need to Format Data and flash latest A12 firmware 1st
 > * Before flashing the build make sure to check proper installtiontion guide
