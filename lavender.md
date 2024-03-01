@@ -2,7 +2,7 @@
 
 ### Project Elixir for Redmi Note 7 (lavender) Changelogs
 
-### v4.1 violet [CLEAN Flash]
+### v4.1
 ```
 - lavender: Build lineage health HAL
 - lavender: increase 5 GHz network signal tolerance
