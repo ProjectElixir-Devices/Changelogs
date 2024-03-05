@@ -3,8 +3,14 @@
 ### Project Elixir for //Nothing Phone 2 (Pong)// Changelogs
 
 ### v4.1 //Nothing Phone 2 (Pong)//
+
+> [!Important]
+> It is recommended to flash fastboot build to avoid errors.
+
 ```
-- Initial Build
+- HotFix Build.
+- Reverted the SMS Fix since it was causing trouble with UPI Apps.
+- Powershare aka Battery share has been fixed.
 ```
 
 <br>
@@ -23,4 +29,3 @@
 > * For fixing play integrity: Open Updater, click on 'Update PlayIntergrity Fp' then clear play store data and reboot once
 > * If you are coming from PORTs then you need to Format Data and flash latest firmware [depending on the device]
 > * If you are coming from Android 12 or 13 to Android 14 then clean flash is compulsory and format data.
-> * If you are encrypted do format Data before flashing build to avoid bugs.
