@@ -4,8 +4,10 @@
 
 ### v4.1 vayu/bhima
 ```
-- Initial A14 release
-- As promised, released before GTA 6
+- changed to lawnchair launcher
+- fixed device not booting to system
+- fixed system updater strings
+- reduced the size of zip
 
 ```
 
