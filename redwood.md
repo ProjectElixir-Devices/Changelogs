@@ -7,9 +7,12 @@
 ```
 - Synced latest Elixir v4.1 changes
 - February SP merged
-- Aperture Cam included
-- Fixed NFC service
-- Droped oneplus dolby support
+- shipped with Leica camera
+- Added oneplus dolby support
+- Switched to AtomX kernel
+- Drop lawnchair and Switched to pixel launcher
+- Drop FTS screen support
+- Play Integrity passes by default (As of 10/03/2024). 
 ```
 
 <br>
